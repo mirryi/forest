@@ -1,4 +1,11 @@
-\title{Eric Zhao}
-\date{2024-08-05}
+\title{home}
+\author{ericczhao}
 
-\p{Hello. I'm a first year PhD student in Computer Science at [[brownuniversity]], advised by [[nikosvasilakis]] and [[robertlewis]]. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at [[umich]].}
+\p{Hello. I'm a first year PhD student in Computer Science at [[brownuniversity]], advised by [[nikosvasilakis]] and [[robertlewis]]. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at [[umich]], where I worked with [[cyrusomar]] in the [[fplab]].}
+
+\scope{
+  \put\transclude/expanded{false}
+
+  \transclude{zzhaoe-0003}
+  \transclude{zzhaoe-0002}
+}

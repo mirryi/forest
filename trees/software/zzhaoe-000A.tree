@@ -1,0 +1,7 @@
+\title{Hazel}
+\taxon{software}
+\tag{past}
+\meta{external}{https://hazel.org}
+\meta{external}{https://github.com/hazelgrove/hazel}
+
+\blockquote{Hazel is a live functional programming environment that is able to typecheck, manipulate, and even run incomplete programs, i.e. programs with holes. There are no meaningless editor states.}

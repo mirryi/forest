@@ -1,0 +1,7 @@
+\title{shelf}
+\author{ericczhao}
+\taxon{software}
+\tag{archive}
+\meta{external}{https://github.com/mirryi/shelf}
+
+\p{A symlink farm manager in the spirit of GNU stow, meant primarily for dotfiles. Though I still use it for [my own configurations](dotfiles), it's pretty awful, so I wouldn't recommend it to anyone at all. At some point, I'd like to build a robust and intelligent tool for these purposes.}

@@ -1,0 +1,15 @@
+\title{archived software}
+\author{ericczhao}
+\date{2024-08-05}
+
+\put\transclude/metadata{true}
+\put\transclude/expanded{false}
+
+\p{There's some software that I've written over the years that I'd considered 'archived' at this point.}
+
+\query{
+  \query/and{
+    \query/taxon{software}
+    \query/tag{archive}
+  }
+}

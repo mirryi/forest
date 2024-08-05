@@ -1,0 +1,10 @@
+\title{publications}
+\author{ericczhao}
+\date{2024-08-05}
+
+\query{
+  \query/and{
+    \query/taxon{reference}
+    \query/author{ericczhao}
+  }
+}

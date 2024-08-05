@@ -1,0 +1,8 @@
+\title{Total Type Error Localization and Recovery with Holes (Agda)}
+\author{ericczhao}
+\taxon{software}
+\tag{past}
+
+\meta{external}{https://github.com/hazelgrove/error-localization-agda}
+
+\p{An Agda mechanization of the marked lambda calculus, a judgmental framework for bidirectional type error localization and recovery described in [[zhao-et-al-2024]].}
