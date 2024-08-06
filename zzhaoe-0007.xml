@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>422</fr:anchor><fr:addr
+type="user">zzhaoe-0007</fr:addr><fr:route>zzhaoe-0007.xml</fr:route><fr:title
+text="Dotfiles">Dotfiles</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://github.com/mirryi/dotfiles</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree>
