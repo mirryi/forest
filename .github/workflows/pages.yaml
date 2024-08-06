@@ -1,0 +1,33 @@
+---
+name: pages
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: install ocaml
+        uses: ocaml/setup-ocaml@v3
+        with:
+          ocaml-compiler: 5
+
+      - name: install dependencies
+        run: opam install . --deps-only
+
+      - name: build
+        run: opam exec -- forester build
+
+      - name: deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: output
+          branch: pages
