@@ -5,8 +5,6 @@
 \p{Software I worked on in the past.}
 
 \query{
-  \query/and{
-    \query/taxon{software}
-    \query/tag{past}
-  }
+  \open\query
+  \isect{\taxon{software}}{\tag{past}}
 }

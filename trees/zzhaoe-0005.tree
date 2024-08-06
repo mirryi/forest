@@ -5,8 +5,6 @@
 \p{Software today and now! (varying degrees of contribution and triviality).}
 
 \query{
-  \query/and{
-    \query/taxon{software}
-    \query/tag{ongoing}
-  }
+  \open\query
+  \isect{\taxon{software}}{\tag{ongoing}}
 }

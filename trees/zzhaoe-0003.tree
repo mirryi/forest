@@ -3,8 +3,6 @@
 \date{2024-08-05}
 
 \query{
-  \query/and{
-    \query/taxon{reference}
-    \query/author{ericczhao}
-  }
+  \open\query
+  \isect{\taxon{reference}}{\author{ericczhao}}
 }

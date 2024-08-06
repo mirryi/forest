@@ -8,8 +8,6 @@
 \p{There's some software that I've written over the years that I'd considered 'archived' at this point.}
 
 \query{
-  \query/and{
-    \query/taxon{software}
-    \query/tag{archive}
-  }
+  \open\query
+  \isect{\taxon{software}}{\tag{archive}}
 }
