@@ -5,6 +5,8 @@
 
 \p{I am also supported by the NSF Graduate Research Fellowship.}
 
+\p{This is my [forest](https://www.jonmsterling.com/jms-005P.xml).}
+
 \scope{
   \put\transclude/expanded{false}
 
