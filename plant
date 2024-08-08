@@ -1,0 +1,172 @@
+#!/bin/bash
+set -e
+
+_slug="zzhaoe"
+_me="ericczhao"
+
+_trees=trees
+_people="$_trees/people"
+_blog="$_trees/blog"
+_references="$_trees/references"
+
+_usage_top="""usage: $0 <operation> [...]
+operations:
+    $0 new <kind>
+"""
+
+_usage_new="""usage: $0 new <kind> [...]
+kinds:
+    $0 new person <id> <name>
+    $0 new blog   <title>
+    $0 new ref    <id>
+"""
+
+_exit_usage_top() {
+	>&2 echo "$_usage_top"
+	exit 1
+}
+
+_exit_usage_new() {
+	>&2 echo "$_usage_new"
+	exit 1
+}
+
+_ask_confirm() {
+	local message="$1"
+	while true; do
+		read -p "$message (y/n) " yn
+		case $yn in
+		[Yy]*)
+			echo "y"
+			break
+			;;
+		[Nn]*)
+			echo "n"
+			break
+			;;
+		*) ;;
+		esac
+	done
+}
+
+# _ask_confirm_plant <tree>
+_ask_confirm_plant() {
+	local path="$1"
+
+	local cont="$(_ask_confirm "plant $path?")"
+	case "$cont" in
+	y) ;;
+	*)
+		>&2 echo "nothing planted"
+		exit 1
+		;;
+	esac
+}
+
+# _ask_confirm_edit <tree>
+_ask_confirm_edit() {
+	local path="$1"
+
+	local cont="$(_ask_confirm "edit now?")"
+	case "$cont" in
+	y)
+		"$EDITOR" "$path"
+		;;
+	*)
+		exit 0
+		;;
+	esac
+}
+
+# _new_person <id> <name>
+_new_person() {
+	if [ "$#" -ne 2 ]; then _exit_usage_new; fi
+	local id="$1"
+	local name="$2"
+	local path="$_people/$id.tree"
+
+	# check that the id isn't duplicate
+	if [ -f "$path" ]; then
+		>&2 echo "person already exists: $path"
+		exit 1
+	fi
+
+	_ask_confirm_plant "$path"
+
+	# fill contents of tree
+	echo """\title{$name}
+\taxon{person}
+  """ >"$path"
+
+	_ask_confirm_edit "$path"
+}
+
+# _new_blog <title>
+_new_blog() {
+	if [ "$#" -ne 1 ]; then _exit_usage_new; fi
+	local title="$1"
+
+	# invoke forester to create new tree
+	local path=$(forester new --dest="$_blog" --prefix="$_slug")
+	# prepend other metadata
+	echo """\title{$title}
+\author{$_me}
+\taxon{blog}""" | cat - "$path" | tee "$path" >/dev/null
+
+	>&2 echo "planted $path"
+
+	_ask_confirm_edit "$path"
+}
+
+# _new_ref <id>
+_new_ref() {
+	if [ "$#" -ne 1 ]; then _exit_usage_new; fi
+	local id="$1"
+	local path="$_references/$id.tree"
+
+	# check that the id isn't duplicate
+	if [ -f "$path" ]; then
+		>&2 echo "reference already exists: $path"
+		exit 1
+	fi
+
+	_ask_confirm_plant "$path"
+
+	# fill contents of tree
+	echo """\title{}
+\author{}
+\taxon{reference}
+\date{}""" >"$path"
+
+	_ask_confirm_edit "$path"
+}
+
+_new() {
+	case $1 in
+	person)
+		_new_person "${@:2}"
+		;;
+	blog)
+		_new_blog "${@:2}"
+		;;
+	ref)
+		_new_ref "${@:2}"
+		;;
+	*)
+		_exit_usage_new
+		;;
+	esac
+}
+
+# enter switch
+eval "$(opam env)"
+
+case $1 in
+new)
+	_new "${@:2}"
+	exit 0
+	;;
+*)
+	_exit_usage_top
+	;;
+esac
