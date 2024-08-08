@@ -1,0 +1,16 @@
+\title{舟を編む}
+\date{2015}
+\taxon{reference}
+\author{shionmiura}
+
+\meta{bibtex}{\startverb
+  @book{miura_2015,
+    address={東京},
+    title={舟を編む},
+    ISBN={978-4-334-76880-5},
+    publisher={光文社},
+    author={三浦しをん},
+    year={2015},
+    language={jpn}
+  }
+\stopverb}
