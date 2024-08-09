@@ -1,0 +1,19 @@
+\title{The Failure of Orpheus}
+\taxon{reference}
+\author{johnheath}
+\date{1994}
+
+\meta{doi}{10.2307/284290}
+\meta{bibtex}{\startverb
+@article{heath_1994,
+  title={The Failure of Orpheus},
+  volume={124},
+  issn={0360-5949},
+  doi={10.2307/284290},
+  journal={Transactions of the American Philological Association (1974-)},
+  publisher={[Johns Hopkins University Press, American Philological Association]},
+  author={Heath, John},
+  year={1994},
+  pages={163–196}
+}
+\stopverb}

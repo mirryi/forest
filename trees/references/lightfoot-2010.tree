@@ -1,0 +1,19 @@
+\title{Fragments}
+\taxon{reference}
+\author{hermesianax}
+\author{jllightfoot}
+\date{2010}
+
+\meta{doi}{10.4159/DLCL.hermesianax_colophon-fragments.2010}
+\meta{external}{http://www.loebclassics.com/view/hermesianax_colophon-fragments/2010/work.xml}
+
+\meta{bibtex}{\startverb
+@misc{lightfoot_2010,
+  title={Fragments},
+  url={http://www.loebclassics.com/view/hermesianax_colophon-fragments/2010/work.xml},
+  doi={10.4159/DLCL.hermesianax_colophon-fragments.2010},
+  publisher={Harvard University Press},
+  author={Hermesianax and Lightfoot, J. L.},
+  year={2010}
+}
+\stopverb}
