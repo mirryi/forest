@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>483</fr:anchor><fr:addr
+type="user">hermesianax</fr:addr><fr:route>hermesianax.xml</fr:route><fr:title
+text="Hermesianax">Hermesianax</fr:title><fr:taxon>Person</fr:taxon><fr:authors /></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Contributions">Contributions</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>484</fr:anchor><fr:addr
+type="user">lightfoot-2010</fr:addr><fr:route>lightfoot-2010.xml</fr:route><fr:title
+text="Fragments">Fragments</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2010</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="hermesianax.xml"
+addr="hermesianax"
+title="Hermesianax">Hermesianax</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="jllightfoot.xml"
+addr="jllightfoot"
+title="J.L. Lightfoot">J.L. Lightfoot</fr:link></fr:author></fr:authors><fr:meta
+name="doi">10.4159/DLCL.hermesianax_colophon-fragments.2010</fr:meta><fr:meta
+name="external">http://www.loebclassics.com/view/hermesianax_colophon-fragments/2010/work.xml</fr:meta><fr:meta
+name="bibtex"><![CDATA[@misc{lightfoot_2010,
+  title={Fragments},
+  url={http://www.loebclassics.com/view/hermesianax_colophon-fragments/2010/work.xml},
+  doi={10.4159/DLCL.hermesianax_colophon-fragments.2010},
+  publisher={Harvard University Press},
+  author={Hermesianax and Lightfoot, J. L.},
+  year={2010}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
