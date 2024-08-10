@@ -1,6 +1,7 @@
 \title{software}
 \author{ericczhao}
 
+\put\transclude/numbered{false}
 \transclude{zzhaoe-0005}
 \transclude{zzhaoe-0006}
 \transclude{zzhaoe-0004}

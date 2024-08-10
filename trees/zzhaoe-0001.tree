@@ -1,16 +1,14 @@
-\title{home}
-\author{ericczhao}
+\title{about}
+\date{2024-08-10}
 
-\p{Hello. I'm an incoming first year PhD student in Computer Science at [[brownuniversity]], advised by [[nikosvasilakis]] and [[robertlewis]]. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at [[umich]], where I worked with [[cyrusomar]] in the [[fplab]].}
+\p{I'm an incoming first year PhD student in Computer Science at [[brownuniversity]], advised by [[nikosvasilakis]] and [[robertlewis]]. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at [[umich]], where I worked with [[cyrusomar]] in the [[fplab]].}
 
-\p{I am also supported by the NSF Graduate Research Fellowship.}
-
-\p{This is my [forest](https://www.jonmsterling.com/jms-005P.xml).}
+\p{I'm also supported by the NSF Graduate Research Fellowship.}
 
 \scope{
-  \put\transclude/expanded{false}
-
-  \transclude{zzhaoe-0003}
-  \transclude{zzhaoe-0002}
-  \transclude{zzhaoe-000D}
+  \put\transclude/toc{false}
+  \subtree{
+    \title{email}
+    \p{Feel free to contact me at zzhaoe at brown dot edu.}
+  }
 }
