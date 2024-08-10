@@ -1,0 +1,19 @@
+\title{Bosworth Toller's Anglo-Saxon Dictionary}
+\taxon{reference}
+\author{josephbosworth}
+\date{2014}
+
+\meta{external}{https://bosworthtoller.com}
+\meta{bibtex}{\startverb
+@misc{bosworth_2014,
+  address={Prague},
+  title={Bosworth Toller's Anglo-Saxon Dictionary},
+  url={https://bosworthtoller.com},
+  note={Original Dictionary Title: An Anglo-Saxon Dictionary, Based on the Manuscript Collections of the Late Joseph Bosworth, D.D., F.R.S. Original Place: London},
+  publisher={Faculty of Arts, Charles University},
+  author={Bosworth, Joseph},
+  editor={Toller, Thomas Northcote and Sean, Christ and Tichy, Ondřej},
+  year={2014},
+  language={en}
+}
+\stopverb}

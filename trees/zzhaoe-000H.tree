@@ -1,0 +1,10 @@
+\title{preamble}
+\date{2024-08-10}
+
+\xmlns:html{http://www.w3.org/1999/xhtml}
+
+\def\br{
+  \<html:br>{}
+}
+
+\p{This tree defines some basic macros.}

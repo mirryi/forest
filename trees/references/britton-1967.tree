@@ -1,0 +1,18 @@
+\title{“Bealuwara Weorc” in the “Dream of the Rood”}
+\taxon{reference}
+\author{gcbritton}
+\date{1967}
+
+\meta{bibtex}{\startverb
+@article{britton_1967,
+  title={“Bealuwara Weorc” in the “Dream of the Rood”},
+  volume={68},
+  issn={0028-3754},
+  number={3},
+  journal={Neuphilologische Mitteilungen},
+  publisher={Modern Language Society},
+  author={Britton, G. C.},
+  year={1967},
+  pages={273–276}
+}
+\stopverb}
