@@ -7,9 +7,9 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>315</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>630</fr:anchor><fr:addr
 type="user">zzhaoe-0003</fr:addr><fr:route>zzhaoe-0003.xml</fr:route><fr:title
-text="Publications">Publications</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Publications">Publications</fr:title><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
@@ -20,7 +20,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>273</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr
 type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -75,13 +75,24 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="true"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>317</fr:anchor><fr:addr
-type="user">zzhaoe-0001</fr:addr><fr:route>index.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>632</fr:anchor><fr:addr
+type="user">zzhaoe-0000</fr:addr><fr:route>index.xml</fr:route><fr:title
 text="Home">Home</fr:title><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Hello. I'm an incoming first year PhD student in Computer Science at <fr:link
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Hello! This is my <fr:link
+type="external"
+href="https://www.jonmsterling.com/jms-005P.xml">forest</fr:link>.</fr:p><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr
+type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
+text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm an incoming first year PhD student in Computer Science at <fr:link
 type="local"
 href="brownuniversity.xml"
 addr="brownuniversity"
@@ -105,21 +116,30 @@ title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
 type="local"
 href="fplab.xml"
 addr="fplab"
-title="Future of Programming Lab">Future of Programming Lab</fr:link>.</fr:p><fr:p>I am also supported by the NSF Graduate Research Fellowship.</fr:p><fr:p>This is my <fr:link
-type="external"
-href="https://www.jonmsterling.com/jms-005P.xml">forest</fr:link>.</fr:p>
+title="Future of Programming Lab">Future of Programming Lab</fr:link>.</fr:p><fr:p>I'm also supported by the NSF Graduate Research Fellowship.</fr:p>
   
-
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>241</fr:anchor><fr:addr
+type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
+text="Email">Email</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>zzhaoe [at] brown [dot] edu</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
   <fr:tree
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>271</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr
 type="user">zzhaoe-0003</fr:addr><fr:route>zzhaoe-0003.xml</fr:route><fr:title
-text="Publications">Publications</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Publications">Publications</fr:title><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
@@ -130,7 +150,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>273</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr
 type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -173,27 +193,27 @@ addr="zzhaoe-000A"
 title="Hazel">Hazel</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
   <fr:tree
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>280</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>254</fr:anchor><fr:addr
 type="user">zzhaoe-0002</fr:addr><fr:route>zzhaoe-0002.xml</fr:route><fr:title
-text="Software">Software</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Software">Software</fr:title><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
 title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>282</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>256</fr:anchor><fr:addr
 type="user">zzhaoe-0005</fr:addr><fr:route>zzhaoe-0005.xml</fr:route><fr:title
-text="Ongoing software">Ongoing software</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Ongoing software">Ongoing software</fr:title><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
@@ -204,7 +224,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>284</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:addr
 type="user">zzhaoe-0007</fr:addr><fr:route>zzhaoe-0007.xml</fr:route><fr:title
 text="Dotfiles">Dotfiles</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -213,14 +233,14 @@ addr="ericczhao"
 title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
 name="external">https://github.com/mirryi/dotfiles</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>286</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>260</fr:anchor><fr:addr
 type="user">zzhaoe-0006</fr:addr><fr:route>zzhaoe-0006.xml</fr:route><fr:title
-text="Past software">Past software</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Past software">Past software</fr:title><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
@@ -231,7 +251,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>288</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:addr
 type="user">zzhaoe-000A</fr:addr><fr:route>zzhaoe-000A.xml</fr:route><fr:title
 text="Hazel">Hazel</fr:title><fr:taxon>Software</fr:taxon><fr:authors /><fr:meta
 name="external">https://hazel.org</fr:meta><fr:meta
@@ -242,7 +262,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>289</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>263</fr:anchor><fr:addr
 type="user">zzhaoe-000B</fr:addr><fr:route>zzhaoe-000B.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes (Agda)">Total Type Error Localization and Recovery with Holes (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -255,14 +275,14 @@ href="zhao-et-al-2024.xml"
 addr="zhao-et-al-2024"
 title="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>291</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>265</fr:anchor><fr:addr
 type="user">zzhaoe-0004</fr:addr><fr:route>zzhaoe-0004.xml</fr:route><fr:title
-text="Archived software">Archived software</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Archived software">Archived software</fr:title><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
@@ -273,7 +293,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>293</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>267</fr:anchor><fr:addr
 type="user">zzhaoe-0008</fr:addr><fr:route>zzhaoe-0008.xml</fr:route><fr:title
 text="Wikichan">Wikichan</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -287,7 +307,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>295</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>269</fr:anchor><fr:addr
 type="user">zzhaoe-0009</fr:addr><fr:route>zzhaoe-0009.xml</fr:route><fr:title
 text="Shelf">Shelf</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -301,35 +321,52 @@ addr="zzhaoe-0007"
 title="Dotfiles">my own configurations</fr:link>, it's pretty awful, so I wouldn't recommend it to anyone at all. At some point, I'd like to build a robust and intelligent tool for these purposes.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
   <fr:tree
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>297</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>271</fr:anchor><fr:addr
 type="user">zzhaoe-000D</fr:addr><fr:route>zzhaoe-000D.xml</fr:route><fr:title
-text="Thoughts">Thoughts</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>7</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+text="Thoughts">Thoughts</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>263</fr:anchor><fr:addr
-type="user">zzhaoe-000F</fr:addr><fr:route>zzhaoe-000F.xml</fr:route><fr:title
-text="On the original Orpheus">On the original Orpheus</fr:title><fr:taxon>Blog</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:addr
+type="user">zzhaoe-000G</fr:addr><fr:route>zzhaoe-000G.xml</fr:route><fr:title
+text="On bealuwara weorc">On <fr:em>bealuwara weorc</fr:em></fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2022</fr:year><fr:month>12</fr:month><fr:day>1</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The tale of Orpheus and Eurydice as now popularly known ends in tragedy. The bereaved Orpheus descends into the underworld, harp or lyre in hand; there, he plays music so sweet as to move Charon, and Cerberus, and even Hades, that the king of the underworld grants him to take Eurydice back into the realm of the living, with the condition that he must not look backwards whilst they're still in the nether's darkness. In some versions, as in <fr:link
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>In lines 78-80a of the "<fr:link
 type="local"
-href="virgil.xml"
-addr="virgil"
-title="Virgil">Virgil</fr:link>'s <fr:em>Gregorics</fr:em> (first century BCE), he forgets this charge; approaching the light of the living world, the joy-enraptured Orpheus looks to share his delight with Eurydice---and she's taken away from him. Other accounts, as in <fr:link
+href="dreamoftherood.xml"
+addr="dreamoftherood"
+title="Dream of the Rood">Dream of the Rood</fr:link>":</fr:p><fr:blockquote>Nu ðu miht gehyran, hæleð min se leofa, þæt ic bealuwara weorc gebiden hæbbe, sarra sorga.</fr:blockquote><fr:p>Roughly modernised, the Cross speaks:</fr:p><fr:blockquote>Now you may hear, my dear warrior, that I have endured the works of wicked men, grevious sorrows.</fr:blockquote><fr:p>Here, the neuter acc. <fr:em>weorc</fr:em> is roughly Mdn.E. "work", and <fr:em>bealuwara</fr:em> (perhaps the gen. pl. of an unrecorded <fr:em>bealuware</fr:em>, a compound of <fr:em>bealu</fr:em>, "baleful", "wicked", and <fr:em>wara</fr:em>, "inhabitant") has been translated variously as "miscreants", "wicked men". <fr:link
 type="local"
-href="ovid.xml"
-addr="ovid"
-title="Ovid">Ovid</fr:link>'s <fr:em>Metamorphoses X</fr:em> (first century CE), suggest that he's possessed by a fear that the gods have tricked him. Either way, the famous musician fails and returns alone, twice-robbed.</fr:p><fr:p>Later, it seems that medieval authors began to conflate the character of Orpheus with the figure of Christ, perhaps in a reinterpretation of the katabasis as the Harrowing of Hell. A fourteenth century French author writes of the tale in <fr:em>Ovide Moralisé</fr:em> that "by Orpheus and by his harp we must understand the person of our Lord Jesus Christ... who played his harp so melodiously that he drew from Hell the sainted souls of the Holy Fathers who had descended there because of the sins of Adam and Eve" (<fr:link
+href="bosworth-2014.xml"
+addr="bosworth-2014"
+title="Bosworth Toller's Anglo-Saxon Dictionary">Bosworth Toller's</fr:link> has "baleful inhabitants", "criminals". But <fr:link
+type="local"
+href="britton-1967.xml"
+addr="britton-1967"
+title="“Bealuwara Weorc” in the “Dream of the Rood”">apparently</fr:link> this bit has caused philologists a lot of trouble.</fr:p><fr:p>Interestingly, it's tempting to compare also "Balrog", which in Sindarin comes from <fr:em>BAL</fr:em> ("power") + <fr:em>raug/rog</fr:em> ("demon"), but has echoes of <fr:em>bealu-wearg</fr:em> ("outlaw", "wolf") or <fr:em>bealu-broga</fr:em> ("monster", "terror").</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>274</fr:anchor><fr:addr
+type="user">zzhaoe-000F</fr:addr><fr:route>zzhaoe-000F.xml</fr:route><fr:title
+text="On the original Orpheus">On the original Orpheus</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The tale of Orpheus and Eurydice as now popularly known ends in tragedy. The bereaved Orpheus descends into the underworld, harp or lyre in hand; there, he plays music so sweet as to move Charon, and Cerberus, and even Hades, that the king of the underworld grants him to take Eurydice back into the realm of the living, with the condition that he must not look backwards whilst they're still in the nether's darkness. In some versions, as in Virgil's <fr:em>Gregorics</fr:em> (first century BCE), he forgets this charge; approaching the light of the living world, the joy-enraptured Orpheus looks to share his delight with Eurydice---and she's taken away from him. Other accounts, as in Ovid's <fr:em>Metamorphoses X</fr:em> (first century CE), suggest that he's possessed by a fear that the gods have tricked him. Either way, the famous musician fails and returns alone, twice-robbed.</fr:p><fr:p>Later, it seems that medieval authors began to conflate the character of Orpheus with the figure of Christ, perhaps in a reinterpretation of the katabasis as the Harrowing of Hell. A fourteenth century French author writes of the tale in <fr:em>Ovide Moralisé</fr:em> that "by Orpheus and by his harp we must understand the person of our Lord Jesus Christ... who played his harp so melodiously that he drew from Hell the sainted souls of the Holy Fathers who had descended there because of the sins of Adam and Eve" (<fr:link
 type="local"
 href="friedman-1965.xml"
 addr="friedman-1965"
@@ -381,27 +418,15 @@ title="Quis Tantus Furor? The Servian Question, Gallus, and Orpheus in Georgics 
 type="local"
 href="kylemerkley.xml"
 addr="kylemerkley"
-title="Kyle Merkley">Kyle Merkley</fr:link>.</fr:p><fr:p>It seems that the earliest allusion cited by scholars is from <fr:em>Alcestis</fr:em>, a fifth century BCE tragedy by <fr:link
-type="local"
-href="euripides.xml"
-addr="euripides"
-title="Euripides">Euripides</fr:link>. In Admetus's lamentation over Alcestis, who willing sacrificed her life for him, he bemoans:</fr:p><fr:blockquote>If I had the words and music of Orpheus to charm Persephone or her spouse with my songs and take you from Hades, I would have made the descent. Then neither Pluto's hound nor soul---conduction Charon at his oar would have stopped me until I set you alive once more in the light of day. (<fr:link
+title="Kyle Merkley">Kyle Merkley</fr:link>.</fr:p><fr:p>It seems that the earliest allusion cited by scholars is from <fr:em>Alcestis</fr:em>, a fifth century BCE tragedy by Euripides. In Admetus's lamentation over Alcestis, who willing sacrificed her life for him, he bemoans:</fr:p><fr:blockquote>If I had the words and music of Orpheus to charm Persephone or her spouse with my songs and take you from Hades, I would have made the descent. Then neither Pluto's hound nor soul---conduction Charon at his oar would have stopped me until I set you alive once more in the light of day. (<fr:link
 type="local"
 href="heath-1994.xml"
 addr="heath-1994"
-title="The Failure of Orpheus">Heath 1994</fr:link>, 169)</fr:blockquote><fr:p>The argument is thus: these lines wouldn't make much sense---be absurd, even---if Orpheus was unsuccessful. Next, in the fourth century, <fr:link
-type="local"
-href="plato.xml"
-addr="plato"
-title="Plato">Plato</fr:link> writing as Phaedrus in <fr:em>Symposium</fr:em>, declares:</fr:p><fr:blockquote>But Orpheus, the son of Oeagrus, the gods sent back from Hades a failure. They showed him a mere phantom of the wife for whom he made the journey. They did not given him the real thing because he seemed to be a coward, seeing that he was a harp-player and did not have the heart to die for his love as Alcestis had. Instead he schemed to enter Hades while still alive, and so for this reason the gods punished him and arranged for his death to come at the hands of women. (<fr:link
+title="The Failure of Orpheus">Heath 1994</fr:link>, 169)</fr:blockquote><fr:p>The argument is thus: these lines wouldn't make much sense---be absurd, even---if Orpheus was unsuccessful. Next, in the fourth century, Plato writing as Phaedrus in <fr:em>Symposium</fr:em>, declares:</fr:p><fr:blockquote>But Orpheus, the son of Oeagrus, the gods sent back from Hades a failure. They showed him a mere phantom of the wife for whom he made the journey. They did not given him the real thing because he seemed to be a coward, seeing that he was a harp-player and did not have the heart to die for his love as Alcestis had. Instead he schemed to enter Hades while still alive, and so for this reason the gods punished him and arranged for his death to come at the hands of women. (<fr:link
 type="local"
 href="heath-1994.xml"
 addr="heath-1994"
-title="The Failure of Orpheus">Heath 1994</fr:link>, 178)</fr:blockquote><fr:p>Phaedrus praises Alcestis's self-sacrifice in love, so powerful is true love that leads to noble deeds. Orpheus, in contrast, is punished by the gods for his weakness, his failure to demonstrate true love: instead of dying for his wife, he tries to retrieve her from the underworld whilst still alive; in response, the gods supply with him with a mere ghost. But critics assert that nevertheless Orpheus is clearly portrayed as succeeding and that <fr:link
-type="local"
-href="plato.xml"
-addr="plato"
-title="Plato">Plato</fr:link>, in order to serve his narrative, is merely warping the returned Eurydice into a ghost.</fr:p><fr:p>Also from the fourth century, the elegiac Hermesianax writes that "with song he won the underworld’s great lords, for Agriope to regain the gentle breath of life" (<fr:link
+title="The Failure of Orpheus">Heath 1994</fr:link>, 178)</fr:blockquote><fr:p>Phaedrus praises Alcestis's self-sacrifice in love, so powerful is true love that leads to noble deeds. Orpheus, in contrast, is punished by the gods for his weakness, his failure to demonstrate true love: instead of dying for his wife, he tries to retrieve her from the underworld whilst still alive; in response, the gods supply with him with a mere ghost. But critics assert that nevertheless Orpheus is clearly portrayed as succeeding and that Plato, in order to serve his narrative, is merely warping the returned Eurydice into a ghost.</fr:p><fr:p>Also from the fourth century, the elegiac Hermesianax writes that "with song he won the underworld’s great lords, for Agriope to regain the gentle breath of life" (<fr:link
 type="local"
 href="lightfoot-2010.xml"
 addr="lightfoot-2010"
@@ -448,9 +473,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>265</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>276</fr:anchor><fr:addr
 type="user">zzhaoe-000C</fr:addr><fr:route>zzhaoe-000C.xml</fr:route><fr:title
-text="「舟を編む」">「舟を編む」</fr:title><fr:taxon>Blog</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="「舟を編む」">「舟を編む」</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
@@ -469,13 +494,13 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>267</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>278</fr:anchor><fr:addr
 type="user">zzhaoe-000E</fr:addr><fr:route>zzhaoe-000E.xml</fr:route><fr:title
-text="About The Worm Ouroboros">About <fr:em><fr:link
+text="On The Worm Ouroboros">On <fr:em><fr:link
 type="local"
 href="eddison-1971.xml"
 addr="eddison-1971"
-title="The Worm Ouroboros">The Worm Ouroboros</fr:link></fr:em></fr:title><fr:taxon>Blog</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+title="The Worm Ouroboros">The Worm Ouroboros</fr:link></fr:em></fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
@@ -492,4 +517,176 @@ type="local"
 href="ereddison.xml"
 addr="ereddison"
 title="E.R. Eddison">Eddison</fr:link> admired "arrogance and cruelty."</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
+  <fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>280</fr:anchor><fr:addr
+type="user">zzhaoe-000J</fr:addr><fr:route>zzhaoe-000J.xml</fr:route><fr:title
+text="Writing">Writing</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>281</fr:anchor><fr:addr
+type="user">zzhaoe-000K</fr:addr><fr:route>zzhaoe-000K.xml</fr:route><fr:title
+text="Wrath">Wrath</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:blockquote>Upon God my Wrath was wholly bent 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  A fury that from Eden high He did 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Men cast and took undue what was 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Our Own, yet mere Knowing we had durst. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  'Twas Doom with which He shackled us, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  The Doom of men, the Doom of death 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Whilst sits He on a See on High 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  And beholds us in our withering. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Of Gift would those in folly speak 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Their Doom, in joy tholing their fetters. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Sought I the means to quicken anew, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  To rout this curse by might and main 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  And make the Earth He yields not, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  So far I went to lonesome place 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  And deep to forge new whispers true, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  The lore to-day and Word to come. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  By craft arisen to meet His Face--- 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  To pluck mine own Fate from Despot fist! 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  A Wrastle for ages untold, sinew 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Upon sinew, and grasped I the winning 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  At hand, and lo! How grand and vast 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  It was not, but horrid indeed, all 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  The Same, for yet I was, and Falling 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  To grey below and dashed upon the Weight 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Of Doom, His now lifted, but all my Own. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Yet Time was not come, nor would it now, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  For seen I had death under Conquest, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  But there is none at all over Death.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>310</fr:anchor><fr:addr
+type="user">zzhaoe-000I</fr:addr><fr:route>zzhaoe-000I.xml</fr:route><fr:title
+text="The Wise One of the Mud">The Wise One of the Mud</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:blockquote>What little knew those men in dark 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  atread upon that grove bespoke. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  They hearkened not the eldest lark 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  yet sentinel for broken yoke: 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  incarnate fen, though incorporeal, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  soft the firm made stifling mire 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  writhing drew a hymn primordial 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  groaning past in willow shire.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

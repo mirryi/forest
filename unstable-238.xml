@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>326</fr:anchor><fr:addr
+type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
+text="About › email"><fr:link
+type="local"
+href="zzhaoe-0001.xml"
+addr="zzhaoe-0001"
+title="About">About</fr:link> › email</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>zzhaoe [at] brown [dot] edu</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>327</fr:anchor><fr:addr
+type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
+text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm an incoming first year PhD student in Computer Science at <fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link>, advised by <fr:link
+type="local"
+href="nikosvasilakis.xml"
+addr="nikosvasilakis"
+title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
+type="local"
+href="robertlewis.xml"
+addr="robertlewis"
+title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
+type="local"
+href="fplab.xml"
+addr="fplab"
+title="Future of Programming Lab">Future of Programming Lab</fr:link>.</fr:p><fr:p>I'm also supported by the NSF Graduate Research Fellowship.</fr:p>
+  
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>241</fr:anchor><fr:addr
+type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
+text="Email">Email</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>zzhaoe [at] brown [dot] edu</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

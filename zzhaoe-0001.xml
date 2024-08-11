@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>240</fr:anchor><fr:addr
+type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
+text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm an incoming first year PhD student in Computer Science at <fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link>, advised by <fr:link
+type="local"
+href="nikosvasilakis.xml"
+addr="nikosvasilakis"
+title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
+type="local"
+href="robertlewis.xml"
+addr="robertlewis"
+title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
+type="local"
+href="fplab.xml"
+addr="fplab"
+title="Future of Programming Lab">Future of Programming Lab</fr:link>.</fr:p><fr:p>I'm also supported by the NSF Graduate Research Fellowship.</fr:p>
+  
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>241</fr:anchor><fr:addr
+type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
+text="Email">Email</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>zzhaoe [at] brown [dot] edu</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="true"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>242</fr:anchor><fr:addr
+type="user">zzhaoe-0000</fr:addr><fr:route>index.xml</fr:route><fr:title
+text="Home">Home</fr:title><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Hello! This is my <fr:link
+type="external"
+href="https://www.jonmsterling.com/jms-005P.xml">forest</fr:link>.</fr:p><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr
+type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
+text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm an incoming first year PhD student in Computer Science at <fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link>, advised by <fr:link
+type="local"
+href="nikosvasilakis.xml"
+addr="nikosvasilakis"
+title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
+type="local"
+href="robertlewis.xml"
+addr="robertlewis"
+title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
+type="local"
+href="fplab.xml"
+addr="fplab"
+title="Future of Programming Lab">Future of Programming Lab</fr:link>.</fr:p><fr:p>I'm also supported by the NSF Graduate Research Fellowship.</fr:p>
+  
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>241</fr:anchor><fr:addr
+type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
+text="Email">Email</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>zzhaoe [at] brown [dot] edu</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+  <fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr
+type="user">zzhaoe-0003</fr:addr><fr:route>zzhaoe-0003.xml</fr:route><fr:title
+text="Publications">Publications</fr:title><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr
+type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
+text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="raefmaroof.xml"
+addr="raefmaroof"
+title="Raef Maroof">Raef Maroof</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="ananddukkipati.xml"
+addr="ananddukkipati"
+title="Anand Dukkipati">Anand Dukkipati</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="andrewblinn.xml"
+addr="andrewblinn"
+title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="zhiyipan.xml"
+addr="zhiyipan"
+title="Zhiyi Pan">Zhiyi Pan</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors><fr:meta
+name="doi">10.1145/3632910</fr:meta><fr:meta
+name="venue"><fr:link
+type="local"
+href="popl-2024.xml"
+addr="popl-2024"
+title="POPL 2024">POPL 2024</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Type systems typically only define the conditions under which an expression is well-typed, leaving ill-typed expressions formally meaningless. This approach is insufficient as the basis for language servers driving modern programming environments, which are expected to recover from simultaneously localized errors and continue to provide a variety of downstream semantic services. This paper addresses this problem, contributing the first comprehensive formal account of total type error localization and recovery: the marked lambda calculus. In particular, we define a gradual type system for expressions with marked errors, which operate as non-empty holes, together with a total procedure for marking arbitrary unmarked expressions. We mechanize the metatheory of the marked lambda calculus in Agda and implement it, scaled up, as the new basis for <fr:link
+type="local"
+href="zzhaoe-000A.xml"
+addr="zzhaoe-000A"
+title="Hazel">Hazel</fr:link>, a full-scale live functional programming environment with, uniquely, no meaningless editor states.</fr:p><fr:p>The marked lambda calculus is bidirectionally typed, so localization decisions are systematically predictable based on a local flow of typing information. Constraint-based type inference can bring more distant information to bear in discovering inconsistencies but this notoriously complicates error localization. We approach this problem by deploying constraint solving as a type-hole-filling layer atop this gradual bidirectionally typed core. Errors arising from inconsistent unification constraints are localized exclusively to type and expression holes, i.e. the system identifies unfillable holes using a system of traced provenances, rather than localized in an ad hoc manner to particular expressions. The user can then interactively shift these errors to particular downstream expressions by selecting from suggested partially consistent type hole fillings, which returns control back to the bidirectional system. We implement this type hole inference system in <fr:link
+type="local"
+href="zzhaoe-000A.xml"
+addr="zzhaoe-000A"
+title="Hazel">Hazel</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
+  <fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>254</fr:anchor><fr:addr
+type="user">zzhaoe-0002</fr:addr><fr:route>zzhaoe-0002.xml</fr:route><fr:title
+text="Software">Software</fr:title><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>256</fr:anchor><fr:addr
+type="user">zzhaoe-0005</fr:addr><fr:route>zzhaoe-0005.xml</fr:route><fr:title
+text="Ongoing software">Ongoing software</fr:title><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Software today and now! (varying degrees of contribution and triviality).</fr:p><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:addr
+type="user">zzhaoe-0007</fr:addr><fr:route>zzhaoe-0007.xml</fr:route><fr:title
+text="Dotfiles">Dotfiles</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://github.com/mirryi/dotfiles</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>260</fr:anchor><fr:addr
+type="user">zzhaoe-0006</fr:addr><fr:route>zzhaoe-0006.xml</fr:route><fr:title
+text="Past software">Past software</fr:title><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Software I worked on in the past.</fr:p><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:addr
+type="user">zzhaoe-000A</fr:addr><fr:route>zzhaoe-000A.xml</fr:route><fr:title
+text="Hazel">Hazel</fr:title><fr:taxon>Software</fr:taxon><fr:authors /><fr:meta
+name="external">https://hazel.org</fr:meta><fr:meta
+name="external">https://github.com/hazelgrove/hazel</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>Hazel is a live functional programming environment that is able to typecheck, manipulate, and even run incomplete programs, i.e. programs with holes. There are no meaningless editor states.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>263</fr:anchor><fr:addr
+type="user">zzhaoe-000B</fr:addr><fr:route>zzhaoe-000B.xml</fr:route><fr:title
+text="Total Type Error Localization and Recovery with Holes (Agda)">Total Type Error Localization and Recovery with Holes (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://github.com/hazelgrove/error-localization-agda</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>An Agda mechanization of the marked lambda calculus, a judgmental framework for bidirectional type error localization and recovery described in <fr:link
+type="local"
+href="zhao-et-al-2024.xml"
+addr="zhao-et-al-2024"
+title="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>265</fr:anchor><fr:addr
+type="user">zzhaoe-0004</fr:addr><fr:route>zzhaoe-0004.xml</fr:route><fr:title
+text="Archived software">Archived software</fr:title><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>There's some software that I've written over the years that I'd considered 'archived' at this point.</fr:p><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>267</fr:anchor><fr:addr
+type="user">zzhaoe-0008</fr:addr><fr:route>zzhaoe-0008.xml</fr:route><fr:title
+text="Wikichan">Wikichan</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://github.com/mirryi/wikichan</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Wikichan is a browser extension that displays a popup with information from Wikipedia and other sources when hovering over text on any page. Its development (2018 -- 2020?) was mainly during high school (and therefore a bloody mess) and is on indefinite hiatus. I'd like to return to it at some point, however.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>269</fr:anchor><fr:addr
+type="user">zzhaoe-0009</fr:addr><fr:route>zzhaoe-0009.xml</fr:route><fr:title
+text="Shelf">Shelf</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://github.com/mirryi/shelf</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>A symlink farm manager in the spirit of GNU stow, meant primarily for dotfiles. Though I still use it for <fr:link
+type="local"
+href="zzhaoe-0007.xml"
+addr="zzhaoe-0007"
+title="Dotfiles">my own configurations</fr:link>, it's pretty awful, so I wouldn't recommend it to anyone at all. At some point, I'd like to build a robust and intelligent tool for these purposes.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
+  <fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>271</fr:anchor><fr:addr
+type="user">zzhaoe-000D</fr:addr><fr:route>zzhaoe-000D.xml</fr:route><fr:title
+text="Thoughts">Thoughts</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:addr
+type="user">zzhaoe-000G</fr:addr><fr:route>zzhaoe-000G.xml</fr:route><fr:title
+text="On bealuwara weorc">On <fr:em>bealuwara weorc</fr:em></fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2022</fr:year><fr:month>12</fr:month><fr:day>1</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>In lines 78-80a of the "<fr:link
+type="local"
+href="dreamoftherood.xml"
+addr="dreamoftherood"
+title="Dream of the Rood">Dream of the Rood</fr:link>":</fr:p><fr:blockquote>Nu ðu miht gehyran, hæleð min se leofa, þæt ic bealuwara weorc gebiden hæbbe, sarra sorga.</fr:blockquote><fr:p>Roughly modernised, the Cross speaks:</fr:p><fr:blockquote>Now you may hear, my dear warrior, that I have endured the works of wicked men, grevious sorrows.</fr:blockquote><fr:p>Here, the neuter acc. <fr:em>weorc</fr:em> is roughly Mdn.E. "work", and <fr:em>bealuwara</fr:em> (perhaps the gen. pl. of an unrecorded <fr:em>bealuware</fr:em>, a compound of <fr:em>bealu</fr:em>, "baleful", "wicked", and <fr:em>wara</fr:em>, "inhabitant") has been translated variously as "miscreants", "wicked men". <fr:link
+type="local"
+href="bosworth-2014.xml"
+addr="bosworth-2014"
+title="Bosworth Toller's Anglo-Saxon Dictionary">Bosworth Toller's</fr:link> has "baleful inhabitants", "criminals". But <fr:link
+type="local"
+href="britton-1967.xml"
+addr="britton-1967"
+title="“Bealuwara Weorc” in the “Dream of the Rood”">apparently</fr:link> this bit has caused philologists a lot of trouble.</fr:p><fr:p>Interestingly, it's tempting to compare also "Balrog", which in Sindarin comes from <fr:em>BAL</fr:em> ("power") + <fr:em>raug/rog</fr:em> ("demon"), but has echoes of <fr:em>bealu-wearg</fr:em> ("outlaw", "wolf") or <fr:em>bealu-broga</fr:em> ("monster", "terror").</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>274</fr:anchor><fr:addr
+type="user">zzhaoe-000F</fr:addr><fr:route>zzhaoe-000F.xml</fr:route><fr:title
+text="On the original Orpheus">On the original Orpheus</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The tale of Orpheus and Eurydice as now popularly known ends in tragedy. The bereaved Orpheus descends into the underworld, harp or lyre in hand; there, he plays music so sweet as to move Charon, and Cerberus, and even Hades, that the king of the underworld grants him to take Eurydice back into the realm of the living, with the condition that he must not look backwards whilst they're still in the nether's darkness. In some versions, as in Virgil's <fr:em>Gregorics</fr:em> (first century BCE), he forgets this charge; approaching the light of the living world, the joy-enraptured Orpheus looks to share his delight with Eurydice---and she's taken away from him. Other accounts, as in Ovid's <fr:em>Metamorphoses X</fr:em> (first century CE), suggest that he's possessed by a fear that the gods have tricked him. Either way, the famous musician fails and returns alone, twice-robbed.</fr:p><fr:p>Later, it seems that medieval authors began to conflate the character of Orpheus with the figure of Christ, perhaps in a reinterpretation of the katabasis as the Harrowing of Hell. A fourteenth century French author writes of the tale in <fr:em>Ovide Moralisé</fr:em> that "by Orpheus and by his harp we must understand the person of our Lord Jesus Christ... who played his harp so melodiously that he drew from Hell the sainted souls of the Holy Fathers who had descended there because of the sins of Adam and Eve" (<fr:link
+type="local"
+href="friedman-1965.xml"
+addr="friedman-1965"
+title="The figure of Orpheus in antiquity and the Middle Ages">Friedman 1965</fr:link>, 274). We are, as a result, left with works such as the much less well-known Middle English Breton lai "Sir Orfeo", itself perhaps based on French works. But there's a crucial transformation of the core arc known from antiquity: Sir Orfeo <fr:em>succeeds</fr:em> in retrieving his wife Heurodis from the fairy king and reclaims his throne in Winchester. It would seem that Christian influences made the original catastrophe instead eucatastrophic.</fr:p><fr:p>Yet what if this wasn't a novel alteration, but more like a return to the true original?</fr:p><fr:p>Apparently, plenty of scholars of antiquity have argued that Orpheus originally <fr:em>succeeded</fr:em> in leading Eurydice back to the land of the living, to the extent that <fr:link
+type="local"
+href="johnheath.xml"
+addr="johnheath"
+title="John Heath">John Heath</fr:link> observes in <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">a 1994 essay</fr:link>:</fr:p><fr:blockquote>The nearly universal conclusion of twentieth-century scholarship has been that the earliest and most pervasive pre-Virgilian account of Orpheus' catabasis related his unqualified success: the bard charms the powers of the underworld into releasing his wife, and she returns with him to the land of the living. The more familiar tale of a second loss due to the breaking of a tabu, according to the prevailing opinion, is the invention of the Hellenistic world. (163)</fr:blockquote><fr:p>Curiously, very little about such a lost comedy can be found by searching online, outside of scholarly sources. Neither <fr:link
+type="external"
+href="https://en.wikipedia.org/wiki/Orpheus_and_Eurydice">Wikipedia</fr:link> nor <fr:link
+type="external"
+href="https://www.britannica.com/topic/Orpheus-Greek-mythology">Encyclopedia Britannica</fr:link> seem to make any mention of the possibility. I'm left wondering why this is so, if indeed that "Orpheus' 'complete victory' has found its way into the mythological handbooks, introductory texts, and commentaries" (163).</fr:p><fr:p>I was introduced to such notions some weeks ago by a paper from <fr:link
+type="local"
+href="giovannicostabile.xml"
+addr="giovannicostabile"
+title="Giovanni Costabile">Giovanni Costabile</fr:link> in <fr:link
+type="local"
+href="mythlore-2024a.xml"
+addr="mythlore-2024a"
+title="Mythlore: Vol. 42, No. 2 (144), Spring/Summer 2024, Special Issue: Fantasy Goes to Hell"><fr:em>Mythlore</fr:em>: Vol 42, No. 2.</fr:link>, the journal of the <fr:link
+type="local"
+href="mythopoeicsociety.xml"
+addr="mythopoeicsociety"
+title="Mythopoeic Society">Mythopoeic Society</fr:link>. "<fr:link
+type="local"
+href="costabile-2024.xml"
+addr="costabile-2024"
+title="Orpheus and the Harrowing of Hell in the Tale of Beren and Lúthien">Orpheus and the Harrowing of Hell in the Tale of Beren and Lúthien</fr:link>", which discusses some fascinating connections between the tale of Orpheus's katabasis, Sir Orfeo, Christ, the Harrowing of Hell, and <fr:link
+type="local"
+href="jrrtolkien.xml"
+addr="jrrtolkien"
+title="J.R.R. Tolkien">Tolkien</fr:link>'s cherished Tale of Beren and Lúthien, summarizes this argument that the earliest clear account of the Orpheus and Eurydice had a happy ending.</fr:p><fr:p>Such a debate exists, of course, because no manuscripts of such an original are left to us; what we <fr:em>are</fr:em> left consists of a number of allusions by pre-Virgillian authors which, the critics claim, strongly suggest Orpheus's success. I'll summarize a few of the references here; folks interested in the rest can refer to <fr:link
+type="local"
+href="costabile-2024.xml"
+addr="costabile-2024"
+title="Orpheus and the Harrowing of Hell in the Tale of Beren and Lúthien">the full paper</fr:link>, <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath's paper</fr:link>, and <fr:link
+type="local"
+href="merkley-2016.xml"
+addr="merkley-2016"
+title="Quis Tantus Furor? The Servian Question, Gallus, and Orpheus in Georgics 4">this thesis</fr:link> by <fr:link
+type="local"
+href="kylemerkley.xml"
+addr="kylemerkley"
+title="Kyle Merkley">Kyle Merkley</fr:link>.</fr:p><fr:p>It seems that the earliest allusion cited by scholars is from <fr:em>Alcestis</fr:em>, a fifth century BCE tragedy by Euripides. In Admetus's lamentation over Alcestis, who willing sacrificed her life for him, he bemoans:</fr:p><fr:blockquote>If I had the words and music of Orpheus to charm Persephone or her spouse with my songs and take you from Hades, I would have made the descent. Then neither Pluto's hound nor soul---conduction Charon at his oar would have stopped me until I set you alive once more in the light of day. (<fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath 1994</fr:link>, 169)</fr:blockquote><fr:p>The argument is thus: these lines wouldn't make much sense---be absurd, even---if Orpheus was unsuccessful. Next, in the fourth century, Plato writing as Phaedrus in <fr:em>Symposium</fr:em>, declares:</fr:p><fr:blockquote>But Orpheus, the son of Oeagrus, the gods sent back from Hades a failure. They showed him a mere phantom of the wife for whom he made the journey. They did not given him the real thing because he seemed to be a coward, seeing that he was a harp-player and did not have the heart to die for his love as Alcestis had. Instead he schemed to enter Hades while still alive, and so for this reason the gods punished him and arranged for his death to come at the hands of women. (<fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath 1994</fr:link>, 178)</fr:blockquote><fr:p>Phaedrus praises Alcestis's self-sacrifice in love, so powerful is true love that leads to noble deeds. Orpheus, in contrast, is punished by the gods for his weakness, his failure to demonstrate true love: instead of dying for his wife, he tries to retrieve her from the underworld whilst still alive; in response, the gods supply with him with a mere ghost. But critics assert that nevertheless Orpheus is clearly portrayed as succeeding and that Plato, in order to serve his narrative, is merely warping the returned Eurydice into a ghost.</fr:p><fr:p>Also from the fourth century, the elegiac Hermesianax writes that "with song he won the underworld’s great lords, for Agriope to regain the gentle breath of life" (<fr:link
+type="local"
+href="lightfoot-2010.xml"
+addr="lightfoot-2010"
+title="Fragments">Lightfoot 2010</fr:link>, 165). Here, Orpheus's wife is named for the first time, not as Eurydice but as Agriope. But anyway, scholars argue that this clearly suggests that the musician was successful. The evidence mounts: a number of ancient sources (the aforementioned, and <fr:em>Busiris</fr:em>, <fr:em>Lament for Bion</fr:em>, and Diodorus) allude to an Orpheus who seems to achieved the light of day with the resurrected Eurydice.</fr:p><fr:p>Not everyone agrees. <fr:link
+type="local"
+href="johnheath.xml"
+addr="johnheath"
+title="John Heath">Heath</fr:link>'s <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">1994 article</fr:link>, indeed, seeks to refute each of the cited examples and asserts that there is no unequivocal evidence for a pre-Christian successful Orpheus. He argues that the supporters of the happy ending have elected for overly optimistic interpretations of each reference and taken them out of context. In his lament, for example, Admetus refers to Orpheus's enchanting of Hades---and all agree that this was an unequivocal success, for Hades returned Eurydice to him <fr:em>in the underworld</fr:em>---but not that he actually brought her out. Furthermore, in the midst of all the hysterical and wildly inappropriate things pronounced by Admetus in this lament (including a promise to hate his parents who did not die for him and to commission a statue of her which he will embrace in their bed), one can only take his statements in irony. It makes more sense to understand his allusion to Orpheus as the utterings of a self-absorbed man caught up in his own grief; he wishes he had Orpheus's powers, but that the legendary bard in fact failed is completely lost on him---but not on the audience. And in the context of the entire play, <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath</fr:link> argues that "it is [Orpheus's] traditional inefficacy that fits closely with the major themes" (178).</fr:p><fr:p>The opposition to the interpretation of Phaedrus's statements is similar: indeed the gods presented Orpheus with his wife in the underworld, but nothing is said about a successful return. And if Orpheus did succeed, wouldn't this subvert Phaedrus's point, which anyway is mainly about the gods' view of love and virtue? And that in Hermesianax Agriope regained life is hardly under dispute, for all agree that she was alive when returned to Orpheus in the underworld; whether or not she made it out is not mentioned. And <fr:em>Leontion</fr:em>, in which the reference is found, is altogether about <fr:em>tragic</fr:em> loves, about the victims of overwhelming passion.</fr:p><fr:p>All of this is reinforced, <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath</fr:link> argues, by the fact that there's much ancient pottery and art suggesting a link between Orpheus's romance woes and his death by a group of women. But he is never depicted reunited with the resurrected Eurydice in the world of the living.</fr:p><fr:p><fr:link
+type="local"
+href="kylemerkley.xml"
+addr="kylemerkley"
+title="Kyle Merkley">Merkley</fr:link>, in <fr:link
+type="local"
+href="merkley-2016.xml"
+addr="merkley-2016"
+title="Quis Tantus Furor? The Servian Question, Gallus, and Orpheus in Georgics 4">his 2016 thesis</fr:link> on the <fr:em>Gregorics</fr:em>, pushes back against <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath</fr:link>. He argues that Admetus's allusion to the Orpheus's musical prowess can be understood ironically even if it is to a successful Orpheus; for example, he swears off the lyre and music entirely just a few lines prior. He also cites the fourth century BCE Palaephatus, who makes a seemingly unquestionable parallel between Hercules's twelfth labor and Orpheus's katabasis:</fr:p><fr:blockquote>As Herakles after going down into Hades led up Cerberus, so likewise Orpheus led up his wife. (<fr:link
+type="local"
+href="merkley-2016.xml"
+addr="merkley-2016"
+title="Quis Tantus Furor? The Servian Question, Gallus, and Orpheus in Georgics 4">Merkley 2016</fr:link>, 17)</fr:blockquote><fr:p>This, <fr:link
+type="local"
+href="merkley-2016.xml"
+addr="merkley-2016"
+title="Quis Tantus Furor? The Servian Question, Gallus, and Orpheus in Georgics 4">Merkley</fr:link> suggests, bolsters the other citations enormously; while they don't refer explicitly to Orpheus's success, surely they imply it given this explicit parallel. He also suggests that perhaps an original contained only the first half of the quest: Orpheus receives Eurydice from the lords of the underworld, and the tale ends, implying some success. Various authors were then able to add their own addendum, as perhaps Plato did. He goes on to posit that the failure ending was invented not by Virgil but some earlier first century author.</fr:p><fr:p>From my limited and very amateur reading, I suppose that, even now, there remains no consensus with regards to this century-long debate---though "on all sides, various scholars claim the weight of consensus for their position" (1). Obviously, I'm not at all an expert on the classics; if anyone who actually knows what they're talking about has any thoughts or corrections, I'd be happy to hear them!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>276</fr:anchor><fr:addr
+type="user">zzhaoe-000C</fr:addr><fr:route>zzhaoe-000C.xml</fr:route><fr:title
+text="「舟を編む」">「舟を編む」</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>先月に大学の友達を訪問し、誕生日プレゼントとしてもらった<fr:link
+type="local"
+href="shionmiura.xml"
+addr="shionmiura"
+title="三浦しをん">三浦しをん</fr:link>による、2012年本屋大賞受賞作である「<fr:link
+type="local"
+href="miura-2015.xml"
+addr="miura-2015"
+title="舟を編む">舟を編む</fr:link>」は、一週間かけて読み終わった。長年にわたる情熱が切れず、言葉の海を渡る舟になれるように「大渡海」の完成に向ける馬締たち。短かったわりに、作業の大規模さを感じられ、不器用で愛おしいそれぞれの登場人物を知れ、言葉への敬意、言葉の力、大切さを改めて覚えさせていただいた作品だった。</fr:p><fr:p>携帯電話の時代だというのに、辞書の編纂作業には、見出し語の重複や漏れがないか、用例採集カードや山積みの校正刷りをすべて手で確認する。編集部の部屋にコンピューターがあるみたいが、肝心な仕事には関わっていなさそう。今ならどうだろう。よくデーターベース化されたら、「玄武書房地獄の神保町合宿」は一ヶ月間を費やすまでもなく、起こるさえもなかったに思える。しかし、それで編集作業が楽になるどころか、言葉へのより鋭いセンス、愛情が求められるものだろう。これから、オックスフォード英語辞典や広辞苑を引くたびに、無数の辞書編集者へ感謝を覚えるべき。</fr:p><fr:p>これで翻訳版は気になる。「あがる」と「のぼる」の微妙な違いや「への人」の問い合わせなどは、いったいどうやって訳されているかな、と思っていた。英語の翻訳版が大いに高評価を受けているらしく、よく工夫したにちがいない。ネットで購入しようかと思うほどでもあるが、積読が続いている今の状態で良心の呵責に耐えかねる。</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>278</fr:anchor><fr:addr
+type="user">zzhaoe-000E</fr:addr><fr:route>zzhaoe-000E.xml</fr:route><fr:title
+text="On The Worm Ouroboros">On <fr:em><fr:link
+type="local"
+href="eddison-1971.xml"
+addr="eddison-1971"
+title="The Worm Ouroboros">The Worm Ouroboros</fr:link></fr:em></fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The language is delightful, but one can't help but agree with <fr:link
+type="local"
+href="jrrtolkien.xml"
+addr="jrrtolkien"
+title="J.R.R. Tolkien">Tolkien</fr:link>'s assessment (<fr:link
+type="local"
+href="tolkien-1981.xml"
+addr="tolkien-1981"
+title="The Letters of J.R.R. Tolkien">Letter 199</fr:link>) that what underlies the entire saga is "an evil and indeed silly 'philosophy'" and the ending has one wondering indeed if <fr:link
+type="local"
+href="ereddison.xml"
+addr="ereddison"
+title="E.R. Eddison">Eddison</fr:link> admired "arrogance and cruelty."</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
+  <fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>280</fr:anchor><fr:addr
+type="user">zzhaoe-000J</fr:addr><fr:route>zzhaoe-000J.xml</fr:route><fr:title
+text="Writing">Writing</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>281</fr:anchor><fr:addr
+type="user">zzhaoe-000K</fr:addr><fr:route>zzhaoe-000K.xml</fr:route><fr:title
+text="Wrath">Wrath</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:blockquote>Upon God my Wrath was wholly bent 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  A fury that from Eden high He did 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Men cast and took undue what was 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Our Own, yet mere Knowing we had durst. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  'Twas Doom with which He shackled us, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  The Doom of men, the Doom of death 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Whilst sits He on a See on High 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  And beholds us in our withering. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Of Gift would those in folly speak 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Their Doom, in joy tholing their fetters. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Sought I the means to quicken anew, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  To rout this curse by might and main 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  And make the Earth He yields not, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  So far I went to lonesome place 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  And deep to forge new whispers true, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  The lore to-day and Word to come. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  By craft arisen to meet His Face--- 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  To pluck mine own Fate from Despot fist! 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  A Wrastle for ages untold, sinew 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Upon sinew, and grasped I the winning 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  At hand, and lo! How grand and vast 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  It was not, but horrid indeed, all 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  The Same, for yet I was, and Falling 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  To grey below and dashed upon the Weight 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Of Doom, His now lifted, but all my Own. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Yet Time was not come, nor would it now, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  For seen I had death under Conquest, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  But there is none at all over Death.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>310</fr:anchor><fr:addr
+type="user">zzhaoe-000I</fr:addr><fr:route>zzhaoe-000I.xml</fr:route><fr:title
+text="The Wise One of the Mud">The Wise One of the Mud</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:blockquote>What little knew those men in dark 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  atread upon that grove bespoke. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  They hearkened not the eldest lark 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  yet sentinel for broken yoke: 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  incarnate fen, though incorporeal, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  soft the firm made stifling mire 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  writhing drew a hymn primordial 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  groaning past in willow shire.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>319</fr:anchor><fr:addr
+type="user">ericczhao</fr:addr><fr:route>ericczhao.xml</fr:route><fr:title
+text="Eric Zhao">Eric Zhao</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">PhD Student</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link></fr:meta><fr:meta
+name="orcid">0009-0000-4969-2376</fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+type="local"
+href="zzhaoe-0001.xml"
+addr="zzhaoe-0001"
+title="About">Me</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>320</fr:anchor><fr:addr
+type="user">brownuniversity</fr:addr><fr:route>brownuniversity.xml</fr:route><fr:title
+text="Brown University">Brown University</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
+name="external">https://www.brown.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>321</fr:anchor><fr:addr
+type="user">cyrusomar</fr:addr><fr:route>cyrusomar.xml</fr:route><fr:title
+text="Cyrus Omar">Cyrus Omar</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Assistant Professor</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="external">https://web.eecs.umich.edu/~comar/</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>322</fr:anchor><fr:addr
+type="user">fplab</fr:addr><fr:route>fplab.xml</fr:route><fr:title
+text="Future of Programming Lab">Future of Programming Lab</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
+name="external">https://fplab.mplse.org</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>FP Lab at the <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link> designs next-generation user interfaces for modern programming languages. Our research runs the methodological gamut, ranging from type-theoretic foundations through to human-centered design. We are particularly interested in applications to computer science education, accessibility, computational and data science, formal verification, and computational creativity.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>323</fr:anchor><fr:addr
+type="user">nikosvasilakis</fr:addr><fr:route>nikosvasilakis.xml</fr:route><fr:title
+text="Nikos Vasilakis">Nikos Vasilakis</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Assistant Professor</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link></fr:meta><fr:meta
+name="external">https://nikos.vasilak.is</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>I am an Assistant Professor of Computer Science at Brown University. My research encompasses systems, programming languages, and security—focusing on automatically enhancing software systems with new capabilities. This enhancement forms a transition path towards secure distributed environments targeting multiple scales.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>324</fr:anchor><fr:addr
+type="user">robertlewis</fr:addr><fr:route>robertlewis.xml</fr:route><fr:title
+text="Robert Lewis">Robert Lewis</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Lecturer</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link></fr:meta><fr:meta
+name="external">https://robertylewis.com</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>Hi, I’m Robert Y. Lewis. I’m a lecturer in the Department of Computer Science at Brown University. My interests revolve around formal methods and verification, logic, and the foundations of mathematics, and the use of these in computer science and mathematics education. I work on interactive theorem proving, automated reasoning, and type theory.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>325</fr:anchor><fr:addr
+type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
+text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
+name="external">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
