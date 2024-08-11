@@ -1,0 +1,10 @@
+\title{writing}
+
+\query{
+  \open\query
+  \union{
+    \taxon{poem}
+  }{
+    \taxon{fiction}
+  }
+}
