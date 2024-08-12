@@ -2,9 +2,5 @@
 
 \query{
   \open\query
-  \union{
-    \taxon{poem}
-  }{
-    \taxon{fiction}
-  }
+  \isect{\author{ericczhao}}{\union{\taxon{poem}}{\taxon{fiction}}}
 }

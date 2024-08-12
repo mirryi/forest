@@ -2,5 +2,5 @@
 
 \query{
   \open\query
-  \taxon{thoughts}
+  \isect{\taxon{thoughts}}{\author{ericczhao}}
 }
