@@ -1,0 +1,20 @@
+\title{The Farthest Shore}
+\taxon{reference}
+\author{ursulaleguin}
+\date{2001}
+
+\meta{isbn}{978-0-689-84782-0}
+\meta{bibtex}{\startverb
+@book{leguin_2001,
+  address={New York},
+  series={Earthsea cycle},
+  title={The Farthest Shore},
+  isbn={978-0-689-84782-0},
+  abstractNote={A young prince joins forces with a master wizard on a journey to discover a cause and remedy for the loss of magic in Earthsea. Darkness Threatens to overtake Earthsea. As the world and its wizards are losing their magic, Ged -- powerful Archmage, wizard, and dragonlord -- embarks on a sailing journey with highborn young prince, Arren. They travel far beyond the realm of death to discover the cause of these evil disturbances and to restore magic to a land desperately thirsty for it},
+  publisher={Aladdin Paperbacks},
+  author={Le Guin, Ursula K.},
+  year={2001},
+  language={eng}
+}
+\stopverb}
+

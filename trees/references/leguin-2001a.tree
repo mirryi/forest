@@ -1,0 +1,17 @@
+\title{The Tombs of Atuan}
+\taxon{reference}
+\author{ursulaleguin}
+\date{2001}
+
+\meta{isbn}{978-0-689-84536-9}
+\meta{bibtex}{\startverb
+@book{leguin_2001,
+  address={New York., NY},
+  title={The Tombs of Atuan},
+  isbn={978-0-689-84536-9},
+  publisher={Simon Pulse},
+  author={Le Guin, Ursula K.},
+  year={2001},
+  language={eng}
+}
+\stopverb}
