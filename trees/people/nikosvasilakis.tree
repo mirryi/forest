@@ -1,7 +1,9 @@
 \title{Nikos Vasilakis}
 \taxon{person}
+
 \meta{position}{Assistant Professor}
 \meta{institution}{[[brownuniversity]]}
 \meta{external}{https://nikos.vasilak.is}
+\meta{orcid}{0000-0001-7347-298X}
 
 \blockquote{I am an Assistant Professor of Computer Science at Brown University. My research encompasses systems, programming languages, and security—focusing on automatically enhancing software systems with new capabilities. This enhancement forms a transition path towards secure distributed environments targeting multiple scales.}

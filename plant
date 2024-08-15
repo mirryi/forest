@@ -87,8 +87,8 @@ _ask_confirm_edit() {
 	esac
 }
 
-# _new_institition <id> <name>
-_new_institition() {
+# _new_institution <id> <name>
+_new_institution() {
 	if [ "$#" -ne 2 ]; then _exit_usage_new; fi
 	local id="$1"
 	local name="$2"
@@ -96,7 +96,7 @@ _new_institition() {
 
 	# check that the id isn't duplicate
 	if [ -f "$path" ]; then
-		>&2 echo "institition already exists: $path"
+		>&2 echo "institution already exists: $path"
 		exit 1
 	fi
 
@@ -104,7 +104,7 @@ _new_institition() {
 
 	# fill contents of tree
 	echo """\title{$name}
-\taxon{institition}""" >"$path"
+\taxon{institution}""" >"$path"
 
 	_ask_confirm_edit "$path"
 }
@@ -225,8 +225,8 @@ _new_writing() {
 
 _new() {
 	case $1 in
-	institition)
-		_new_institition "${@:2}"
+	institution)
+		_new_institution "${@:2}"
 		;;
 	news)
 		_new_news "${@:2}"

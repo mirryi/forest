@@ -1,0 +1,10 @@
+\title{news}
+\author{ericczhao}
+
+\scope{
+  \put\transclude/expanded{true}
+  \query{
+    \open\query
+    \isect{\taxon{news}}{\author{ericczhao}}
+  }
+}
