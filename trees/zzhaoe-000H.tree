@@ -7,4 +7,14 @@
   \<html:br>{}
 }
 
+\def\mathpar[body]{
+  \tex{
+    \usepackage{mathpartir}
+  }{
+    \begin{mathpar}
+      \body
+    \end{mathpar}
+  }
+}
+
 \p{This tree defines some basic macros.}
