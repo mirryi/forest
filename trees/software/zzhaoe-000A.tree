@@ -1,6 +1,12 @@
 \title{Hazel}
 \taxon{software}
 \tag{past}
+
+\author{cyrusomar}
+\author{andrewblinn}
+\author{ericczhao}
+\author{many, many others}
+
 \meta{external}{https://hazel.org}
 \meta{external}{https://github.com/hazelgrove/hazel}
 
