@@ -7,6 +7,7 @@ _me="ericczhao"
 _trees=trees
 
 _institutions="$_trees/institutions"
+_news="$_trees/news"
 _people="$_trees/people"
 _references="$_trees/references"
 _software="$_trees/software"
@@ -21,6 +22,7 @@ operations:
 _usage_new="""usage: $0 new <kind> [...]
 kinds:
     $0 new institituion <id> <name>
+    $0 new news         <title>
     $0 new person       <id> <name>
     $0 new ref          <id>
     $0 new software     <title>
@@ -103,6 +105,23 @@ _new_institition() {
 	# fill contents of tree
 	echo """\title{$name}
 \taxon{institition}""" >"$path"
+
+	_ask_confirm_edit "$path"
+}
+
+# _new_news <title>
+_new_news() {
+	if [ "$#" -ne 1 ]; then _exit_usage_new; fi
+	local title="$1"
+
+	# invoke forester to create new tree
+	local path=$(forester new --dest="$_news" --prefix="$_slug")
+	# prepend other metadata
+	echo """\title{$title}
+\taxon{news}
+\author{$_me}""" | cat - "$path" | tee "$path" >/dev/null
+
+	>&2 echo "planted $path"
 
 	_ask_confirm_edit "$path"
 }
@@ -208,6 +227,9 @@ _new() {
 	case $1 in
 	institition)
 		_new_institition "${@:2}"
+		;;
+	news)
+		_new_news "${@:2}"
 		;;
 	person)
 		_new_person "${@:2}"
