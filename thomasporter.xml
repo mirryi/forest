@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>788</fr:anchor><fr:addr
+type="user">thomasporter</fr:addr><fr:route>thomasporter.xml</fr:route><fr:title
+text="Thomas J. Porter">Thomas J. Porter</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">PhD Student</fr:meta><fr:meta
+name="external">https://thomasporter522.github.io/</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Contributions">Contributions</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>789</fr:anchor><fr:addr
+type="user">zzhaoe-000Q</fr:addr><fr:route>zzhaoe-000Q.xml</fr:route><fr:title
+text="Grove (Agda)">Grove (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="michaeladams.xml"
+addr="michaeladams"
+title="Michael D. Adams">Michael D. Adams</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="thomasporter.xml"
+addr="thomasporter"
+title="Thomas J. Porter">Thomas J. Porter</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://github.com/fplab/grove-agda</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>An Agda mechanization of the Grove collaborative structure editor calculus.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

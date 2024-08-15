@@ -7,45 +7,73 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>768</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>833</fr:anchor><fr:addr
 type="user">zzhaoe-0004</fr:addr><fr:route>zzhaoe-0004.xml</fr:route><fr:title
-text="Archived software">Archived software</fr:title><fr:authors><fr:author><fr:link
+text="News">News</fr:title><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>There's some software that I've written over the years that I'd considered 'archived' at this point.</fr:p><fr:tree
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  
+  <fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>285</fr:anchor><fr:addr
-type="user">zzhaoe-0008</fr:addr><fr:route>zzhaoe-0008.xml</fr:route><fr:title
-text="Wikichan">Wikichan</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>297</fr:anchor><fr:addr
+type="user">zzhaoe-000S</fr:addr><fr:route>zzhaoe-000S.xml</fr:route><fr:title
+text="Received the NSF Graduate Research Fellowship">Received the NSF Graduate Research Fellowship</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
-name="external">https://github.com/mirryi/wikichan</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Wikichan is a browser extension that displays a popup with information from Wikipedia and other sources when hovering over text on any page. Its development (2018 -- 2020?) was mainly during high school (and therefore a bloody mess) and is on indefinite hiatus. I'd like to return to it at some point, however.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Honored to receive an NSF Graduate Fellowship. Enormous thanks to my advisor <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link> and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>287</fr:anchor><fr:addr
-type="user">zzhaoe-0009</fr:addr><fr:route>zzhaoe-0009.xml</fr:route><fr:title
-text="Shelf">Shelf</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>299</fr:anchor><fr:addr
+type="user">zzhaoe-000T</fr:addr><fr:route>zzhaoe-000T.xml</fr:route><fr:title
+text="Passed the JLPT N1">Passed the JLPT N1</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
-name="external">https://github.com/mirryi/shelf</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>A symlink farm manager in the spirit of GNU stow, meant primarily for dotfiles. Though I still use it for <fr:link
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Happy to say that I was able to pass this past December's edition of the <fr:link
+type="external"
+href="https://www.jlpt.jp/e/">JLPT N1</fr:link>. A very big thanks to all my instructors at <fr:link
 type="local"
-href="zzhaoe-0007.xml"
-addr="zzhaoe-0007"
-title="Dotfiles">my own configurations</fr:link>, it's pretty awful, so I wouldn't recommend it to anyone at all. At some point, I'd like to build a robust and intelligent tool for these purposes.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter><fr:tree
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">Michigan</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>301</fr:anchor><fr:addr
+type="user">zzhaoe-000R</fr:addr><fr:route>zzhaoe-000R.xml</fr:route><fr:title
+text="Presenting at POPL 2024">Presenting at POPL 2024</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I will be presenting our paper <fr:link
+type="local"
+href="zhao-et-al-2024.xml"
+addr="zhao-et-al-2024"
+title="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:link> at <fr:link
+type="local"
+href="popl-2024.xml"
+addr="popl-2024"
+title="POPL 2024">POPL 2024</fr:link> in London this upcoming January!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -59,54 +87,165 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>770</fr:anchor><fr:addr
-type="user">zzhaoe-0002</fr:addr><fr:route>zzhaoe-0002.xml</fr:route><fr:title
-text="Software">Software</fr:title><fr:authors><fr:author><fr:link
+root="true"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>835</fr:anchor><fr:addr
+type="user">zzhaoe-0000</fr:addr><fr:route>index.xml</fr:route><fr:title
+text="Home">Home</fr:title><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Hello! This is my <fr:link
+type="external"
+href="https://www.jonmsterling.com/jms-005P.xml">forest</fr:link>.</fr:p><fr:tree
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>270</fr:anchor><fr:addr
-type="user">zzhaoe-0005</fr:addr><fr:route>zzhaoe-0005.xml</fr:route><fr:title
-text="Ongoing software">Ongoing software</fr:title><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:addr
+type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
+text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm an incoming first year PhD student in Computer Science at <fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link>, advised by <fr:link
+type="local"
+href="nikosvasilakis.xml"
+addr="nikosvasilakis"
+title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
+type="local"
+href="robertlewis.xml"
+addr="robertlewis"
+title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
+type="local"
+href="fplab.xml"
+addr="fplab"
+title="Future of Programming Lab">Future of Programming Lab</fr:link>.</fr:p><fr:p>I'm also supported by the NSF Graduate Research Fellowship.</fr:p>
+  
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>257</fr:anchor><fr:addr
+type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
+text="Email">Email</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>zzhaoe [at] brown [dot] edu</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:addr
+type="machine">#239</fr:addr><fr:route>unstable-239.xml</fr:route><fr:title
+text="GitHub">GitHub</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+type="external"
+href="https://github.com/mirryi">mirryi</fr:link></fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+  <fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>263</fr:anchor><fr:addr
+type="user">zzhaoe-0003</fr:addr><fr:route>zzhaoe-0003.xml</fr:route><fr:title
+text="Publications">Publications</fr:title><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Software today and now! (varying degrees of contribution and triviality).</fr:p><fr:tree
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:addr
-type="user">zzhaoe-0007</fr:addr><fr:route>zzhaoe-0007.xml</fr:route><fr:title
-text="Dotfiles">Dotfiles</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>265</fr:anchor><fr:addr
+type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
+text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
-name="external">https://github.com/mirryi/dotfiles</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="raefmaroof.xml"
+addr="raefmaroof"
+title="Raef Maroof">Raef Maroof</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="ananddukkipati.xml"
+addr="ananddukkipati"
+title="Anand Dukkipati">Anand Dukkipati</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="andrewblinn.xml"
+addr="andrewblinn"
+title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="zhiyipan.xml"
+addr="zhiyipan"
+title="Zhiyi Pan">Zhiyi Pan</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors><fr:meta
+name="doi">10.1145/3632910</fr:meta><fr:meta
+name="venue"><fr:link
+type="local"
+href="popl-2024.xml"
+addr="popl-2024"
+title="POPL 2024">POPL 2024</fr:link></fr:meta><fr:meta
+name="slides">zhao-et-al-2024-slides.pdf</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Type systems typically only define the conditions under which an expression is well-typed, leaving ill-typed expressions formally meaningless. This approach is insufficient as the basis for language servers driving modern programming environments, which are expected to recover from simultaneously localized errors and continue to provide a variety of downstream semantic services. This paper addresses this problem, contributing the first comprehensive formal account of total type error localization and recovery: the marked lambda calculus. In particular, we define a gradual type system for expressions with marked errors, which operate as non-empty holes, together with a total procedure for marking arbitrary unmarked expressions. We mechanize the metatheory of the marked lambda calculus in Agda and implement it, scaled up, as the new basis for <fr:link
+type="local"
+href="zzhaoe-000A.xml"
+addr="zzhaoe-000A"
+title="Hazel">Hazel</fr:link>, a full-scale live functional programming environment with, uniquely, no meaningless editor states.</fr:p><fr:p>The marked lambda calculus is bidirectionally typed, so localization decisions are systematically predictable based on a local flow of typing information. Constraint-based type inference can bring more distant information to bear in discovering inconsistencies but this notoriously complicates error localization. We approach this problem by deploying constraint solving as a type-hole-filling layer atop this gradual bidirectionally typed core. Errors arising from inconsistent unification constraints are localized exclusively to type and expression holes, i.e. the system identifies unfillable holes using a system of traced provenances, rather than localized in an ad hoc manner to particular expressions. The user can then interactively shift these errors to particular downstream expressions by selecting from suggested partially consistent type hole fillings, which returns control back to the bidirectional system. We implement this type hole inference system in <fr:link
+type="local"
+href="zzhaoe-000A.xml"
+addr="zzhaoe-000A"
+title="Hazel">Hazel</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
+  <fr:tree
 toc="true"
 numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:addr
+type="user">zzhaoe-0002</fr:addr><fr:route>zzhaoe-0002.xml</fr:route><fr:title
+text="Software">Software</fr:title><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:tree
+toc="true"
+numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>274</fr:anchor><fr:addr
-type="user">zzhaoe-0006</fr:addr><fr:route>zzhaoe-0006.xml</fr:route><fr:title
-text="Past software">Past software</fr:title><fr:authors><fr:author><fr:link
+type="user">zzhaoe-0005</fr:addr><fr:route>zzhaoe-0005.xml</fr:route><fr:title
+text="Ongoing">Ongoing</fr:title><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Software I worked on in the past.</fr:p><fr:tree
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:parent>zzhaoe-0002</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>Software today and now! (varying degrees of contribution and triviality).</fr:p><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -114,6 +253,57 @@ show-metadata="true"
 expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>276</fr:anchor><fr:addr
+type="user">zzhaoe-000Q</fr:addr><fr:route>zzhaoe-000Q.xml</fr:route><fr:title
+text="Grove (Agda)">Grove (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="michaeladams.xml"
+addr="michaeladams"
+title="Michael D. Adams">Michael D. Adams</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="thomasporter.xml"
+addr="thomasporter"
+title="Thomas J. Porter">Thomas J. Porter</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://github.com/fplab/grove-agda</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>An Agda mechanization of the Grove collaborative structure editor calculus.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>280</fr:anchor><fr:addr
+type="user">zzhaoe-0007</fr:addr><fr:route>zzhaoe-0007.xml</fr:route><fr:title
+text="Dotfiles">Dotfiles</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://github.com/mirryi/dotfiles</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
+
+  <fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>282</fr:anchor><fr:addr
+type="user">zzhaoe-0006</fr:addr><fr:route>zzhaoe-0006.xml</fr:route><fr:title
+text="Past">Past</fr:title><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:parent>zzhaoe-0002</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>Software I worked on in the past.</fr:p><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>284</fr:anchor><fr:addr
 type="user">zzhaoe-000A</fr:addr><fr:route>zzhaoe-000A.xml</fr:route><fr:title
 text="Hazel">Hazel</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -136,7 +326,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>281</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>289</fr:anchor><fr:addr
 type="user">zzhaoe-000B</fr:addr><fr:route>zzhaoe-000B.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes (Agda)">Total Type Error Localization and Recovery with Holes (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -147,27 +337,14 @@ name="external">https://github.com/hazelgrove/error-localization-agda</fr:meta><
 type="local"
 href="zhao-et-al-2024.xml"
 addr="zhao-et-al-2024"
-title="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>283</fr:anchor><fr:addr
-type="user">zzhaoe-0004</fr:addr><fr:route>zzhaoe-0004.xml</fr:route><fr:title
-text="Archived software">Archived software</fr:title><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>There's some software that I've written over the years that I'd considered 'archived' at this point.</fr:p><fr:tree
+title="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>285</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>291</fr:anchor><fr:addr
 type="user">zzhaoe-0008</fr:addr><fr:route>zzhaoe-0008.xml</fr:route><fr:title
 text="Wikichan">Wikichan</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -181,7 +358,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>287</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>293</fr:anchor><fr:addr
 type="user">zzhaoe-0009</fr:addr><fr:route>zzhaoe-0009.xml</fr:route><fr:title
 text="Shelf">Shelf</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -192,4 +369,759 @@ name="external">https://github.com/mirryi/shelf</fr:meta></fr:frontmatter><fr:ma
 type="local"
 href="zzhaoe-0007.xml"
 addr="zzhaoe-0007"
-title="Dotfiles">my own configurations</fr:link>, it's pretty awful, so I wouldn't recommend it to anyone at all. At some point, I'd like to build a robust and intelligent tool for these purposes.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+title="Dotfiles">my own configurations</fr:link>, it's pretty awful, so I wouldn't recommend it to anyone at all. At some point, I'd like to build a robust and intelligent tool for these purposes.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  <fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>295</fr:anchor><fr:addr
+type="user">zzhaoe-0004</fr:addr><fr:route>zzhaoe-0004.xml</fr:route><fr:title
+text="News">News</fr:title><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  
+  <fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>297</fr:anchor><fr:addr
+type="user">zzhaoe-000S</fr:addr><fr:route>zzhaoe-000S.xml</fr:route><fr:title
+text="Received the NSF Graduate Research Fellowship">Received the NSF Graduate Research Fellowship</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Honored to receive an NSF Graduate Fellowship. Enormous thanks to my advisor <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link> and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>299</fr:anchor><fr:addr
+type="user">zzhaoe-000T</fr:addr><fr:route>zzhaoe-000T.xml</fr:route><fr:title
+text="Passed the JLPT N1">Passed the JLPT N1</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Happy to say that I was able to pass this past December's edition of the <fr:link
+type="external"
+href="https://www.jlpt.jp/e/">JLPT N1</fr:link>. A very big thanks to all my instructors at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">Michigan</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>301</fr:anchor><fr:addr
+type="user">zzhaoe-000R</fr:addr><fr:route>zzhaoe-000R.xml</fr:route><fr:title
+text="Presenting at POPL 2024">Presenting at POPL 2024</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I will be presenting our paper <fr:link
+type="local"
+href="zhao-et-al-2024.xml"
+addr="zhao-et-al-2024"
+title="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:link> at <fr:link
+type="local"
+href="popl-2024.xml"
+addr="popl-2024"
+title="POPL 2024">POPL 2024</fr:link> in London this upcoming January!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  <fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>303</fr:anchor><fr:addr
+type="user">zzhaoe-000D</fr:addr><fr:route>zzhaoe-000D.xml</fr:route><fr:title
+text="Thoughts">Thoughts</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>304</fr:anchor><fr:addr
+type="user">zzhaoe-000N</fr:addr><fr:route>zzhaoe-000N.xml</fr:route><fr:title
+text="On names">On names</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>In the last couple of days I've been making my way through <fr:link
+type="local"
+href="ursulaleguin.xml"
+addr="ursulaleguin"
+title="Ursula K. Le Guin">Ursula K. Le Guin</fr:link>'s <fr:em>Earthsea</fr:em> cycle (<fr:em><fr:link
+type="local"
+href="leguin-2012.xml"
+addr="leguin-2012"
+title="A Wizard of Earthsea">A Wizard of Earthsea</fr:link></fr:em> and <fr:em><fr:link
+type="local"
+href="leguin-2001a.xml"
+addr="leguin-2001a"
+title="The Tombs of Atuan">The Tombs of Atuan</fr:link></fr:em> and a bit of <fr:em><fr:link
+type="local"
+href="leguin-2001b.xml"
+addr="leguin-2001b"
+title="The Farthest Shore">The Farthest Shore</fr:link></fr:em> thus far), and I've been thinking a little bit about names. Of course, none of this is going to be very well-formed, and I'm sure the philosophy of language people will have much aching to be said.</fr:p><fr:p>In the Archipelago, true magic—the real stuff of changing, not mere trickery and illusions—is all about knowing the <fr:em>true name</fr:em> of something. The true name of an object is its name in the True Speech, and knowledge of it gives the speaker power over it. Though it's not precisely clear how magic works in Earthsea, it points at the reality that names identify, communicate, and reveal the truth of things and that creativity with words can deeply impact our understanding of them, even if, I suppose, no single name can properly encompass the whole essence of its referent.</fr:p><fr:p>I was reminded during a commute of <fr:link
+type="local"
+href="kroeber-1961.xml"
+addr="kroeber-1961"
+title="Ishi in Two Worlds: A Biography of the Last Wild Indian in North America"><fr:em>Ishi in Two Worlds</fr:em></fr:link>, a biography by <fr:link
+type="local"
+href="ursulaleguin.xml"
+addr="ursulaleguin"
+title="Ursula K. Le Guin">Le Guin</fr:link>'s mother <fr:link
+type="local"
+href="theodorakroeber.xml"
+addr="theodorakroeber"
+title="Theodora Kroeber">Theodora Kroeber</fr:link>, which I've been meaning to read for some time. It follows the life of Ishi, the last known member of the indigenous Yahi people in present-day California, who in 1908, at around fifty years of age, emerged for the first time into 20th century American society and was taken in by anthropologists at <fr:link
+type="local"
+href="ucberkley.xml"
+addr="ucberkley"
+title="University of California, Berkley">Berkley</fr:link>. "Ishi" was something of an adopted name given by anthropologist <fr:link
+type="local"
+href="alfredkroeber.xml"
+addr="alfredkroeber"
+title="Alfred Kroeber">Alfred Kroeber</fr:link> who studied him, meaning <fr:em>man</fr:em> in the now extinct Yana language; in Yahi culture, it seems that one was not to speak his own name until formally introduced by another. I thought this felt something like a <fr:em>true name</fr:em>, but, unlike Ged, it is not even his own to give, and as the last of his people, none are left to name him.</fr:p><fr:p>To learn of this struck me as tragic—how much more might one <fr:em>know</fr:em> (in a personal way) about "Ishi" through his lost name?—and yet somehow this aspect of Yahi culture also seems to make so much sense: names may reveal the truth of things, but they do not stand alone, existing rather so that we may relate to each other. If each of us lived in isolation, there would, surely, be hardly any need for a personal name.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:addr
+type="user">zzhaoe-000F</fr:addr><fr:route>zzhaoe-000F.xml</fr:route><fr:title
+text="On the original Orpheus">On the original Orpheus</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The tale of Orpheus and Eurydice as now popularly known ends in tragedy. The bereaved Orpheus descends into the underworld, harp or lyre in hand; there, he plays music so sweet as to move Charon, and Cerberus, and even Hades, that the king of the underworld grants him to take Eurydice back into the realm of the living, with the condition that he must not look backwards whilst they're still in the nether's darkness. In some versions, as in Virgil's <fr:em>Gregorics</fr:em> (first century BCE), he forgets this charge; approaching the light of the living world, the joy-enraptured Orpheus looks to share his delight with Eurydice—and she's taken away from him. Other accounts, as in Ovid's <fr:em>Metamorphoses X</fr:em> (first century CE), suggest that he's possessed by a fear that the gods have tricked him. Either way, the famous musician fails and returns alone, twice-robbed.</fr:p><fr:p>Later, it seems that medieval authors began to conflate the character of Orpheus with the figure of Christ, perhaps in a reinterpretation of the katabasis as the Harrowing of Hell. A fourteenth century French author writes of the tale in <fr:em>Ovide Moralisé</fr:em> that "by Orpheus and by his harp we must understand the person of our Lord Jesus Christ... who played his harp so melodiously that he drew from Hell the sainted souls of the Holy Fathers who had descended there because of the sins of Adam and Eve" (<fr:link
+type="local"
+href="friedman-1965.xml"
+addr="friedman-1965"
+title="The figure of Orpheus in antiquity and the Middle Ages">Friedman 1965</fr:link>, 274). We are, as a result, left with works such as the much less well-known Middle English Breton lai "Sir Orfeo", itself perhaps based on French works. But there's a crucial transformation of the core arc known from antiquity: Sir Orfeo <fr:em>succeeds</fr:em> in retrieving his wife Heurodis from the fairy king and reclaims his throne in Winchester. It would seem that Christian influences made the original catastrophe instead eucatastrophic.</fr:p><fr:p>Yet what if this wasn't a novel alteration, but more like a return to the true original?</fr:p><fr:p>Apparently, plenty of scholars of antiquity have argued that Orpheus originally <fr:em>succeeded</fr:em> in leading Eurydice back to the land of the living, to the extent that <fr:link
+type="local"
+href="johnheath.xml"
+addr="johnheath"
+title="John Heath">John Heath</fr:link> observes in <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">a 1994 essay</fr:link>:</fr:p><fr:blockquote>The nearly universal conclusion of twentieth-century scholarship has been that the earliest and most pervasive pre-Virgilian account of Orpheus' catabasis related his unqualified success: the bard charms the powers of the underworld into releasing his wife, and she returns with him to the land of the living. The more familiar tale of a second loss due to the breaking of a tabu, according to the prevailing opinion, is the invention of the Hellenistic world. (163)</fr:blockquote><fr:p>Curiously, very little about such a lost comedy can be found by searching online, outside of scholarly sources. Neither <fr:link
+type="external"
+href="https://en.wikipedia.org/wiki/Orpheus_and_Eurydice">Wikipedia</fr:link> nor <fr:link
+type="external"
+href="https://www.britannica.com/topic/Orpheus-Greek-mythology">Encyclopedia Britannica</fr:link> seem to make any mention of the possibility. I'm left wondering why this is so, if indeed that "Orpheus' 'complete victory' has found its way into the mythological handbooks, introductory texts, and commentaries" (163).</fr:p><fr:p>I was introduced to such notions some weeks ago by a paper from <fr:link
+type="local"
+href="giovannicostabile.xml"
+addr="giovannicostabile"
+title="Giovanni Costabile">Giovanni Costabile</fr:link> in <fr:link
+type="local"
+href="mythlore-2024a.xml"
+addr="mythlore-2024a"
+title="Mythlore: Vol. 42, No. 2 (144), Spring/Summer 2024, Special Issue: Fantasy Goes to Hell"><fr:em>Mythlore</fr:em>: Vol 42, No. 2.</fr:link>, the journal of the <fr:link
+type="local"
+href="mythopoeicsociety.xml"
+addr="mythopoeicsociety"
+title="Mythopoeic Society">Mythopoeic Society</fr:link>. "<fr:link
+type="local"
+href="costabile-2024.xml"
+addr="costabile-2024"
+title="Orpheus and the Harrowing of Hell in the Tale of Beren and Lúthien">Orpheus and the Harrowing of Hell in the Tale of Beren and Lúthien</fr:link>", which discusses some fascinating connections between the tale of Orpheus's katabasis, Sir Orfeo, Christ, the Harrowing of Hell, and <fr:link
+type="local"
+href="jrrtolkien.xml"
+addr="jrrtolkien"
+title="J.R.R. Tolkien">Tolkien</fr:link>'s cherished Tale of Beren and Lúthien, summarizes this argument that the earliest clear account of the Orpheus and Eurydice had a happy ending.</fr:p><fr:p>Such a debate exists, of course, because no manuscripts of such an original are left to us; what we <fr:em>are</fr:em> left consists of a number of allusions by pre-Virgillian authors which, the critics claim, strongly suggest Orpheus's success. I'll summarize a few of the references here; folks interested in the rest can refer to <fr:link
+type="local"
+href="costabile-2024.xml"
+addr="costabile-2024"
+title="Orpheus and the Harrowing of Hell in the Tale of Beren and Lúthien">the full paper</fr:link>, <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath's paper</fr:link>, and <fr:link
+type="local"
+href="merkley-2016.xml"
+addr="merkley-2016"
+title="Quis Tantus Furor? The Servian Question, Gallus, and Orpheus in Georgics 4">this thesis</fr:link> by <fr:link
+type="local"
+href="kylemerkley.xml"
+addr="kylemerkley"
+title="Kyle Merkley">Kyle Merkley</fr:link>.</fr:p><fr:p>It seems that the earliest allusion cited by scholars is from <fr:em>Alcestis</fr:em>, a fifth century BCE tragedy by Euripides. In Admetus's lamentation over Alcestis, who willing sacrificed her life for him, he bemoans:</fr:p><fr:blockquote>If I had the words and music of Orpheus to charm Persephone or her spouse with my songs and take you from Hades, I would have made the descent. Then neither Pluto's hound nor soul—conduction Charon at his oar would have stopped me until I set you alive once more in the light of day. (<fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath 1994</fr:link>, 169)</fr:blockquote><fr:p>The argument is thus: these lines wouldn't make much sense—be absurd, even—if Orpheus was unsuccessful. Next, in the fourth century, Plato writing as Phaedrus in <fr:em>Symposium</fr:em>, declares:</fr:p><fr:blockquote>But Orpheus, the son of Oeagrus, the gods sent back from Hades a failure. They showed him a mere phantom of the wife for whom he made the journey. They did not given him the real thing because he seemed to be a coward, seeing that he was a harp-player and did not have the heart to die for his love as Alcestis had. Instead he schemed to enter Hades while still alive, and so for this reason the gods punished him and arranged for his death to come at the hands of women. (<fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath 1994</fr:link>, 178)</fr:blockquote><fr:p>Phaedrus praises Alcestis's self-sacrifice in love, so powerful is true love that leads to noble deeds. Orpheus, in contrast, is punished by the gods for his weakness, his failure to demonstrate true love: instead of dying for his wife, he tries to retrieve her from the underworld whilst still alive; in response, the gods supply with him with a mere ghost. But critics assert that nevertheless Orpheus is clearly portrayed as succeeding and that Plato, in order to serve his narrative, is merely warping the returned Eurydice into a ghost.</fr:p><fr:p>Also from the fourth century, the elegiac Hermesianax writes that "with song he won the underworld’s great lords, for Agriope to regain the gentle breath of life" (<fr:link
+type="local"
+href="lightfoot-2010.xml"
+addr="lightfoot-2010"
+title="Fragments">Lightfoot 2010</fr:link>, 165). Here, Orpheus's wife is named for the first time, not as Eurydice but as Agriope. But anyway, scholars argue that this clearly suggests that the musician was successful. The evidence mounts: a number of ancient sources (the aforementioned, and <fr:em>Busiris</fr:em>, <fr:em>Lament for Bion</fr:em>, and Diodorus) allude to an Orpheus who seems to achieved the light of day with the resurrected Eurydice.</fr:p><fr:p>Not everyone agrees. <fr:link
+type="local"
+href="johnheath.xml"
+addr="johnheath"
+title="John Heath">Heath</fr:link>'s <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">1994 article</fr:link>, indeed, seeks to refute each of the cited examples and asserts that there is no unequivocal evidence for a pre-Christian successful Orpheus. He argues that the supporters of the happy ending have elected for overly optimistic interpretations of each reference and taken them out of context. In his lament, for example, Admetus refers to Orpheus's enchanting of Hades—and all agree that this was an unequivocal success, for Hades returned Eurydice to him <fr:em>in the underworld</fr:em>—but not that he actually brought her out. Furthermore, in the midst of all the hysterical and wildly inappropriate things pronounced by Admetus in this lament (including a promise to hate his parents who did not die for him and to commission a statue of her which he will embrace in their bed), one can only take his statements in irony. It makes more sense to understand his allusion to Orpheus as the utterings of a self-absorbed man caught up in his own grief; he wishes he had Orpheus's powers, but that the legendary bard in fact failed is completely lost on him—but not on the audience. And in the context of the entire play, <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath</fr:link> argues that "it is [Orpheus's] traditional inefficacy that fits closely with the major themes" (178).</fr:p><fr:p>The opposition to the interpretation of Phaedrus's statements is similar: indeed the gods presented Orpheus with his wife in the underworld, but nothing is said about a successful return. And if Orpheus did succeed, wouldn't this subvert Phaedrus's point, which anyway is mainly about the gods' view of love and virtue? And that in Hermesianax Agriope regained life is hardly under dispute, for all agree that she was alive when returned to Orpheus in the underworld; whether or not she made it out is not mentioned. And <fr:em>Leontion</fr:em>, in which the reference is found, is altogether about <fr:em>tragic</fr:em> loves, about the victims of overwhelming passion.</fr:p><fr:p>All of this is reinforced, <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath</fr:link> argues, by the fact that there's much ancient pottery and art suggesting a link between Orpheus's romance woes and his death by a group of women. But he is never depicted reunited with the resurrected Eurydice in the world of the living.</fr:p><fr:p><fr:link
+type="local"
+href="kylemerkley.xml"
+addr="kylemerkley"
+title="Kyle Merkley">Merkley</fr:link>, in <fr:link
+type="local"
+href="merkley-2016.xml"
+addr="merkley-2016"
+title="Quis Tantus Furor? The Servian Question, Gallus, and Orpheus in Georgics 4">his 2016 thesis</fr:link> on the <fr:em>Gregorics</fr:em>, pushes back against <fr:link
+type="local"
+href="heath-1994.xml"
+addr="heath-1994"
+title="The Failure of Orpheus">Heath</fr:link>. He argues that Admetus's allusion to the Orpheus's musical prowess can be understood ironically even if it is to a successful Orpheus; for example, he swears off the lyre and music entirely just a few lines prior. He also cites the fourth century BCE Palaephatus, who makes a seemingly unquestionable parallel between Hercules's twelfth labor and Orpheus's katabasis:</fr:p><fr:blockquote>As Herakles after going down into Hades led up Cerberus, so likewise Orpheus led up his wife. (<fr:link
+type="local"
+href="merkley-2016.xml"
+addr="merkley-2016"
+title="Quis Tantus Furor? The Servian Question, Gallus, and Orpheus in Georgics 4">Merkley 2016</fr:link>, 17)</fr:blockquote><fr:p>This, <fr:link
+type="local"
+href="merkley-2016.xml"
+addr="merkley-2016"
+title="Quis Tantus Furor? The Servian Question, Gallus, and Orpheus in Georgics 4">Merkley</fr:link> suggests, bolsters the other citations enormously; while they don't refer explicitly to Orpheus's success, surely they imply it given this explicit parallel. He also suggests that perhaps an original contained only the first half of the quest: Orpheus receives Eurydice from the lords of the underworld, and the tale ends, implying some success. Various authors were then able to add their own addendum, as perhaps Plato did. He goes on to posit that the failure ending was invented not by Virgil but some earlier first century author.</fr:p><fr:p>From my limited and very amateur reading, I suppose that, even now, there remains no consensus with regards to this century-long debate—though "on all sides, various scholars claim the weight of consensus for their position" (1). Obviously, I'm not at all an expert on the classics; if anyone who actually knows what they're talking about has any thoughts or corrections, I'd be happy to hear them!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>308</fr:anchor><fr:addr
+type="user">zzhaoe-000C</fr:addr><fr:route>zzhaoe-000C.xml</fr:route><fr:title
+text="「舟を編む」">「舟を編む」</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>先月に大学の友達を訪問し、誕生日プレゼントとしてもらった<fr:link
+type="local"
+href="shionmiura.xml"
+addr="shionmiura"
+title="三浦しをん">三浦しをん</fr:link>による、2012年本屋大賞受賞作である「<fr:link
+type="local"
+href="miura-2015.xml"
+addr="miura-2015"
+title="舟を編む">舟を編む</fr:link>」は、一週間かけて読み終わった。長年にわたる情熱が切れず、言葉の海を渡る舟になれるように「大渡海」の完成に向ける馬締たち。短かったわりに、作業の大規模さを感じられ、不器用で愛おしいそれぞれの登場人物を知れ、言葉への敬意、言葉の力、大切さを改めて覚えさせていただいた作品だった。</fr:p><fr:p>携帯電話の時代だというのに、辞書の編纂作業には、見出し語の重複や漏れがないか、用例採集カードや山積みの校正刷りをすべて手で確認する。編集部の部屋にコンピューターがあるみたいが、肝心な仕事には関わっていなさそう。今ならどうだろう。よくデーターベース化されたら、「玄武書房地獄の神保町合宿」は一ヶ月間を費やすまでもなく、起こるさえもなかったに思える。しかし、それで編集作業が楽になるどころか、言葉へのより鋭いセンス、愛情が求められるものだろう。これから、オックスフォード英語辞典や広辞苑を引くたびに、無数の辞書編集者へ感謝を覚えるべき。</fr:p><fr:p>これで翻訳版は気になる。「あがる」と「のぼる」の微妙な違いや「への人」の問い合わせなどは、いったいどうやって訳されているかな、と思っていた。英語の翻訳版が大いに高評価を受けているらしく、よく工夫したにちがいない。ネットで購入しようかと思うほどでもあるが、積読が続いている今の状態で良心の呵責に耐えかねる。</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>310</fr:anchor><fr:addr
+type="user">zzhaoe-000E</fr:addr><fr:route>zzhaoe-000E.xml</fr:route><fr:title
+text="On The Worm Ouroboros">On <fr:em><fr:link
+type="local"
+href="eddison-1971.xml"
+addr="eddison-1971"
+title="The Worm Ouroboros">The Worm Ouroboros</fr:link></fr:em></fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The language is delightful, but one can't help but agree with <fr:link
+type="local"
+href="jrrtolkien.xml"
+addr="jrrtolkien"
+title="J.R.R. Tolkien">Tolkien</fr:link>'s assessment (<fr:link
+type="local"
+href="tolkien-1981.xml"
+addr="tolkien-1981"
+title="The Letters of J.R.R. Tolkien">Letter 199</fr:link>) that what underlies the entire saga is "an evil and indeed silly 'philosophy'" and the ending has one wondering indeed if <fr:link
+type="local"
+href="ereddison.xml"
+addr="ereddison"
+title="E.R. Eddison">Eddison</fr:link> admired "arrogance and cruelty."</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>312</fr:anchor><fr:addr
+type="user">zzhaoe-000G</fr:addr><fr:route>zzhaoe-000G.xml</fr:route><fr:title
+text="On bealuwara weorc">On <fr:em>bealuwara weorc</fr:em></fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2022</fr:year><fr:month>12</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>In lines 78-80a of the "<fr:link
+type="local"
+href="dreamoftherood.xml"
+addr="dreamoftherood"
+title="Dream of the Rood">Dream of the Rood</fr:link>":</fr:p><fr:blockquote>Nu ðu miht gehyran, hæleð min se leofa, þæt ic bealuwara weorc gebiden hæbbe, sarra sorga.</fr:blockquote><fr:p>Roughly modernised, the Cross speaks:</fr:p><fr:blockquote>Now you may hear, my dear warrior, that I have endured the works of wicked men, grevious sorrows.</fr:blockquote><fr:p>Here, the neuter acc. <fr:em>weorc</fr:em> is roughly Mdn.E. "work", and <fr:em>bealuwara</fr:em> (perhaps the gen. pl. of an unrecorded <fr:em>bealuware</fr:em>, a compound of <fr:em>bealu</fr:em>, "baleful", "wicked", and <fr:em>wara</fr:em>, "inhabitant") has been translated variously as "miscreants", "wicked men". <fr:link
+type="local"
+href="bosworth-2014.xml"
+addr="bosworth-2014"
+title="Bosworth Toller's Anglo-Saxon Dictionary">Bosworth Toller's</fr:link> has "baleful inhabitants", "criminals". But <fr:link
+type="local"
+href="britton-1967.xml"
+addr="britton-1967"
+title="“Bealuwara Weorc” in the “Dream of the Rood”">apparently</fr:link> this bit has caused philologists a lot of trouble.</fr:p><fr:p>Interestingly, it's tempting to compare also "Balrog", which in Sindarin comes from <fr:em>BAL</fr:em> ("power") + <fr:em>raug/rog</fr:em> ("demon"), but has echoes of <fr:em>bealu-wearg</fr:em> ("outlaw", "wolf") or <fr:em>bealu-broga</fr:em> ("monster", "terror").</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
+  <fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>314</fr:anchor><fr:addr
+type="user">zzhaoe-000J</fr:addr><fr:route>zzhaoe-000J.xml</fr:route><fr:title
+text="Writing">Writing</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>315</fr:anchor><fr:addr
+type="user">zzhaoe-000O</fr:addr><fr:route>zzhaoe-000O.xml</fr:route><fr:title
+text="The Butler">The Butler</fr:title><fr:taxon>Fiction</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>7</fr:month><fr:day>7</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I could only watch on as the butler lifted box after box into the pit. He looked different, like another person altogether. Skinnier, as though he'd suddenly started and finished a diet of five months all in one night, and the usual suit no longer fit him but drooped loosely like an enormous shawl over his knees. The pit wasn't there just yesterday, either. The floorboards had been ripped up and cast aside carelessly: one lay abandoned next to the fireplace, and another teetered precariously on the sofa arm.</fr:p><fr:p>They were boxes of chips, the bulk packages that one would buy at the big-box retail stores. Somehow, though the pit wasn't very large, he'd already gotten three of them down there. The bottom was dirt, and as he stepped about the room and into the hallways, the dust followed him. He was carrying in other things now from all over the house. A golden maneki-cat. Its paw waved as he brought it perched atop a box of photo albums. A casket of incense, and a pot and two bottles of 1893 port. I frowned.</fr:p><fr:p>"What are you doing?" I finally asked. The butler peeked his head up from inside the pit. He seemed older than I had known before, and his wrinkled cheeks sagged across his jaws.</fr:p><fr:p>"I'm quitting. It's my time," he said, shrugging.</fr:p><fr:p>"What?" I hadn't heard about this at all. The butler had been here as long as any of us could remember, from when Old Frank yet dictated the business of Wilbow. "Have you told Harman?"</fr:p><fr:p>He climbed out of the pit. His arms were bruised a pale purple, and they looked in danger of snapping altogether, so thin they had become. I thought him a skeleton wrapped in a gangly leather.</fr:p><fr:p>"Haven't." He shrugged again.</fr:p><fr:p>"You're just going to disappear? What in the world am I supposed to tell him once he's back Monday?"</fr:p><fr:p>"Don't worry," he said, waving dismissively. "He won't even notice."</fr:p><fr:p>The door to the kitchen swung open, and the handle cracked loudly against the opposing wall. That was the sturdiest piece of the entire house, compressed by the years of disregard. The smell of warm supper drifted out into the living room. Out stepped the butler.</fr:p><fr:p>"What...?" I looked back and forth between the two men. The butler smiled.</fr:p><fr:p>"I created him from my body fat."</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>317</fr:anchor><fr:addr
+type="user">zzhaoe-000P</fr:addr><fr:route>zzhaoe-000P.xml</fr:route><fr:title
+text="The Mountains at the Edge of the World">The Mountains at the Edge of the World</fr:title><fr:taxon>Fiction</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>16</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Now already from a distance could the Captain see the rising base of the mountains as they lifted high above the whispering trees at the edge of the world. He had come for the poets and bards past their wavering branches, across the impenetrable range and down the other side, where it was said by some that the rays of the sun grew stalks of verse that ripened with the rhyming of time and bore the fruit of poetry and song; in a single field would even the fruit of seven perfect sonnets and four great epics burst forth from emerald buds, and thirteen hymns of holy grandeur and as many as twenty drunken ballads in their midst, and more still if the odist in his stupor did mistaken wine for the feed; and there was of course always an odd limerick or two that found its way through the weeds of rationality into a stray patch of sun, much to the chagrin of all his proud fellows. And it was said that there were many acres of these fields, for the soil was rich and pleasant weather very plentiful, and the land was populated with bards at every corner and turn, and each crossroads had its own minstrel, as though it were the court of a patron-king, and he would beckon to travellers the roads to the south where strange tunes afloat, or to the gay sailors of the eastern coasts, where all sang of maidens who themselves were fine sonneteers, and rare metals and treasures of the highest pitch, and baubles unmatched in their resonance. These the kings and dukes would keep hoarded in great halls, and nightly listen to their sonorous choir. Such were the lands that now the Captain sought, where poets and song abound.</fr:p><fr:p>For now in long while had the Captain wandered these ways west of the mountains, and as the days and months and years went by, ever it seemed to him that the world was without the colour of new song, for in all the lands through which he passed, nothing now seemed to strike him, though it might be new to his ears, such that he was refreshed. But the ways of new melody and the living craft of their forefathers, he thought, seemed ever lost. Perhaps he was simply old.</fr:p><fr:p>Indeed he found that he missed the lyric of his youth, when yet the curious Otter would tell strange tales in yet stranger tongues, and they were of music to him; when the Badger seemed endless in his skill on the lute. Where fled that mystical air that conjured the wild, that he stood now at the edge of the world; even his uncle's ruddy tunes seemed a magic, yet now the lays of old were distant, farther than even the peaks of those mountains that cast their great looks below onto the groves that loomed ahead.</fr:p><fr:p>The river which had just moments ago flooded as a torment, with crashing and crackling fallen the steep ways by the ragged crags at the Gates, did now ease into a quiet flow. The _Morhen_, though fiercely battered, yet glode with a slight teeter as they approached with care to the ends. For here it was that the river would flow no more but fall to sleep at the foot of the mountains; not trickle into the cracks and become whispering gullies under the earth and spill into the east, but be a rest for the few fishes and toads and buzzing insects that knew nothing of what lie beyond the range impassable.</fr:p><fr:p>Now the Captain leapt from his vessel into the muddy shallows, and reigning in the _Morhen_, though it would have preferred itself to continue sailing unto the end, he lugged it onto the forest bank and laid it to rest at the foot of an enormous oak. And indeed, it was the end now of the _Morhen_'s final voyage, and it was laid to rest, and never again would the spirits consent it to see its master again. And so does lie that indomitable vessel until it is made new by the turning of the world and all is redone.</fr:p><fr:p>But the Captain's journey was incomplete, and he looked now upwards where the lofty cliffs of the mountains disappeared into the clouds which rumbled high above. A march of grey had broken the lines of the heavens, and the vanguard in desperate retreat raced for safety over the battlements of the last peaks. Therewith the Captain frowned, for it was not in his mind to stay within these woods beneath the mountains and suffer their gaze for many days until the multitudes of the sky should make rout of the grey host or until their brethren of the west should chase them away. And indeed he feared most that these angry mercenaries should grow weary of siege and in desperation make war upon the mortals below. Yet neither did he desire to infiltrate into their midst and scurry as a rat beneath the footfalls of heated battle. But he thought of song, and the call of the east tugged at him now, as it did in his youth and for all the decades since, through the ruined fields of Swan-camp and up and down the untamed canyons of the Middle-middle, unto even the indigo grottos and towering summits of the Borenn; and at once he set out onto the slopes that curved gently out of the trees and became the jagged ridges and eroded ways that guarded the edge of the world.</fr:p><fr:p>How close he now was! he realised in delight, and he began to hum an old tune that his uncle used to yodel when the clouds trampled the skies even in those days, those idle days on the River. And that morning he made great progress upon the slopes, and when the sun was high over head, a faint glow behind the storm, he could see already the tops of the forest for many leagues, and the winding route of the river he could follow far upstream until its snaking designs faded dolefully into the mist, to the Gates yonder and the world beyond their mouths.</fr:p><fr:p>All about the Captain were the leaves and flowers of familiar shrubs and those he had never before seen, but there were no trees of considerable height, for now the earth beneath his boots crunched neatly with the sounds of gravel, and below the sands still was a rock of marble texture. He went on, climbing all that day and the evening, until the sky grew too dark for such activities; one could not see clearly if the step were toward the peaks or into the abyss that now haunted below. So there, on the cold slopes, the Captain took to sleep and dreamed on the gravel of the poets and their vineyards that lay on the other side of his rest.</fr:p><fr:p>In the morning he rose to the thundering above, and broken again were his wistful hopes of the sun's blessing, but he would trudge in wonder at the time when the hosts above would descend upon him and wash him away. But the Captain was a traveller all his days, and such things were not new to veterans of his calibre, only mere annoyances. But perhaps it was his age now showing clear, for he felt weary indeed of mere annoyances, and pined for song and good cheer by the fireplaces of that poet-land to brighten his final days.</fr:p><fr:p>It was said even that there lay great cities to pale all the jewels of the far south, should only one travel to the lands where song was the language of all and verse the metre of life. Their names were long and bore euphonious melody themselves; their lords magnificent and courteous, their laws just and given in rhyme. So to those thoughts did the Captain continue his climb unbothered, and by nightfall on the second day of his ascent even the landscape below had become a hazy blur of sages and pines and spruces, and all that the Captain could perceive about him was the fierce rock beneath his feet, and the rushing wind, and the clouds, having gathered westward, making merry above, for it was now the beginning of spring, and all the world behind him was alike in festivity. He was, too, in spite of all weariness, lifted by the cheer about him, and though the wind, in its furious dances of joy, blew his tent about this way and that, the Captain hummed tunes of his own, old ones from his youth which had not yet completely lost their flavour when others did long ago. And there was a heavy longing in his heart, though he knew not wherefore, but he was torn in all directions, toward those kingdoms of the fabled east and beyond, but also above to the clambering of the heavenly host in their springtime jubilation, and even westwards to the familiar County that seemed now of an older past; until the lifting of dawn, and the fair plumes of its flames filled the starry gap of the equinoctial ceasefire, casting a mellow warmth onto the enormous slopes upon which the Captain lay.</fr:p><fr:p>That morning, he made his final climb toward those highest peaks, and with the merrymaking all ended and the towering hosts renewed in war, it came to be that the Captain entered into the fury of the battlefield, and he stooped low and fought as a warrior himself, but under no command. The cold and wet were as an onslaught against him. And indeed it grew very cold, as though spring had come in the night and passed away so soon, and summer and autumn gone with it, dashing west to catch the final ship; for the cold around the peaks of the mountains was like the breath of many dragons and the trolls that ride upon them in their hunting. But the Captain thought suddenly how he missed the quiches of spinach and cheese made in his youth by his mother the sister of his uncle the old Captain.</fr:p><fr:p>Late in the afternoon, he came at last to the great crater at the top of the mountain, and as night fell for the third time upon the Captain, he climbed over the rim, and bracing against the furious wind, he peered long into the bowl there, which seemed to stretch onward for many miles, and he could not for all his straining see the far walls. He saw only the floor below and the faded outlines of weathered pillars here and there in the far distance. These were not of mortals, or the spirits even, but erected during the wars of yet greater beings when the world was still young; and there were also colossal chains, now hopelessly broken, that lay in ruin upon the plain. It was a great plain of grasses. They waved now, and in the flickering shadows, a memory of thundering, mighty hooves and the flourishing of arms yet crashed terribly, unto the rounding of the world.</fr:p><fr:p>Marvelled the Captain at all that he saw, so near to the eye of this mountaintop tempest. He stepped gingerly into the bowl of the crater, taking great care not to fall, and beneath his boots he felt suddenly the anguish of long forgotten bones, crushed now into mere dust by mortal feet. And lo! the wind lulled in its blowing, and the great hosts of high heavens released their siege, and the bones ceased their cries, and the grasses hushed to stillness, sitting gently now in wait for the first wanderer in many ages to come upon the crater at the top of the mountain; indeed, since of old when the gods had made it a terrible battlefield. And the Captain wondered at the sky's opening and the blossoming of a million stars onto the darkening violet tapestry; for who knew that so many stars did nest in the skies? He marked new arrangements, and the Stag now stood triumphant and the Spheres were at length complete; was not the Maiden Who Was Lost now dancing in merriment, with joy and ease, and her feet lifted in flight above the surface of the water by a new wind from the west? And in its path all the stars seemed to glitter with gold. Amidst all this the Captain passed his final night in the crater upon the edge of the world, utterly sleepless.</fr:p><fr:p>As the skies grew light again and the millions of stars bade farewell to that lonely traveller, the first in many ages, and the Maiden Who Was Not Lost was not least among them, indeed, since the gods had made it their terrible battlefield, the Captain arose out of his sleepless stupor and faced anew the east. His strength was renewed, and he turned now with excitement to the lands beyond the peak. From there rose a blinding brightness that accompanied the sun, and, shielding his eyes, the Captain strode forth. And he ascended toward the rim of the far side, and it was very steep and slippery, as a pool of gravel of untold age. But the Captain trudged on unfettered, and now striving with all his might, he peered over the very top.</fr:p><fr:p>And for a moment he was utterly blinded by the light of the sun, or that which accompanied the sun, but he forced his eyes open again; and he saw the turning of the waves of the world and the folding of the skies with them, and he thought he heard out of the heavens a new melody, as though at last the final harmony was composed. There was a great tremor, and the Captain felt himself shaken violently, that he shut his eyes in terror.</fr:p><fr:p>And when all had settled, peering out now far to the east from the peak of the mountains of the farthest east, the Captain saw the untouched woods and whistling sands, and the high cliffs, and the sea crashing upon its marble. And by some gift of the heavens or other, he could see very far and below, across the sloping forests and beaches, and the great cliffs of marble and the vast ocean, even unto the Pillars of the West! Thus with great joy he hastened down to those sloping woods, to erect a new vessel and tell all he knew about the mountains at the edge of the world.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>319</fr:anchor><fr:addr
+type="user">zzhaoe-000K</fr:addr><fr:route>zzhaoe-000K.xml</fr:route><fr:title
+text="Wrath">Wrath</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:blockquote>Upon God my Wrath was wholly bent 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  A fury that from Eden high He did 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Men cast and took undue what was 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Our Own, yet mere Knowing we had durst. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  'Twas Doom with which He shackled us, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  The Doom of men, the Doom of death 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Whilst sits He on a See on High 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  And beholds us in our withering. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Of Gift would those in folly speak 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Their Doom, in joy tholing their fetters. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Sought I the means to quicken anew, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  To rout this curse by might and main 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  And make the Earth He yields not, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  So far I went to lonesome place 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  And deep to forge new whispers true, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  The lore to-day and Word to come. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  By craft arisen to meet His Face— 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  To pluck mine own Fate from Despot fist! 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  A Wrastle for ages untold, sinew 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Upon sinew, and grasped I the winning 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  At hand, and lo! How grand and vast 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  It was not, but horrid indeed, all 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  The Same, for yet I was, and Falling 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  To grey below and dashed upon the Weight 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Of Doom, His now lifted, but all my Own. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Yet Time was not come, nor would it now, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  For seen I had death under Conquest, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  But there is none at all over Death.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>348</fr:anchor><fr:addr
+type="user">zzhaoe-000L</fr:addr><fr:route>zzhaoe-000L.xml</fr:route><fr:title
+text="Sorrow">Sorrow</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:blockquote>What is life if not but sorrow? 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Wary now -- I speak not merely 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  moment's gloom, despair all hollow. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Nay, only how we wear so dearly 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  keen the present's fleeting passage. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  What happiness does linger through? 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  But dare I say -- do not outrage! -- 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  that better they had gone as due, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  for far the road does whistful wend, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  with sight ineffable at each bend.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>359</fr:anchor><fr:addr
+type="user">zzhaoe-000I</fr:addr><fr:route>zzhaoe-000I.xml</fr:route><fr:title
+text="The Wise One of the Mud">The Wise One of the Mud</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:blockquote>What little knew those men in dark 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  atread upon that grove bespoke. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  They hearkened not the eldest lark 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  yet sentinel for broken yoke: 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  incarnate fen, though incorporeal, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  soft the firm made stifling mire 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  writhing drew a hymn primordial 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  groaning past in willow shire.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>368</fr:anchor><fr:addr
+type="user">zzhaoe-000M</fr:addr><fr:route>zzhaoe-000M.xml</fr:route><fr:title
+text="The Ettin's Lament">The Ettin's Lament</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:blockquote>To him alone who      far now across 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  wild old weald      worn wetland ways 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  beholds it broken:      bold burgs once bright, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  fortune of fathers      fey foe full fettered, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  wondrous wallstone      wyrd's wrath wasted, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  comes often on mind      Maker's fell mercy, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  but seldom does see      a rainfall serene 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  the cries of hunger and green. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Where now the heath?      Where now the hinter? 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Where now home and      hymnal of hope? 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Long have I lived      in lands lean and malign, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  cold and cruel coil      to quickness confine; 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  not apple nor plum,      but poor province's pity, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  be broken for me,      nor brother beside 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  so long since seen      by stock or by stone: 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  how may we ettins atone? 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Men's meeting I mourn,      malevolent make 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  who rifle remorseless;      how dearly I rue: 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  what little we learned      of tranquil and list 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  and stations so soft      of serenity too? 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Linden hair hewn,      the leavings of hammer, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  deep vein debased,      heaven defiled 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  that sweat yet sweeps      swarthy to swim 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  whilst silver and gold fall dim. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Wherefore this scourge      of sinew and spite? 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Their breast bright burns      as not basking sun 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  nor lasting light      but lively coal: 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  straight fleeting spark      as measures size; 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  yet tears of sky      call toil and tide, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  speak tremors far      wide and side; so 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  befled the flood      or final to fall— 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  heard not thy word nor law. 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Yet wish the wretched      to hearken revealed, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  as bird and bee bid      for honey love bed: 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  wilt not thou plant      but thicket for thrush, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  or condemned ere      to exile on earth, 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  forsaken to fire      of unforeseen fury? 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  Alas, too late      for lore learned 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  at roun, for worlds      at wight's will wind 
+  <html:br
+xmlns:html="http://www.w3.org/1999/xhtml" />
+
+  not, nor fate be one to bind.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
