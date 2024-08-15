@@ -1,0 +1,10 @@
+\title{Grove (Agda)}
+\taxon{software}
+\tag{ongoing}
+\author{michaeladams}
+\author{thomasporter}
+\author{ericczhao}
+
+\meta{external}{https://github.com/fplab/grove-agda}
+
+\p{An Agda mechanization of the Grove collaborative structure editor calculus.}
