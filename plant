@@ -16,9 +16,10 @@ operations:
 
 _usage_new="""usage: $0 new <kind> [...]
 kinds:
-    $0 new person  <id> <name>
-    $0 new thoughts <title>
-    $0 new ref     <id>
+    $0 new person       <id> <name>
+    $0 new institituion <id> <name>
+    $0 new thoughts     <title>
+    $0 new ref          <id>
 """
 
 _exit_usage_top() {
@@ -76,6 +77,29 @@ _ask_confirm_edit() {
 		exit 0
 		;;
 	esac
+}
+
+# _new_institition <id> <name>
+_new_institition() {
+	if [ "$#" -ne 2 ]; then _exit_usage_new; fi
+	local id="$1"
+	local name="$2"
+	local path="$_people/$id.tree"
+
+	# check that the id isn't duplicate
+	if [ -f "$path" ]; then
+		>&2 echo "institition already exists: $path"
+		exit 1
+	fi
+
+	_ask_confirm_plant "$path"
+
+	# fill contents of tree
+	echo """\title{$name}
+\taxon{institition}
+""" >"$path"
+
+	_ask_confirm_edit "$path"
 }
 
 # _new_person <id> <name>
@@ -145,6 +169,9 @@ _new() {
 	case $1 in
 	person)
 		_new_person "${@:2}"
+		;;
+	institition)
+		_new_institition "${@:2}"
 		;;
 	thoughts)
 		_new_thoughts "${@:2}"
