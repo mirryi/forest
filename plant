@@ -79,29 +79,6 @@ _ask_confirm_edit() {
 	esac
 }
 
-# _new_institition <id> <name>
-_new_institition() {
-	if [ "$#" -ne 2 ]; then _exit_usage_new; fi
-	local id="$1"
-	local name="$2"
-	local path="$_people/$id.tree"
-
-	# check that the id isn't duplicate
-	if [ -f "$path" ]; then
-		>&2 echo "institition already exists: $path"
-		exit 1
-	fi
-
-	_ask_confirm_plant "$path"
-
-	# fill contents of tree
-	echo """\title{$name}
-\taxon{institition}
-""" >"$path"
-
-	_ask_confirm_edit "$path"
-}
-
 # _new_person <id> <name>
 _new_person() {
 	if [ "$#" -ne 2 ]; then _exit_usage_new; fi
@@ -119,8 +96,29 @@ _new_person() {
 
 	# fill contents of tree
 	echo """\title{$name}
-\taxon{person}
-""" >"$path"
+\taxon{person}""" >"$path"
+
+	_ask_confirm_edit "$path"
+}
+
+# _new_institition <id> <name>
+_new_institition() {
+	if [ "$#" -ne 2 ]; then _exit_usage_new; fi
+	local id="$1"
+	local name="$2"
+	local path="$_people/$id.tree"
+
+	# check that the id isn't duplicate
+	if [ -f "$path" ]; then
+		>&2 echo "institition already exists: $path"
+		exit 1
+	fi
+
+	_ask_confirm_plant "$path"
+
+	# fill contents of tree
+	echo """\title{$name}
+\taxon{institition}""" >"$path"
 
 	_ask_confirm_edit "$path"
 }
@@ -135,8 +133,7 @@ _new_thoughts() {
 	# prepend other metadata
 	echo """\title{$title}
 \taxon{thoughts}
-\author{$_me}
-""" | cat - "$path" | tee "$path" >/dev/null
+\author{$_me}""" | cat - "$path" | tee "$path" >/dev/null
 
 	>&2 echo "planted $path"
 
