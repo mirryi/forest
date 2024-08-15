@@ -134,8 +134,9 @@ _new_thoughts() {
 	local path=$(forester new --dest="$_thoughts" --prefix="$_slug")
 	# prepend other metadata
 	echo """\title{$title}
+\taxon{thoughts}
 \author{$_me}
-\taxon{thoughts}""" | cat - "$path" | tee "$path" >/dev/null
+""" | cat - "$path" | tee "$path" >/dev/null
 
 	>&2 echo "planted $path"
 
@@ -158,8 +159,8 @@ _new_ref() {
 
 	# fill contents of tree
 	echo """\title{}
-\author{}
 \taxon{reference}
+\author{}
 \date{}""" >"$path"
 
 	_ask_confirm_edit "$path"
