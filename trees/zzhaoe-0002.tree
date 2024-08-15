@@ -1,7 +1,29 @@
 \title{software}
 \author{ericczhao}
 
-\put\transclude/numbered{false}
-\transclude{zzhaoe-0005}
-\transclude{zzhaoe-0006}
-\transclude{zzhaoe-0004}
+\scope{
+  \subtree[zzhaoe-0005]{
+    \title{ongoing}
+    \p{Software today and now! (varying degrees of contribution and triviality).}
+
+    \query{
+      \open\query
+      \isect{\author{ericczhao}}{\taxon{software}}{\tag{ongoing}}
+    }
+  }
+
+  \subtree[zzhaoe-0006]{
+    \title{past}
+    \p{Software I worked on in the past.}
+
+    \query{
+      \open\query
+      \isect{\author{ericczhao}}{\taxon{software}}{\tag{past}}
+    }
+
+    \query{
+      \open\query
+      \isect{\author{ericczhao}}{\taxon{software}}{\tag{archive}}
+    }
+  }
+}

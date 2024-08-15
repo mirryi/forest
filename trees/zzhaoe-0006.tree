@@ -1,9 +1,0 @@
-\title{past software}
-\author{ericczhao}
-
-\p{Software I worked on in the past.}
-
-\query{
-  \open\query
-  \isect{\author{ericczhao}}{\taxon{software}}{\tag{past}}
-}
