@@ -11,4 +11,9 @@
     \title{email}
     \p{zzhaoe [at] brown [dot] edu}
   }
+
+  \subtree{
+    \title{GitHub}
+    \p{[mirryi](https://github.com/mirryi)}
+  }
 }
