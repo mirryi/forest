@@ -7,6 +7,19 @@
   \<html:br>{}
 }
 
+\def\table[body]{
+  \<html:table>{\body}
+}
+\def\tr[body]{
+  \<html:tr>{\body}
+}
+\def\td[body]{
+  \<html:td>{\body}
+}
+\def\th[body]{
+  \<html:th>{\body}
+}
+
 \def\mathpar[body]{
   \tex{
     \usepackage{mathpartir}
