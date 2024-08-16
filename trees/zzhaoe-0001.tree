@@ -1,6 +1,8 @@
 \title{about}
 \date{2024-08-10}
 
+\import{zzhaoe-000H}
+
 \p{I'm an incoming first year PhD student in Computer Science at [[brownuniversity]], advised by [[nikosvasilakis]] and [[robertlewis]]. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at [[umich]], where I worked with [[cyrusomar]] in the [[fplab]].}
 
 \p{I'm also supported by the NSF Graduate Research Fellowship.}
@@ -8,12 +10,23 @@
 \scope{
   \put\transclude/toc{false}
   \subtree{
-    \title{email}
-    \p{zzhaoe [at] brown [dot] edu}
-  }
+    \title{external}
 
-  \subtree{
-    \title{GitHub}
-    \p{[mirryi](https://github.com/mirryi)}
+    \p{Feel free to reach out:}
+
+    \table{
+      \tr{
+        \td{\strong{email:}}
+        \td{zzhaoe [at] brown [dot] edu}
+      }
+      \tr{
+        \td{\strong{github:}}
+        \td{[mirryi](https://github.com/mirryi)}
+      }
+      \tr{
+        \td{\strong{orcid:}}
+        \td{[0009-0000-4969-2376](https://orcid.org/0009-0000-4969-2376)}
+      }
+    }
   }
 }
