@@ -3,6 +3,7 @@
 
 \xmlns:html{http://www.w3.org/1999/xhtml}
 
+% HTML
 \def\br{
   \<html:br>{}
 }
@@ -20,6 +21,7 @@
   \<html:th>{\body}
 }
 
+% LaTeX
 \def\mathpar[body]{
   \tex{
     \usepackage{mathpartir}
@@ -29,5 +31,20 @@
     \end{mathpar}
   }
 }
+
+% other
+\def\warning[name][toc][body]{
+  \scope{
+    \put\transclude/toc{\toc}
+    \subtree{
+      \title{\name}
+      \taxon{warning}
+
+      \body
+    }
+  }
+}
+
+\def\spoiler[toc][body]{\warning{spoiler}{\toc}{\body}}
 
 \p{This tree defines some basic macros.}
