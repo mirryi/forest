@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>776</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>787</fr:anchor><fr:addr
 type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
 text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
 name="external">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
@@ -25,7 +25,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>777</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>788</fr:anchor><fr:addr
 type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
 text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm an incoming first year PhD student in Computer Science at <fr:link
 type="local"
@@ -60,22 +60,47 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>257</fr:anchor><fr:addr
-type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
-text="Email">Email</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>zzhaoe [at] brown [dot] edu</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:addr
 type="machine">#239</fr:addr><fr:route>unstable-239.xml</fr:route><fr:title
-text="GitHub">GitHub</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
+  <html:table
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+  <html:tr>
+        
+  <html:td><fr:strong>email:</fr:strong></html:td>
+
+        
+  <html:td>zzhaoe [at] brown [dot] edu</html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>github:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
 type="external"
-href="https://github.com/mirryi">mirryi</fr:link></fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+href="https://github.com/mirryi">mirryi</fr:link></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>orcid:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
+
+      </html:tr>
+
+    </html:table>
+</fr:mainmatter><fr:backmatter /></fr:tree>
 </fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
@@ -83,7 +108,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>778</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>789</fr:anchor><fr:addr
 type="user">zzhaoe-000T</fr:addr><fr:route>zzhaoe-000T.xml</fr:route><fr:title
 text="Passed the JLPT N1">Passed the JLPT N1</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -102,7 +127,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>780</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>791</fr:anchor><fr:addr
 type="user">andrewblinn</fr:addr><fr:route>andrewblinn.xml</fr:route><fr:title
 text="Andrew Blinn">Andrew Blinn</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">PhD Student</fr:meta><fr:meta
@@ -118,7 +143,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>781</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>792</fr:anchor><fr:addr
 type="user">cyrusomar</fr:addr><fr:route>cyrusomar.xml</fr:route><fr:title
 text="Cyrus Omar">Cyrus Omar</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">Assistant Professor</fr:meta><fr:meta
@@ -134,7 +159,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>782</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>793</fr:anchor><fr:addr
 type="user">fplab</fr:addr><fr:route>fplab.xml</fr:route><fr:title
 text="Future of Programming Lab">Future of Programming Lab</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
 name="external">http://fplab.mplse.org</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>FP Lab at the <fr:link

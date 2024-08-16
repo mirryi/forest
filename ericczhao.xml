@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>636</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>645</fr:anchor><fr:addr
 type="user">ericczhao</fr:addr><fr:route>ericczhao.xml</fr:route><fr:title
 text="Eric Zhao">Eric Zhao</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">PhD Student</fr:meta><fr:meta
@@ -35,7 +35,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>637</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>646</fr:anchor><fr:addr
 type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
 text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm an incoming first year PhD student in Computer Science at <fr:link
 type="local"
@@ -70,22 +70,47 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>257</fr:anchor><fr:addr
-type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
-text="Email">Email</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>zzhaoe [at] brown [dot] edu</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:addr
 type="machine">#239</fr:addr><fr:route>unstable-239.xml</fr:route><fr:title
-text="GitHub">GitHub</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
+  <html:table
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+  <html:tr>
+        
+  <html:td><fr:strong>email:</fr:strong></html:td>
+
+        
+  <html:td>zzhaoe [at] brown [dot] edu</html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>github:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
 type="external"
-href="https://github.com/mirryi">mirryi</fr:link></fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+href="https://github.com/mirryi">mirryi</fr:link></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>orcid:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
+
+      </html:tr>
+
+    </html:table>
+</fr:mainmatter><fr:backmatter /></fr:tree>
 </fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
@@ -93,7 +118,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>638</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>647</fr:anchor><fr:addr
 type="user">brownuniversity</fr:addr><fr:route>brownuniversity.xml</fr:route><fr:title
 text="Brown University">Brown University</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
 name="external">https://www.brown.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
@@ -111,7 +136,56 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>639</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>648</fr:anchor><fr:addr
+type="user">zzhaoe-000U</fr:addr><fr:route>zzhaoe-000U.xml</fr:route><fr:title
+text="Orpheus in Atuan">Orpheus in Atuan</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr
+type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
+text="Spoiler">Spoiler</fr:title><fr:taxon>Warning</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:parent>zzhaoe-000U</fr:parent></fr:frontmatter><fr:mainmatter>
+  <fr:p><fr:em><fr:link
+type="local"
+href="leguin-2001a.xml"
+addr="leguin-2001a"
+title="The Tombs of Atuan">The Tombs of Atuan</fr:link></fr:em> and maybe <fr:em><fr:link
+type="local"
+href="leguin-2001b.xml"
+addr="leguin-2001b"
+title="The Farthest Shore">The Farthest Shore</fr:link></fr:em>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+<fr:p>Having recently read too much about Orpheus, I find myself looking for something resembling an Orphic katabasis in other stories... The Labyrinth in <fr:em><fr:link
+type="local"
+href="leguin-2001a.xml"
+addr="leguin-2001a"
+title="The Tombs of Atuan">The Tombs of Atuan</fr:link></fr:em> seems awfully underworld-ish.</fr:p><fr:p>Ged's to-be-legendary heist is to reclaim that half of Ring of Erreth-Akbe which is kept deep under the Temple of the Nameless Ones on the Kargish isle of Atuan. He succeeds. But arguably, there's something much greater that he reclaims from the dark: a human soul, Tenar's. I don't suppose he expected do so, but I can't help but see some Orpheus-like elements to his descent and return from the darkness.</fr:p><fr:p>He's no artist of music, but an artist of names, a mage, and indeed perhaps the greatest, at least since Erreth-Akbe. Into the darkness he goes with his instrument of power; he contends with the Nameless Hades therein, his art against their heaving will, that he wards off a great earthquake. The Arha he finds and leads back up (or rather she with her knowledge of the winding tunnels leads him up) is but a mere shadow of who she could be. But he is the <fr:link
+type="local"
+href="zzhaoe-000F.xml"
+addr="zzhaoe-000F"
+title="On the original Orpheus">successful Orpheus</fr:link>, for together they burst forth the light of day, and Tenar is, in all ways but those of flesh, reborn.</fr:p><fr:p>Then one is reminded of the Sir Orfeo, for they fare from that dark Place, climbing forest and peak out of the desert, and return to the isles of the Archipelago. And indeed, after many years, a throne is to be reclaimed (though not quite by Ged).</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>650</fr:anchor><fr:addr
 type="user">zzhaoe-000N</fr:addr><fr:route>zzhaoe-000N.xml</fr:route><fr:title
 text="On names">On names</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -160,7 +234,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>641</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>652</fr:anchor><fr:addr
 type="user">zzhaoe-000F</fr:addr><fr:route>zzhaoe-000F.xml</fr:route><fr:title
 text="On the original Orpheus">On the original Orpheus</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -273,7 +347,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>643</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>654</fr:anchor><fr:addr
 type="user">zzhaoe-000C</fr:addr><fr:route>zzhaoe-000C.xml</fr:route><fr:title
 text="「舟を編む」">「舟を編む」</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -294,7 +368,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>645</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>656</fr:anchor><fr:addr
 type="user">zzhaoe-000O</fr:addr><fr:route>zzhaoe-000O.xml</fr:route><fr:title
 text="The Butler">The Butler</fr:title><fr:taxon>Fiction</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>7</fr:month><fr:day>7</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -307,7 +381,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>647</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>658</fr:anchor><fr:addr
 type="user">zzhaoe-000P</fr:addr><fr:route>zzhaoe-000P.xml</fr:route><fr:title
 text="The Mountains at the Edge of the World">The Mountains at the Edge of the World</fr:title><fr:taxon>Fiction</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>16</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -320,7 +394,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>649</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>660</fr:anchor><fr:addr
 type="user">zzhaoe-000S</fr:addr><fr:route>zzhaoe-000S.xml</fr:route><fr:title
 text="Received the NSF Graduate Research Fellowship">Received the NSF Graduate Research Fellowship</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -337,7 +411,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>651</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>662</fr:anchor><fr:addr
 type="user">zzhaoe-000E</fr:addr><fr:route>zzhaoe-000E.xml</fr:route><fr:title
 text="On The Worm Ouroboros">On <fr:em><fr:link
 type="local"
@@ -366,7 +440,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>653</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>664</fr:anchor><fr:addr
 type="user">zzhaoe-000T</fr:addr><fr:route>zzhaoe-000T.xml</fr:route><fr:title
 text="Passed the JLPT N1">Passed the JLPT N1</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -385,7 +459,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>655</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>666</fr:anchor><fr:addr
 type="user">zzhaoe-000K</fr:addr><fr:route>zzhaoe-000K.xml</fr:route><fr:title
 text="Wrath">Wrath</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -506,7 +580,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>657</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>668</fr:anchor><fr:addr
 type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -554,7 +628,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>664</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>675</fr:anchor><fr:addr
 type="user">zzhaoe-000R</fr:addr><fr:route>zzhaoe-000R.xml</fr:route><fr:title
 text="Presenting at POPL 2024">Presenting at POPL 2024</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -575,7 +649,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>666</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>677</fr:anchor><fr:addr
 type="user">zzhaoe-000L</fr:addr><fr:route>zzhaoe-000L.xml</fr:route><fr:title
 text="Sorrow">Sorrow</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -624,7 +698,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>668</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>679</fr:anchor><fr:addr
 type="user">zzhaoe-000I</fr:addr><fr:route>zzhaoe-000I.xml</fr:route><fr:title
 text="The Wise One of the Mud">The Wise One of the Mud</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -665,7 +739,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>670</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>681</fr:anchor><fr:addr
 type="user">zzhaoe-000M</fr:addr><fr:route>zzhaoe-000M.xml</fr:route><fr:title
 text="The Ettin's Lament">The Ettin's Lament</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -850,7 +924,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>672</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>683</fr:anchor><fr:addr
 type="user">zzhaoe-000G</fr:addr><fr:route>zzhaoe-000G.xml</fr:route><fr:title
 text="On bealuwara weorc">On <fr:em>bealuwara weorc</fr:em></fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2022</fr:year><fr:month>12</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -875,7 +949,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>674</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>685</fr:anchor><fr:addr
 type="user">zzhaoe-000Q</fr:addr><fr:route>zzhaoe-000Q.xml</fr:route><fr:title
 text="Grove (Agda)">Grove (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -897,7 +971,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>678</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>689</fr:anchor><fr:addr
 type="user">zzhaoe-000A</fr:addr><fr:route>zzhaoe-000A.xml</fr:route><fr:title
 text="Hazel">Hazel</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -920,7 +994,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>683</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>694</fr:anchor><fr:addr
 type="user">zzhaoe-000B</fr:addr><fr:route>zzhaoe-000B.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes (Agda)">Total Type Error Localization and Recovery with Holes (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -938,7 +1012,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>685</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>696</fr:anchor><fr:addr
 type="user">zzhaoe-0008</fr:addr><fr:route>zzhaoe-0008.xml</fr:route><fr:title
 text="Wikichan">Wikichan</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -952,7 +1026,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>687</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>698</fr:anchor><fr:addr
 type="user">zzhaoe-0007</fr:addr><fr:route>zzhaoe-0007.xml</fr:route><fr:title
 text="Dotfiles">Dotfiles</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -966,7 +1040,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="true"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>689</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>700</fr:anchor><fr:addr
 type="user">zzhaoe-0000</fr:addr><fr:route>index.xml</fr:route><fr:title
 text="Home">Home</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -981,7 +1055,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>275</fr:anchor><fr:addr
 type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
 text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm an incoming first year PhD student in Computer Science at <fr:link
 type="local"
@@ -1016,22 +1090,47 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>257</fr:anchor><fr:addr
-type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
-text="Email">Email</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>zzhaoe [at] brown [dot] edu</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:addr
 type="machine">#239</fr:addr><fr:route>unstable-239.xml</fr:route><fr:title
-text="GitHub">GitHub</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
+  <html:table
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+  <html:tr>
+        
+  <html:td><fr:strong>email:</fr:strong></html:td>
+
+        
+  <html:td>zzhaoe [at] brown [dot] edu</html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>github:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
 type="external"
-href="https://github.com/mirryi">mirryi</fr:link></fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+href="https://github.com/mirryi">mirryi</fr:link></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>orcid:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
+
+      </html:tr>
+
+    </html:table>
+</fr:mainmatter><fr:backmatter /></fr:tree>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
   <fr:tree
@@ -1041,7 +1140,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>263</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>276</fr:anchor><fr:addr
 type="user">zzhaoe-0003</fr:addr><fr:route>zzhaoe-0003.xml</fr:route><fr:title
 text="Publications">Publications</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -1054,7 +1153,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>265</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>278</fr:anchor><fr:addr
 type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1103,7 +1202,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>285</fr:anchor><fr:addr
 type="user">zzhaoe-0002</fr:addr><fr:route>zzhaoe-0002.xml</fr:route><fr:title
 text="Software">Software</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -1117,7 +1216,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>274</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>287</fr:anchor><fr:addr
 type="user">zzhaoe-0005</fr:addr><fr:route>zzhaoe-0005.xml</fr:route><fr:title
 text="Ongoing">Ongoing</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -1130,7 +1229,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>276</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>289</fr:anchor><fr:addr
 type="user">zzhaoe-000Q</fr:addr><fr:route>zzhaoe-000Q.xml</fr:route><fr:title
 text="Grove (Agda)">Grove (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -1152,7 +1251,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>280</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>293</fr:anchor><fr:addr
 type="user">zzhaoe-0007</fr:addr><fr:route>zzhaoe-0007.xml</fr:route><fr:title
 text="Dotfiles">Dotfiles</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -1168,7 +1267,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>282</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>295</fr:anchor><fr:addr
 type="user">zzhaoe-0006</fr:addr><fr:route>zzhaoe-0006.xml</fr:route><fr:title
 text="Past">Past</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -1181,7 +1280,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>284</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>297</fr:anchor><fr:addr
 type="user">zzhaoe-000A</fr:addr><fr:route>zzhaoe-000A.xml</fr:route><fr:title
 text="Hazel">Hazel</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -1204,7 +1303,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>289</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>302</fr:anchor><fr:addr
 type="user">zzhaoe-000B</fr:addr><fr:route>zzhaoe-000B.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes (Agda)">Total Type Error Localization and Recovery with Holes (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -1222,7 +1321,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>291</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>304</fr:anchor><fr:addr
 type="user">zzhaoe-0008</fr:addr><fr:route>zzhaoe-0008.xml</fr:route><fr:title
 text="Wikichan">Wikichan</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -1236,7 +1335,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>293</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:addr
 type="user">zzhaoe-0009</fr:addr><fr:route>zzhaoe-0009.xml</fr:route><fr:title
 text="Shelf">Shelf</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -1256,7 +1355,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>295</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>308</fr:anchor><fr:addr
 type="user">zzhaoe-0004</fr:addr><fr:route>zzhaoe-0004.xml</fr:route><fr:title
 text="News">News</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -1271,7 +1370,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>297</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>310</fr:anchor><fr:addr
 type="user">zzhaoe-000S</fr:addr><fr:route>zzhaoe-000S.xml</fr:route><fr:title
 text="Received the NSF Graduate Research Fellowship">Received the NSF Graduate Research Fellowship</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1288,7 +1387,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>299</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>312</fr:anchor><fr:addr
 type="user">zzhaoe-000T</fr:addr><fr:route>zzhaoe-000T.xml</fr:route><fr:title
 text="Passed the JLPT N1">Passed the JLPT N1</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1307,7 +1406,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>301</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>314</fr:anchor><fr:addr
 type="user">zzhaoe-000R</fr:addr><fr:route>zzhaoe-000R.xml</fr:route><fr:title
 text="Presenting at POPL 2024">Presenting at POPL 2024</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1330,7 +1429,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>303</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>316</fr:anchor><fr:addr
 type="user">zzhaoe-000D</fr:addr><fr:route>zzhaoe-000D.xml</fr:route><fr:title
 text="Thoughts">Thoughts</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
@@ -1339,7 +1438,56 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>304</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>317</fr:anchor><fr:addr
+type="user">zzhaoe-000U</fr:addr><fr:route>zzhaoe-000U.xml</fr:route><fr:title
+text="Orpheus in Atuan">Orpheus in Atuan</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr
+type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
+text="Spoiler">Spoiler</fr:title><fr:taxon>Warning</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:parent>zzhaoe-000U</fr:parent></fr:frontmatter><fr:mainmatter>
+  <fr:p><fr:em><fr:link
+type="local"
+href="leguin-2001a.xml"
+addr="leguin-2001a"
+title="The Tombs of Atuan">The Tombs of Atuan</fr:link></fr:em> and maybe <fr:em><fr:link
+type="local"
+href="leguin-2001b.xml"
+addr="leguin-2001b"
+title="The Farthest Shore">The Farthest Shore</fr:link></fr:em>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+<fr:p>Having recently read too much about Orpheus, I find myself looking for something resembling an Orphic katabasis in other stories... The Labyrinth in <fr:em><fr:link
+type="local"
+href="leguin-2001a.xml"
+addr="leguin-2001a"
+title="The Tombs of Atuan">The Tombs of Atuan</fr:link></fr:em> seems awfully underworld-ish.</fr:p><fr:p>Ged's to-be-legendary heist is to reclaim that half of Ring of Erreth-Akbe which is kept deep under the Temple of the Nameless Ones on the Kargish isle of Atuan. He succeeds. But arguably, there's something much greater that he reclaims from the dark: a human soul, Tenar's. I don't suppose he expected do so, but I can't help but see some Orpheus-like elements to his descent and return from the darkness.</fr:p><fr:p>He's no artist of music, but an artist of names, a mage, and indeed perhaps the greatest, at least since Erreth-Akbe. Into the darkness he goes with his instrument of power; he contends with the Nameless Hades therein, his art against their heaving will, that he wards off a great earthquake. The Arha he finds and leads back up (or rather she with her knowledge of the winding tunnels leads him up) is but a mere shadow of who she could be. But he is the <fr:link
+type="local"
+href="zzhaoe-000F.xml"
+addr="zzhaoe-000F"
+title="On the original Orpheus">successful Orpheus</fr:link>, for together they burst forth the light of day, and Tenar is, in all ways but those of flesh, reborn.</fr:p><fr:p>Then one is reminded of the Sir Orfeo, for they fare from that dark Place, climbing forest and peak out of the desert, and return to the isles of the Archipelago. And indeed, after many years, a throne is to be reclaimed (though not quite by Ged).</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>319</fr:anchor><fr:addr
 type="user">zzhaoe-000N</fr:addr><fr:route>zzhaoe-000N.xml</fr:route><fr:title
 text="On names">On names</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1388,7 +1536,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>321</fr:anchor><fr:addr
 type="user">zzhaoe-000F</fr:addr><fr:route>zzhaoe-000F.xml</fr:route><fr:title
 text="On the original Orpheus">On the original Orpheus</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1501,7 +1649,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>308</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>323</fr:anchor><fr:addr
 type="user">zzhaoe-000C</fr:addr><fr:route>zzhaoe-000C.xml</fr:route><fr:title
 text="「舟を編む」">「舟を編む」</fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1522,7 +1670,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>310</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>325</fr:anchor><fr:addr
 type="user">zzhaoe-000E</fr:addr><fr:route>zzhaoe-000E.xml</fr:route><fr:title
 text="On The Worm Ouroboros">On <fr:em><fr:link
 type="local"
@@ -1551,7 +1699,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>312</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>327</fr:anchor><fr:addr
 type="user">zzhaoe-000G</fr:addr><fr:route>zzhaoe-000G.xml</fr:route><fr:title
 text="On bealuwara weorc">On <fr:em>bealuwara weorc</fr:em></fr:title><fr:taxon>Thoughts</fr:taxon><fr:date><fr:year>2022</fr:year><fr:month>12</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1577,7 +1725,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>314</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>329</fr:anchor><fr:addr
 type="user">zzhaoe-000J</fr:addr><fr:route>zzhaoe-000J.xml</fr:route><fr:title
 text="Writing">Writing</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
@@ -1586,7 +1734,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>315</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>330</fr:anchor><fr:addr
 type="user">zzhaoe-000O</fr:addr><fr:route>zzhaoe-000O.xml</fr:route><fr:title
 text="The Butler">The Butler</fr:title><fr:taxon>Fiction</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>7</fr:month><fr:day>7</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1599,7 +1747,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>317</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>332</fr:anchor><fr:addr
 type="user">zzhaoe-000P</fr:addr><fr:route>zzhaoe-000P.xml</fr:route><fr:title
 text="The Mountains at the Edge of the World">The Mountains at the Edge of the World</fr:title><fr:taxon>Fiction</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>16</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1612,7 +1760,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>319</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>334</fr:anchor><fr:addr
 type="user">zzhaoe-000K</fr:addr><fr:route>zzhaoe-000K.xml</fr:route><fr:title
 text="Wrath">Wrath</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1733,7 +1881,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>348</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>363</fr:anchor><fr:addr
 type="user">zzhaoe-000L</fr:addr><fr:route>zzhaoe-000L.xml</fr:route><fr:title
 text="Sorrow">Sorrow</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1782,7 +1930,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>359</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>374</fr:anchor><fr:addr
 type="user">zzhaoe-000I</fr:addr><fr:route>zzhaoe-000I.xml</fr:route><fr:title
 text="The Wise One of the Mud">The Wise One of the Mud</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1823,7 +1971,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>368</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>383</fr:anchor><fr:addr
 type="user">zzhaoe-000M</fr:addr><fr:route>zzhaoe-000M.xml</fr:route><fr:title
 text="The Ettin's Lament">The Ettin's Lament</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2009,7 +2157,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>691</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>702</fr:anchor><fr:addr
 type="user">zzhaoe-0004</fr:addr><fr:route>zzhaoe-0004.xml</fr:route><fr:title
 text="News">News</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -2024,7 +2172,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>297</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>310</fr:anchor><fr:addr
 type="user">zzhaoe-000S</fr:addr><fr:route>zzhaoe-000S.xml</fr:route><fr:title
 text="Received the NSF Graduate Research Fellowship">Received the NSF Graduate Research Fellowship</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2041,7 +2189,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>299</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>312</fr:anchor><fr:addr
 type="user">zzhaoe-000T</fr:addr><fr:route>zzhaoe-000T.xml</fr:route><fr:title
 text="Passed the JLPT N1">Passed the JLPT N1</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2060,7 +2208,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>301</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>314</fr:anchor><fr:addr
 type="user">zzhaoe-000R</fr:addr><fr:route>zzhaoe-000R.xml</fr:route><fr:title
 text="Presenting at POPL 2024">Presenting at POPL 2024</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2082,7 +2230,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>693</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>704</fr:anchor><fr:addr
 type="user">zzhaoe-0003</fr:addr><fr:route>zzhaoe-0003.xml</fr:route><fr:title
 text="Publications">Publications</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -2095,7 +2243,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>265</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>278</fr:anchor><fr:addr
 type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2143,7 +2291,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>695</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>706</fr:anchor><fr:addr
 type="user">zzhaoe-0009</fr:addr><fr:route>zzhaoe-0009.xml</fr:route><fr:title
 text="Shelf">Shelf</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -2161,7 +2309,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>697</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>708</fr:anchor><fr:addr
 type="user">zzhaoe-0002</fr:addr><fr:route>zzhaoe-0002.xml</fr:route><fr:title
 text="Software">Software</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -2175,7 +2323,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>274</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>287</fr:anchor><fr:addr
 type="user">zzhaoe-0005</fr:addr><fr:route>zzhaoe-0005.xml</fr:route><fr:title
 text="Ongoing">Ongoing</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -2188,7 +2336,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>276</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>289</fr:anchor><fr:addr
 type="user">zzhaoe-000Q</fr:addr><fr:route>zzhaoe-000Q.xml</fr:route><fr:title
 text="Grove (Agda)">Grove (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -2210,7 +2358,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>280</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>293</fr:anchor><fr:addr
 type="user">zzhaoe-0007</fr:addr><fr:route>zzhaoe-0007.xml</fr:route><fr:title
 text="Dotfiles">Dotfiles</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -2226,7 +2374,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>282</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>295</fr:anchor><fr:addr
 type="user">zzhaoe-0006</fr:addr><fr:route>zzhaoe-0006.xml</fr:route><fr:title
 text="Past">Past</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -2239,7 +2387,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>284</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>297</fr:anchor><fr:addr
 type="user">zzhaoe-000A</fr:addr><fr:route>zzhaoe-000A.xml</fr:route><fr:title
 text="Hazel">Hazel</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -2262,7 +2410,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>289</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>302</fr:anchor><fr:addr
 type="user">zzhaoe-000B</fr:addr><fr:route>zzhaoe-000B.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes (Agda)">Total Type Error Localization and Recovery with Holes (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -2280,7 +2428,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>291</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>304</fr:anchor><fr:addr
 type="user">zzhaoe-0008</fr:addr><fr:route>zzhaoe-0008.xml</fr:route><fr:title
 text="Wikichan">Wikichan</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
@@ -2294,7 +2442,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>293</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:addr
 type="user">zzhaoe-0009</fr:addr><fr:route>zzhaoe-0009.xml</fr:route><fr:title
 text="Shelf">Shelf</fr:title><fr:taxon>Software</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
