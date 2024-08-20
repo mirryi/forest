@@ -4,4 +4,5 @@
 \meta{institution}{[[brownuniversity]]}
 \meta{orcid}{0009-0000-4969-2376}
 
-\p{[Me](zzhaoe-0001).}
+\put\transclude/heading{false}
+\transclude{zzhaoe-0001}
