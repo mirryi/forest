@@ -197,8 +197,10 @@ _new_thoughts() {
 	local path=$(forester new --dest="$_thoughts" --prefix="$_slug")
 	# prepend other metadata
 	echo """\title{$title}
-\taxon{thoughts}
 \author{$_me}""" | cat - "$path" | tee "$path" >/dev/null
+
+	echo """
+\taxon{thoughts}""" >>"$path"
 
 	>&2 echo "planted $path"
 
