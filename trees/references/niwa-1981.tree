@@ -1,0 +1,20 @@
+\title{姓氏の語源}
+\author{niwamotoji}
+\date{1981}
+\taxon{reference}
+
+\meta{isbn}{978-4-04-061400-7}
+\meta{bibtex}{\startverb
+@book{niwa_1981,
+  address={東京},
+  edition={初版},
+  series={角川小事典},
+  title={姓氏の語源},
+  isbn={978-4-04-061400-7},
+  publisher={角川書店},
+  author={丹羽基二著},
+  year={1981},
+  collection={角川小事典},
+  language={jpn}
+}
+\stopverb}

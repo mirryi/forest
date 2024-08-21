@@ -21,6 +21,10 @@
   \<html:th>{\body}
 }
 
+\def\imgchar[src]{
+  \<html:img>[src]{\src}[style]{width: 1em}{}
+}
+
 % LaTeX
 \def\mathpar[body]{
   \tex{
