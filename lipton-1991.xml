@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>693</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>604</fr:anchor><fr:addr
 type="user">lipton-1991</fr:addr><fr:route>lipton-1991.xml</fr:route><fr:title
 text="An Exaltation of Larks">An Exaltation of Larks</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1991</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -30,13 +30,13 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>284</fr:anchor><fr:addr
-type="machine">#238</fr:addr><fr:route>unstable-238.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>283</fr:anchor><fr:addr
+type="machine">#244</fr:addr><fr:route>unstable-244.xml</fr:route><fr:title
 text="Abstract">Abstract</fr:title><fr:date><fr:year>1991</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="jameslipton.xml"
 addr="jameslipton"
-title="James Lipton">James Lipton</fr:link></fr:author></fr:authors><fr:parent>lipton-1991</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>An “exaltation of larks”? Yes! And a “leap of leopards,” a “parliament of owls,” an “ostentation of peacocks,” a “smack of jellyfish,” and a “murder of crows”! For those who have ever wondered if the familiar “pride of lions” and “gaggle of geese” were only the tip of a linguistic iceberg, James Lipton has provided the definitive answer: here are hundreds of equally pithy, and often poetic, terms unearthed by Mr. Lipton in the Books of Venery that were the constant study of anyone who aspired to the title of gentleman in the fifteenth century. When Mr. Lipton’s painstaking research revealed that five hundred years ago the terms of venery had already been turned into the Game of Venery, he embarked on an odyssey that has given us a “slouch of models,” a “shrivel of critics,” an “unction of undertakers,” a “blur of Impressionists,” a “score of bachelors,” and a “pocket of quarterbacks.” This ultimate edition of <fr:em>An Exaltation of Larks</fr:em> is Mr. Lipton’s brilliant answer to the assault on language and literacy in the last decades of the twentieth century. In it you will find more than 1,100 resurrected or newly minted contributions to that most endangered of all species, our language, in a setting of 250 witty, beautiful, and remarkably apt engravings.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter><fr:tree
+title="James Lipton">James Lipton</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>An “exaltation of larks”? Yes! And a “leap of leopards,” a “parliament of owls,” an “ostentation of peacocks,” a “smack of jellyfish,” and a “murder of crows”! For those who have ever wondered if the familiar “pride of lions” and “gaggle of geese” were only the tip of a linguistic iceberg, James Lipton has provided the definitive answer: here are hundreds of equally pithy, and often poetic, terms unearthed by Mr. Lipton in the Books of Venery that were the constant study of anyone who aspired to the title of gentleman in the fifteenth century. When Mr. Lipton’s painstaking research revealed that five hundred years ago the terms of venery had already been turned into the Game of Venery, he embarked on an odyssey that has given us a “slouch of models,” a “shrivel of critics,” an “unction of undertakers,” a “blur of Impressionists,” a “score of bachelors,” and a “pocket of quarterbacks.” This ultimate edition of <fr:em>An Exaltation of Larks</fr:em> is Mr. Lipton’s brilliant answer to the assault on language and literacy in the last decades of the twentieth century. In it you will find more than 1,100 resurrected or newly minted contributions to that most endangered of all species, our language, in a setting of 250 witty, beautiful, and remarkably apt engravings.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -51,7 +51,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>695</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>606</fr:anchor><fr:addr
 type="user">zzhaoe-000Y</fr:addr><fr:route>zzhaoe-000Y.xml</fr:route><fr:title
 text="Utterly illegible Han ideographs">Utterly illegible Han ideographs</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -81,8 +81,8 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>252</fr:anchor><fr:addr
-type="machine">#240</fr:addr><fr:route>unstable-240.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>259</fr:anchor><fr:addr
+type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:title
 text="
   
 ">
@@ -94,7 +94,7 @@ style="width: 1em" />
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:parent>zzhaoe-000Y</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>A quadriplication of 墓 ("grave"), meaning, of course, a graveyard.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A quadriplication of 墓 ("grave"), meaning, of course, a graveyard.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 
   <fr:tree
 toc="false"
@@ -103,8 +103,8 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>255</fr:anchor><fr:addr
-type="machine">#241</fr:addr><fr:route>unstable-241.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>261</fr:anchor><fr:addr
+type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:title
 text="
   
 ">
@@ -116,7 +116,7 @@ style="width: 1em" />
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:parent>zzhaoe-000Y</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>鰞 ("squid") + 鯨 ("whale"), meaning a fight between a sperm whale and a colossal squid.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>鰞 ("squid") + 鯨 ("whale"), meaning a fight between a sperm whale and a colossal squid.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 
   <fr:tree
 toc="false"
@@ -125,8 +125,8 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:addr
-type="machine">#242</fr:addr><fr:route>unstable-242.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>263</fr:anchor><fr:addr
+type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:title
 text="
   
 ">
@@ -138,7 +138,7 @@ style="width: 1em" />
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:parent>zzhaoe-000Y</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>炎 ("blaze") + 森 ("forest"), meaning a forest fire and pronounced カリフォルニア.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>炎 ("blaze") + 森 ("forest"), meaning a forest fire and pronounced カリフォルニア.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 
   <fr:tree
 toc="false"
@@ -147,8 +147,8 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>261</fr:anchor><fr:addr
-type="machine">#243</fr:addr><fr:route>unstable-243.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>265</fr:anchor><fr:addr
+type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:title
 text="
   
 ">
@@ -160,7 +160,7 @@ style="width: 1em" />
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:parent>zzhaoe-000Y</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>滝 ("waterfall") <fr:tex
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>滝 ("waterfall") <fr:tex
 display="inline"><![CDATA[*]]></fr:tex> 4, meaning Niagara Falls.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 <fr:p>This is, I suppose, something of an exaltation of larks, and I'm reminded of my copy of <fr:link
 type="local"

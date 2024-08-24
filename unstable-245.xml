@@ -7,51 +7,45 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>513</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>522</fr:anchor><fr:addr
 type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:title
-text="About › external"><fr:link
+text="Total Type Error Localization and Recovery with Holes › abstract"><fr:link
 type="local"
-href="zzhaoe-0001.xml"
-addr="zzhaoe-0001"
-title="About">About</fr:link> › external</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
-  <html:table
-xmlns:html="http://www.w3.org/1999/xhtml">
-      
-  <html:tr>
-        
-  <html:td><fr:strong>email:</fr:strong></html:td>
-
-        
-  <html:td>zzhaoe [at] brown [dot] edu</html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>github:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://github.com/mirryi">mirryi</fr:link></html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>orcid:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
-
-      </html:tr>
-
-    </html:table>
-</fr:mainmatter><fr:backmatter><fr:tree
+href="zhao-et-al-2024.xml"
+addr="zhao-et-al-2024"
+title="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:link> › abstract</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="raefmaroof.xml"
+addr="raefmaroof"
+title="Raef Maroof">Raef Maroof</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="ananddukkipati.xml"
+addr="ananddukkipati"
+title="Anand Dukkipati">Anand Dukkipati</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="andrewblinn.xml"
+addr="andrewblinn"
+title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="zhiyipan.xml"
+addr="zhiyipan"
+title="Zhiyi Pan">Zhiyi Pan</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Type systems typically only define the conditions under which an expression is well-typed, leaving ill-typed expressions formally meaningless. This approach is insufficient as the basis for language servers driving modern programming environments, which are expected to recover from simultaneously localized errors and continue to provide a variety of downstream semantic services. This paper addresses this problem, contributing the first comprehensive formal account of total type error localization and recovery: the marked lambda calculus. In particular, we define a gradual type system for expressions with marked errors, which operate as non-empty holes, together with a total procedure for marking arbitrary unmarked expressions. We mechanize the metatheory of the marked lambda calculus in Agda and implement it, scaled up, as the new basis for <fr:link
+type="local"
+href="zzhaoe-000A.xml"
+addr="zzhaoe-000A"
+title="Hazel">Hazel</fr:link>, a full-scale live functional programming environment with, uniquely, no meaningless editor states.</fr:p><fr:p>The marked lambda calculus is bidirectionally typed, so localization decisions are systematically predictable based on a local flow of typing information. Constraint-based type inference can bring more distant information to bear in discovering inconsistencies but this notoriously complicates error localization. We approach this problem by deploying constraint solving as a type-hole-filling layer atop this gradual bidirectionally typed core. Errors arising from inconsistent unification constraints are localized exclusively to type and expression holes, i.e. the system identifies unfillable holes using a system of traced provenances, rather than localized in an ad hoc manner to particular expressions. The user can then interactively shift these errors to particular downstream expressions by selecting from suggested partially consistent type hole fillings, which returns control back to the bidirectional system. We implement this type hole inference system in <fr:link
+type="local"
+href="zzhaoe-000A.xml"
+addr="zzhaoe-000A"
+title="Hazel">Hazel</fr:link>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -66,80 +60,91 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>514</fr:anchor><fr:addr
-type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
-text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm an incoming first year PhD student in Computer Science at <fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>529</fr:anchor><fr:addr
+type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
+text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
-href="brownuniversity.xml"
-addr="brownuniversity"
-title="Brown University">Brown University</fr:link>, advised by <fr:link
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
 type="local"
-href="nikosvasilakis.xml"
-addr="nikosvasilakis"
-title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
+href="raefmaroof.xml"
+addr="raefmaroof"
+title="Raef Maroof">Raef Maroof</fr:link></fr:author><fr:author><fr:link
 type="local"
-href="robertlewis.xml"
-addr="robertlewis"
-title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at <fr:link
+href="ananddukkipati.xml"
+addr="ananddukkipati"
+title="Anand Dukkipati">Anand Dukkipati</fr:link></fr:author><fr:author><fr:link
 type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
+href="andrewblinn.xml"
+addr="andrewblinn"
+title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="zhiyipan.xml"
+addr="zhiyipan"
+title="Zhiyi Pan">Zhiyi Pan</fr:link></fr:author><fr:author><fr:link
 type="local"
 href="cyrusomar.xml"
 addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
+title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors><fr:meta
+name="doi">10.1145/3632910</fr:meta><fr:meta
+name="venue"><fr:link
 type="local"
-href="fplab.xml"
-addr="fplab"
-title="Future of Programming Lab">Future of Programming Lab</fr:link>.</fr:p><fr:p>I'm also supported by the NSF Graduate Research Fellowship.</fr:p>
-  
-  <fr:tree
-toc="false"
+href="popl-2024.xml"
+addr="popl-2024"
+title="POPL 2024">POPL 2024</fr:link></fr:meta><fr:meta
+name="slides">zhao-et-al-2024-slides.pdf</fr:meta><fr:meta
+name="bibtex"><![CDATA[@article{zhao_2024,
+  title={Total Type Error Localization and Recovery with Holes},
+  volume={8},
+  issn={2475-1421},
+  doi={10.1145/3632910},
+  number={POPL},
+  journal={Proceedings of the ACM on Programming Languages},
+  author={Zhao, Eric and Maroof, Raef and Dukkipati, Anand and Blinn, Andrew and Pan, Zhiyi and Omar, Cyrus},
+  year={2024},
+  month={Jan},
+  pages={2041–2068},
+  language={en}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>330</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>344</fr:anchor><fr:addr
 type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:title
-text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /><fr:parent>zzhaoe-0001</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
-  <html:table
-xmlns:html="http://www.w3.org/1999/xhtml">
-      
-  <html:tr>
-        
-  <html:td><fr:strong>email:</fr:strong></html:td>
-
-        
-  <html:td>zzhaoe [at] brown [dot] edu</html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>github:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://github.com/mirryi">mirryi</fr:link></html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>orcid:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
-
-      </html:tr>
-
-    </html:table>
-</fr:mainmatter><fr:backmatter /></fr:tree>
-</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+text="Abstract">Abstract</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="raefmaroof.xml"
+addr="raefmaroof"
+title="Raef Maroof">Raef Maroof</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="ananddukkipati.xml"
+addr="ananddukkipati"
+title="Anand Dukkipati">Anand Dukkipati</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="andrewblinn.xml"
+addr="andrewblinn"
+title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="zhiyipan.xml"
+addr="zhiyipan"
+title="Zhiyi Pan">Zhiyi Pan</fr:link></fr:author><fr:author><fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Type systems typically only define the conditions under which an expression is well-typed, leaving ill-typed expressions formally meaningless. This approach is insufficient as the basis for language servers driving modern programming environments, which are expected to recover from simultaneously localized errors and continue to provide a variety of downstream semantic services. This paper addresses this problem, contributing the first comprehensive formal account of total type error localization and recovery: the marked lambda calculus. In particular, we define a gradual type system for expressions with marked errors, which operate as non-empty holes, together with a total procedure for marking arbitrary unmarked expressions. We mechanize the metatheory of the marked lambda calculus in Agda and implement it, scaled up, as the new basis for <fr:link
+type="local"
+href="zzhaoe-000A.xml"
+addr="zzhaoe-000A"
+title="Hazel">Hazel</fr:link>, a full-scale live functional programming environment with, uniquely, no meaningless editor states.</fr:p><fr:p>The marked lambda calculus is bidirectionally typed, so localization decisions are systematically predictable based on a local flow of typing information. Constraint-based type inference can bring more distant information to bear in discovering inconsistencies but this notoriously complicates error localization. We approach this problem by deploying constraint solving as a type-hole-filling layer atop this gradual bidirectionally typed core. Errors arising from inconsistent unification constraints are localized exclusively to type and expression holes, i.e. the system identifies unfillable holes using a system of traced provenances, rather than localized in an ad hoc manner to particular expressions. The user can then interactively shift these errors to particular downstream expressions by selecting from suggested partially consistent type hole fillings, which returns control back to the bidirectional system. We implement this type hole inference system in <fr:link
+type="local"
+href="zzhaoe-000A.xml"
+addr="zzhaoe-000A"
+title="Hazel">Hazel</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
