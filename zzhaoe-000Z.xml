@@ -7,83 +7,37 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>328</fr:anchor><fr:addr
-type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
-text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year PhD student in Computer Science at <fr:link
-type="local"
-href="brownuniversity.xml"
-addr="brownuniversity"
-title="Brown University">Brown University</fr:link>, advised by <fr:link
-type="local"
-href="nikosvasilakis.xml"
-addr="nikosvasilakis"
-title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
-type="local"
-href="robertlewis.xml"
-addr="robertlewis"
-title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at <fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
-type="local"
-href="fplab.xml"
-addr="fplab"
-title="Future of Programming Lab">Future of Programming Lab</fr:link>.</fr:p><fr:p>I'm also supported by the NSF Graduate Research Fellowship.</fr:p>
-  
-  <fr:tree
-toc="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>952</fr:anchor><fr:addr
+type="user">zzhaoe-000Z</fr:addr><fr:route>zzhaoe-000Z.xml</fr:route><fr:title
+text="Teaching">Teaching</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>329</fr:anchor><fr:addr
-type="machine">#251</fr:addr><fr:route>unstable-251.xml</fr:route><fr:title
-text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
-  <html:table
-xmlns:html="http://www.w3.org/1999/xhtml">
-      
-  <html:tr>
-        
-  <html:td><fr:strong>email:</fr:strong></html:td>
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>383</fr:anchor><fr:addr
+type="user">zzhaoe-0010</fr:addr><fr:route>zzhaoe-0010.xml</fr:route><fr:title
+text="EECS 490: Programming Languages (F23, W24)">EECS 490: Programming Languages (F23, W24)</fr:title><fr:taxon>Course</fr:taxon><fr:authors /><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>I was the undergraduate teaching assistant for EECS 490 for the 2023-2024 year.</fr:p><fr:blockquote><fr:p>Programming languages are rich mathematical structures and powerful user interfaces. This course covers the design and use of modern programming languages. We will build up systematically from formal first principles while considering human factors in language design, language prototyping, and techniques for reasoning precisely about program behavior throughout the course.</fr:p>
 
-        
-  <html:td>zzhaoe [at] brown [dot] edu</html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>github:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://github.com/mirryi">mirryi</fr:link></html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>orcid:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
-
-      </html:tr>
-
-    </html:table>
-</fr:mainmatter><fr:backmatter /></fr:tree>
-</fr:mainmatter><fr:backmatter><fr:tree
+  <fr:p>The goal is to change the way you think about programming and programming language design in ways that will remain relevant across the many technology hype cycles that you will encounter over the course of your careers.</fr:p></fr:blockquote><fr:p>The course was lectured by <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link>; <fr:link
+type="local"
+href="andrewblinn.xml"
+addr="andrewblinn"
+title="Andrew Blinn">Andrew Blinn</fr:link> and <fr:link
+type="local"
+href="davidmoon.xml"
+addr="davidmoon"
+title="David Moon">David Moon</fr:link> were the graduate teaching assistants in F23 and W24, respectively.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -97,107 +51,8 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>330</fr:anchor><fr:addr
-type="user">ericczhao</fr:addr><fr:route>ericczhao.xml</fr:route><fr:title
-text="Eric Zhao">Eric Zhao</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">PhD Student</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="brownuniversity.xml"
-addr="brownuniversity"
-title="Brown University">Brown University</fr:link></fr:meta><fr:meta
-name="orcid">0009-0000-4969-2376</fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="true"
-show-heading="false"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>331</fr:anchor><fr:addr
-type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
-text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year PhD student in Computer Science at <fr:link
-type="local"
-href="brownuniversity.xml"
-addr="brownuniversity"
-title="Brown University">Brown University</fr:link>, advised by <fr:link
-type="local"
-href="nikosvasilakis.xml"
-addr="nikosvasilakis"
-title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
-type="local"
-href="robertlewis.xml"
-addr="robertlewis"
-title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at <fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
-type="local"
-href="fplab.xml"
-addr="fplab"
-title="Future of Programming Lab">Future of Programming Lab</fr:link>.</fr:p><fr:p>I'm also supported by the NSF Graduate Research Fellowship.</fr:p>
-  
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>329</fr:anchor><fr:addr
-type="machine">#251</fr:addr><fr:route>unstable-251.xml</fr:route><fr:title
-text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
-  <html:table
-xmlns:html="http://www.w3.org/1999/xhtml">
-      
-  <html:tr>
-        
-  <html:td><fr:strong>email:</fr:strong></html:td>
-
-        
-  <html:td>zzhaoe [at] brown [dot] edu</html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>github:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://github.com/mirryi">mirryi</fr:link></html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>orcid:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
-
-      </html:tr>
-
-    </html:table>
-</fr:mainmatter><fr:backmatter /></fr:tree>
-</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
 root="true"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>332</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>953</fr:anchor><fr:addr
 type="user">zzhaoe-0000</fr:addr><fr:route>index.xml</fr:route><fr:title
 text="Home">Home</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -1585,95 +1440,4 @@ xmlns:html="http://www.w3.org/1999/xhtml" />
 xmlns:html="http://www.w3.org/1999/xhtml" />
 
   not, nor fate be one to bind.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
-</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>412</fr:anchor><fr:addr
-type="user">brownuniversity</fr:addr><fr:route>brownuniversity.xml</fr:route><fr:title
-text="Brown University">Brown University</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
-name="external">https://www.brown.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>413</fr:anchor><fr:addr
-type="user">cyrusomar</fr:addr><fr:route>cyrusomar.xml</fr:route><fr:title
-text="Cyrus Omar">Cyrus Omar</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://web.eecs.umich.edu/~comar/</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>414</fr:anchor><fr:addr
-type="user">fplab</fr:addr><fr:route>fplab.xml</fr:route><fr:title
-text="Future of Programming Lab">Future of Programming Lab</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
-name="external">http://fplab.mplse.org</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>FP Lab at the <fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link> designs next-generation user interfaces for modern programming languages. Our research runs the methodological gamut, ranging from type-theoretic foundations through to human-centered design. We are particularly interested in applications to computer science education, accessibility, computational and data science, formal verification, and computational creativity.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>415</fr:anchor><fr:addr
-type="user">nikosvasilakis</fr:addr><fr:route>nikosvasilakis.xml</fr:route><fr:title
-text="Nikos Vasilakis">Nikos Vasilakis</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="brownuniversity.xml"
-addr="brownuniversity"
-title="Brown University">Brown University</fr:link></fr:meta><fr:meta
-name="external">https://nikos.vasilak.is</fr:meta><fr:meta
-name="orcid">0000-0001-7347-298X</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>I am an Assistant Professor of Computer Science at Brown University. My research encompasses systems, programming languages, and security—focusing on automatically enhancing software systems with new capabilities. This enhancement forms a transition path towards secure distributed environments targeting multiple scales.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>416</fr:anchor><fr:addr
-type="user">robertlewis</fr:addr><fr:route>robertlewis.xml</fr:route><fr:title
-text="Robert Lewis">Robert Lewis</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Lecturer of Computer Science</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="brownuniversity.xml"
-addr="brownuniversity"
-title="Brown University">Brown University</fr:link></fr:meta><fr:meta
-name="external">https://robertylewis.com</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>Hi, I’m Robert Y. Lewis. I’m a lecturer in the Department of Computer Science at Brown University. My interests revolve around formal methods and verification, logic, and the foundations of mathematics, and the use of these in computer science and mathematics education. I work on interactive theorem proving, automated reasoning, and type theory.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>417</fr:anchor><fr:addr
-type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
-text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
-name="external">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
