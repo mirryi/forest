@@ -11,7 +11,6 @@ _news="$_trees/news"
 _people="$_trees/people"
 _references="$_trees/references"
 _software="$_trees/software"
-_thoughts="$_trees/thoughts"
 _writing="$_trees/writing"
 
 _usage_top="""usage: $0 <operation> [...]
@@ -194,13 +193,13 @@ _new_thoughts() {
 	local title="$1"
 
 	# invoke forester to create new tree
-	local path=$(forester new --dest="$_thoughts" --prefix="$_slug")
+	local path=$(forester new --dest="$_trees" --prefix="$_slug")
 	# prepend other metadata
 	echo """\title{$title}
 \author{$_me}""" | cat - "$path" | tee "$path" >/dev/null
 
 	echo """
-\taxon{thoughts}""" >>"$path"
+\tag{thoughts}""" >>"$path"
 
 	>&2 echo "planted $path"
 
@@ -254,6 +253,11 @@ _new() {
 	esac
 }
 
+_grow() {
+  watchexec -w trees forester build &
+  miniserve --index index.xml output
+}
+
 # enter switch
 eval "$(opam env)"
 
@@ -262,6 +266,10 @@ new)
 	_new "${@:2}"
 	exit 0
 	;;
+grow)
+  _grow "${@:2}"
+  exit 0
+  ;;
 *)
 	_exit_usage_top
 	;;
