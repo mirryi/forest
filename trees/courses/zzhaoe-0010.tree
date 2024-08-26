@@ -1,0 +1,14 @@
+\title{EECS 490: Programming Languages (F23, W24)}
+\taxon{course}
+
+\meta{institution}{[[umich]]}
+
+\p{I was the undergraduate teaching assistant for EECS 490 for the 2023-2024 year.}
+
+\blockquote{
+  \p{Programming languages are rich mathematical structures and powerful user interfaces. This course covers the design and use of modern programming languages. We will build up systematically from formal first principles while considering human factors in language design, language prototyping, and techniques for reasoning precisely about program behavior throughout the course.}
+
+  \p{The goal is to change the way you think about programming and programming language design in ways that will remain relevant across the many technology hype cycles that you will encounter over the course of your careers.}
+}
+
+\p{The course was lectured by [[cyrusomar]]; [[andrewblinn]] and [[davidmoon]] were the graduate teaching assistants in F23 and W24, respectively.}
