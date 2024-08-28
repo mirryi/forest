@@ -6,6 +6,6 @@
 
 \tag{archive}
 
-\meta{external}{https://github.com/mirryi/wikichan}
+\meta{github}{https://github.com/mirryi/wikichan}
 
 \p{Wikichan is a browser extension that displays a popup with information from Wikipedia and other sources when hovering over text on any page. Its development (2018 -- 2020?) was mainly during high school (and therefore a bloody mess) and is on indefinite hiatus. I'd like to return to it at some point, however.}

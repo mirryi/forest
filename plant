@@ -254,7 +254,7 @@ _new() {
 }
 
 _grow() {
-  watchexec -w trees forester build &
+  watchexec -w trees -w theme -w assets forester build &
   miniserve --index index.xml output
 }
 

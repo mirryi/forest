@@ -1,6 +1,9 @@
 \title{dotfiles}
-\author{ericczhao}
 \taxon{software}
+\author{ericczhao}
+\date{2019}
+
 \tag{ongoing}
-\meta{external}{https://github.com/mirryi/dotfiles}
+
+\meta{github}{https://github.com/mirryi/dotfiles}
 

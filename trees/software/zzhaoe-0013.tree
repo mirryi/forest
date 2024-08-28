@@ -7,6 +7,6 @@
 \tag{archive}
 
 \meta{external}{https://mirryi.github.io/mm}
-\meta{external}{https://github.com/mirryi/mm}
+\meta{github}{https://github.com/mirryi/mm}
 
 \p{It's like Desmos but equations become musical scores. [[marcusgozon]] and I made this for [[mhacks-2021]]. [[ericyzhao]] (not me) contributed demo D-III.}

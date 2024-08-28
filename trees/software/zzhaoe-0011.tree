@@ -5,6 +5,6 @@
 
 \tag{past}
 
-\meta{external}{https://github.com/mirryi/mpdnd}
+\meta{github}{https://github.com/mirryi/mpdnd}
 
 \p{An XDG notification daemon for [mpd](https://www.musicpd.org/) in Rust.}

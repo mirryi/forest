@@ -5,6 +5,6 @@
 \date{2023}
 \date{2022}
 
-\meta{external}{https://github.com/hazelgrove/error-localization-agda}
+\meta{github}{https://github.com/hazelgrove/error-localization-agda}
 
 \p{An Agda mechanization of the marked lambda calculus, a judgmental framework for bidirectional type error localization and recovery described in [[zhao-et-al-2024]].}
