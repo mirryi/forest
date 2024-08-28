@@ -1,0 +1,10 @@
+\title{mpdnd}
+\taxon{software}
+\author{ericczhao}
+\date{2021}
+
+\tag{past}
+
+\meta{external}{https://github.com/mirryi/mpdnd}
+
+\p{An XDG notification daemon for [mpd](https://www.musicpd.org/) in Rust.}

@@ -1,0 +1,10 @@
+\title{regexp2}
+\taxon{software}
+\author{ericczhao}
+\date{2021}
+
+\tag{archive}
+
+\meta{external}{https://github.com/mirryi/regexp2}
+
+\p{A very bad implementation of regular expressions using finite automata. From the high school days.}
