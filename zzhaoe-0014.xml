@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>255</fr:anchor><fr:addr
+type="user">zzhaoe-0014</fr:addr><fr:route>zzhaoe-0014.xml</fr:route><fr:title
+text="Fonts for obscure Han ideographs">Fonts for obscure Han ideographs</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I wrote recently about some <fr:link
+type="local"
+href="zzhaoe-000Y.xml"
+addr="zzhaoe-000Y"
+title="Utterly illegible Han ideographs">obscure Han ideographs that are somehow in Unicode</fr:link>. Maybe one day I'll be able to render that page with a serif font that properly handles all of the characters. <fr:link
+type="external"
+href="https://fonts.google.com/?preview.text=%F0%B0%BB%9E%F0%B1%81%AC%E4%A8%BA%E9%BE%98%F0%AA%9A%A5%E4%B2%9C%E4%A8%BB%F0%B0%BD%94&amp;preview.layout=grid&amp;lang=zh_Hant">Maybe</fr:link>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>257</fr:anchor><fr:addr
+type="user">zzhaoe-000Y</fr:addr><fr:route>zzhaoe-000Y.xml</fr:route><fr:title
+text="Utterly illegible Han ideographs">Utterly illegible Han ideographs</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I was surprised to find it possible to properly type (though not directly via Rime) and render the character 𰻞 (<fr:em>bíang</fr:em>) when recording <fr:link
+type="local"
+href="zzhaoe-000X.xml"
+addr="zzhaoe-000X"
+title="𰻞𰻞麵">a recipe for 𰻞𰻞麵</fr:link> from my dad, since I was, for whatever reason, under the impression that it wasn't part of Unicode. Apparently, it was added in 2020 in <fr:link
+type="external"
+href="https://blog.unicode.org/2020/03/announcing-unicode-standard-version-130.html">Unicode 13.0</fr:link> as one of the codepoints (precisely, <fr:code>U+30EDE</fr:code>; there's also 𰻝 as <fr:code>U+30EDD</fr:code>) in CJK Unified Ideographs Extension G, the first block of the Tertiary Ideographic Plane.</fr:p><fr:p>This block also includes 𱁬 (<fr:em>taito</fr:em>; <fr:em>daito</fr:em>; <fr:em>otodo</fr:em>; <fr:code>U+3106C</fr:code>), an 84-stroke behemoth made by sticking 䨺 (<fr:em>tai</fr:em>; <fr:code>U+4A3A</fr:code>; itself three clouds 雲 together, meaning "cloudy") and 龘 (<fr:em>tou</fr:em>; <fr:code>U+9F98</fr:code>; three dragons 龍, meant to resemble a dragon flying or climbing). It's a Japanese-coined character, or <fr:em>kokuji</fr:em> (国字), but the origins are fairly uncertain. In the early 1960s, a man showed a namecard with this surname to the staff of a brokerage office... or so it goes according to the 1981 <fr:link
+type="local"
+href="niwa-1981.xml"
+addr="niwa-1981"
+title="姓氏の語源">姓氏の語源</fr:link>, an etymological dictionary of surnames. Some scholars think it's an erroneous ghost letter. 䨺龘, written separately, was perhaps an alias. In any case, it's now the name of a <fr:link
+type="external"
+href="https://seg2017.com/otodo/">series of ramen shops</fr:link> starting in Kita-Matsudo (北松戸) in Chiba. I think I'd like to go there sometime.</fr:p><fr:p>It seems like some netizens have borrowed the character into Chinese, developing humorous neologisms like 𱁬𪚥 (<fr:em>tài zhé</fr:em>; the latter character meaning "verbose"), meaning something like "excessively complicated (of a Chinese character)". One has to zoom in 200% to make anything of it.</fr:p><fr:p>In Chinese, there's also 䲜 ("abundance of fish"; <fr:code>U+4C9C</fr:code>) and 䨻 ("roar of thunder"; <fr:code>U+4A3B</fr:code>). In Japanese, there's <fr:link
+type="external"
+href="https://ksbookshelf.com/nozomu-oohara/WaseikanjiJiten/WaseikanjiJiten_81.html">𰽔</fr:link> (<fr:em>kagami</fr:em>; <fr:code>U+30F54</fr:code>), which seems to me like a bewildering room of many mirrors. Maybe the folks working on the Noto CJK fonts will get to it one day.</fr:p><fr:p>Here are some new characters I'd like to propose, to further enrich the space of overly dense and illegible ideographs and make the Unicode people very sad:</fr:p>
+  
+
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>259</fr:anchor><fr:addr
+type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:title
+text="
+  
+">
+  <html:img
+xmlns:html="http://www.w3.org/1999/xhtml"
+src="zzhaoe-000Y-graveyard.svg"
+style="width: 1em" />
+</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A quadriplication of 墓 ("grave"), meaning, of course, a graveyard.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>261</fr:anchor><fr:addr
+type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:title
+text="
+  
+">
+  <html:img
+xmlns:html="http://www.w3.org/1999/xhtml"
+src="zzhaoe-000Y-whale-squid.svg"
+style="width: 1em" />
+</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>鰞 ("squid") + 鯨 ("whale"), meaning a fight between a sperm whale and a colossal squid.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>263</fr:anchor><fr:addr
+type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:title
+text="
+  
+">
+  <html:img
+xmlns:html="http://www.w3.org/1999/xhtml"
+src="zzhaoe-000Y-forest-fire.svg"
+style="width: 1em" />
+</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>炎 ("blaze") + 森 ("forest"), meaning a forest fire and pronounced カリフォルニア.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>265</fr:anchor><fr:addr
+type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:title
+text="
+  
+">
+  <html:img
+xmlns:html="http://www.w3.org/1999/xhtml"
+src="zzhaoe-000Y-niagara-falls.svg"
+style="width: 1em" />
+</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>滝 ("waterfall") <fr:tex
+display="inline"><![CDATA[*]]></fr:tex> 4, meaning Niagara Falls.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+<fr:p>This is, I suppose, something of an exaltation of larks, and I'm reminded of my copy of <fr:link
+type="local"
+href="jameslipton.xml"
+addr="jameslipton"
+title="James Lipton">James Lipton</fr:link>'s <fr:link
+type="local"
+href="lipton-1991.xml"
+addr="lipton-1991"
+title="An Exaltation of Larks">book</fr:link> (it must be somewhere in the boxes). It seems to me good sense to take 
+  <html:img
+xmlns:html="http://www.w3.org/1999/xhtml"
+src="zzhaoe-000Y-murder.svg"
+style="width: 1em" />
+ (a quadriplication of 烏, "crow") to mean a murder of crows, and to extend this principle to any other noun.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
