@@ -258,6 +258,11 @@ _grow() {
   miniserve --index index.xml output
 }
 
+_clean() {
+  [[ -d output ]] && rm -r output
+  [[ -d build ]] && rm -r build
+}
+
 # enter switch
 eval "$(opam env)"
 
@@ -268,6 +273,10 @@ new)
 	;;
 grow)
   _grow "${@:2}"
+  exit 0
+  ;;
+clean)
+  _clean "${@:2}"
   exit 0
   ;;
 *)
