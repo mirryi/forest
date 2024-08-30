@@ -9,7 +9,7 @@
 \author{ericczhao}
 \author{many, many others}
 
-\meta{external}{https://hazel.org}
+\meta{homepage}{https://hazel.org}
 \meta{github}{https://github.com/hazelgrove/hazel}
 
 \blockquote{Hazel is a live functional programming environment that is able to typecheck, manipulate, and even run incomplete programs, i.e. programs with holes. There are no meaningless editor states.}
