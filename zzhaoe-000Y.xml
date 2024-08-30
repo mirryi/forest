@@ -344,17 +344,7 @@ lang="ja">姓氏の語源</html:span>
 type="local"
 href="niwamotoji.xml"
 addr="niwamotoji"
-title="
-  
-  丹羽基二著
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">丹羽基二著</html:span>
-
-</fr:link></fr:author></fr:authors><fr:meta
+title="Niwa Motoji">Niwa Motoji</fr:link></fr:author></fr:authors><fr:meta
 name="isbn">978-4-04-061400-7</fr:meta><fr:meta
 name="bibtex"><![CDATA[@book{niwa_1981,
   address={東京},

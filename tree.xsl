@@ -205,6 +205,7 @@
           <xsl:if test="not(f:meta[@name = 'author']/.='false')">
             <xsl:apply-templates select="f:authors" />
           </xsl:if>
+          <xsl:apply-templates select="f:meta[@name='original']" />
           <xsl:apply-templates select="f:meta[@name='position']" />
           <xsl:apply-templates select="f:meta[@name='institution']" />
           <xsl:apply-templates select="f:meta[@name='venue']" />
@@ -212,11 +213,12 @@
           <xsl:apply-templates select="f:meta[@name='doi']" />
           <xsl:apply-templates select="f:meta[@name='isbn']" />
           <xsl:apply-templates select="f:meta[@name='orcid']" />
+          <xsl:apply-templates select="f:meta[@name='homepage']" />
           <xsl:apply-templates select="f:meta[@name='github']" />
           <xsl:apply-templates select="f:meta[@name='crate']" />
-          <xsl:apply-templates select="f:meta[@name='external']" />
           <xsl:apply-templates select="f:meta[@name='slides']" />
           <xsl:apply-templates select="f:meta[@name='video']" />
+          <xsl:apply-templates select="f:meta[@name='external']" />
         </ul>
       </div>
     </header>

@@ -110,6 +110,12 @@
     </xsl:if>
   </xsl:template>
 
+  <xsl:template match="f:meta[@name='original']">
+    <li class="meta-item">
+      <xsl:apply-templates />
+    </li>
+  </xsl:template>
+
   <xsl:template match="f:meta[@name='doi']">
     <li class="meta-item">
       <a class="doi link" href="{concat('https://www.doi.org/', .)}">
@@ -182,6 +188,14 @@
     <li class="meta-item">
       <a class="link external" href="{.}">
         <xsl:text>video</xsl:text>
+      </a>
+    </li>
+  </xsl:template>
+
+  <xsl:template match="f:meta[@name='homepage']">
+    <li class="meta-item">
+      <a class="link external" href="{.}">
+        homepage
       </a>
     </li>
   </xsl:template>

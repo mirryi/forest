@@ -256,17 +256,7 @@ title="Max S. New">Max S. New</fr:link>, <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="
-  
-  曽我部綾香
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">曽我部綾香</html:span>
-
-</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -289,87 +279,27 @@ title="The University of Michigan">Michigan</fr:link>, especially <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="
-  
-  曽我部綾香
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">曽我部綾香</html:span>
-
-</fr:link>, <fr:link
+title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, <fr:link
 type="local"
 href="masaeyasuda.xml"
 addr="masaeyasuda"
-title="
-  
-  安田昌江
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">安田昌江</html:span>
-
-</fr:link>, <fr:link
+title="Masae Yasuda">Masae Yasuda</fr:link>, <fr:link
 type="local"
 href="yoshihiromochizuki.xml"
 addr="yoshihiromochizuki"
-title="
-  
-  望月良浩
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">望月良浩</html:span>
-
-</fr:link>, <fr:link
+title="Yoshihiro Mochizuki">Yoshihiro Mochizuki</fr:link>, <fr:link
 type="local"
 href="junkokondo.xml"
 addr="junkokondo"
-title="
-  
-  近藤純子
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">近藤純子</html:span>
-
-</fr:link>, <fr:link
+title="Junko Kondo">Junko Kondo</fr:link>, <fr:link
 type="local"
 href="yamatokitahashi.xml"
 addr="yamatokitahashi"
-title="
-  
-  北橋日本
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">北橋日本</html:span>
-
-</fr:link>, and <fr:link
+title="Yamato Kitahashi">Yamato Kitahashi</fr:link>, and <fr:link
 type="local"
 href="yoshimisakakibara.xml"
 addr="yoshimisakakibara"
-title="
-  
-  榊原芳美
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">榊原芳美</html:span>
-
-</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Yoshimi Sakakibara">Yoshimi Sakakibara</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -600,7 +530,7 @@ type="local"
 href="ericczhao.xml"
 addr="ericczhao"
 title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author>many, many others</fr:author></fr:authors><fr:meta
-name="external">https://hazel.org</fr:meta><fr:meta
+name="homepage">https://hazel.org</fr:meta><fr:meta
 name="github">https://github.com/hazelgrove/hazel</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>Hazel is a live functional programming environment that is able to typecheck, manipulate, and even run incomplete programs, i.e. programs with holes. There are no meaningless editor states.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
@@ -688,7 +618,7 @@ type="local"
 href="marcusgozon.xml"
 addr="marcusgozon"
 title="Marcus Gozon">Marcus Gozon</fr:link></fr:author></fr:authors><fr:meta
-name="external">https://mirryi.github.io/mm</fr:meta><fr:meta
+name="homepage">https://mirryi.github.io/mm</fr:meta><fr:meta
 name="github">https://github.com/mirryi/mm</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>It's like Desmos but equations become musical scores. <fr:link
 type="local"
 href="marcusgozon.xml"
@@ -1333,16 +1263,7 @@ lang="ja">
 type="local"
 href="shionmiura.xml"
 addr="shionmiura"
-title="
-  
-  三浦しをん
-
-">
-  
-  <html:span
-lang="ja">三浦しをん</html:span>
-
-</fr:link>による、2012年本屋大賞受賞作である「<fr:link
+title="Shion Miura">三浦しをん</fr:link>による、2012年本屋大賞受賞作である「<fr:link
 type="local"
 href="miura-2015.xml"
 addr="miura-2015"

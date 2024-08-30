@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>801</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>773</fr:anchor><fr:addr
 type="user">ericczhao</fr:addr><fr:route>ericczhao.xml</fr:route><fr:title
 text="Eric Zhao">Eric Zhao</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">PhD Student</fr:meta><fr:meta
@@ -114,10 +114,10 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>802</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>774</fr:anchor><fr:addr
 type="user">brownuniversity</fr:addr><fr:route>brownuniversity.xml</fr:route><fr:title
 text="Brown University">Brown University</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
-name="external">https://www.brown.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+name="homepage">https://www.brown.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -132,7 +132,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>803</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>775</fr:anchor><fr:addr
 type="user">zzhaoe-0014</fr:addr><fr:route>zzhaoe-0014.xml</fr:route><fr:title
 text="Fonts for obscure Han ideographs">Fonts for obscure Han ideographs</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -151,7 +151,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>805</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>777</fr:anchor><fr:addr
 type="user">zzhaoe-000Y</fr:addr><fr:route>zzhaoe-000Y.xml</fr:route><fr:title
 text="Utterly illegible Han ideographs">Utterly illegible Han ideographs</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -428,7 +428,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>807</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>779</fr:anchor><fr:addr
 type="user">zzhaoe-000X</fr:addr><fr:route>zzhaoe-000X.xml</fr:route><fr:title
 text="
   
@@ -462,7 +462,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>809</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>781</fr:anchor><fr:addr
 type="user">zzhaoe-000U</fr:addr><fr:route>zzhaoe-000U.xml</fr:route><fr:title
 text="Orpheus in Atuan">Orpheus in Atuan</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -515,7 +515,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>811</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>783</fr:anchor><fr:addr
 type="user">zzhaoe-000N</fr:addr><fr:route>zzhaoe-000N.xml</fr:route><fr:title
 text="On names">On names</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -564,7 +564,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>813</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>785</fr:anchor><fr:addr
 type="user">zzhaoe-000F</fr:addr><fr:route>zzhaoe-000F.xml</fr:route><fr:title
 text="On the original Orpheus">On the original Orpheus</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -703,7 +703,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>815</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>787</fr:anchor><fr:addr
 type="user">zzhaoe-000C</fr:addr><fr:route>zzhaoe-000C.xml</fr:route><fr:title
 text="
   
@@ -728,16 +728,7 @@ lang="ja">
 type="local"
 href="shionmiura.xml"
 addr="shionmiura"
-title="
-  
-  三浦しをん
-
-">
-  
-  <html:span
-lang="ja">三浦しをん</html:span>
-
-</fr:link>による、2012年本屋大賞受賞作である「<fr:link
+title="Shion Miura">三浦しをん</fr:link>による、2012年本屋大賞受賞作である「<fr:link
 type="local"
 href="miura-2015.xml"
 addr="miura-2015"
@@ -764,7 +755,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>817</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>789</fr:anchor><fr:addr
 type="user">zzhaoe-000O</fr:addr><fr:route>zzhaoe-000O.xml</fr:route><fr:title
 text="The Butler">The Butler</fr:title><fr:taxon>Fiction</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>7</fr:month><fr:day>7</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -777,7 +768,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>819</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>791</fr:anchor><fr:addr
 type="user">zzhaoe-000P</fr:addr><fr:route>zzhaoe-000P.xml</fr:route><fr:title
 text="The Mountains at the Edge of the World">The Mountains at the Edge of the World</fr:title><fr:taxon>Fiction</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>16</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -790,7 +781,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>821</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>793</fr:anchor><fr:addr
 type="user">zzhaoe-000S</fr:addr><fr:route>zzhaoe-000S.xml</fr:route><fr:title
 text="Received the NSF Graduate Research Fellowship">Received the NSF Graduate Research Fellowship</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -808,24 +799,14 @@ title="Max S. New">Max S. New</fr:link>, <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="
-  
-  曽我部綾香
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">曽我部綾香</html:span>
-
-</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>823</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>795</fr:anchor><fr:addr
 type="user">zzhaoe-000E</fr:addr><fr:route>zzhaoe-000E.xml</fr:route><fr:title
 text="On The Worm Ouroboros">On <fr:em><fr:link
 type="local"
@@ -854,7 +835,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>825</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>797</fr:anchor><fr:addr
 type="user">zzhaoe-000T</fr:addr><fr:route>zzhaoe-000T.xml</fr:route><fr:title
 text="Passed the JLPT N1">Passed the JLPT N1</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -870,94 +851,34 @@ title="The University of Michigan">Michigan</fr:link>, especially <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="
-  
-  曽我部綾香
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">曽我部綾香</html:span>
-
-</fr:link>, <fr:link
+title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, <fr:link
 type="local"
 href="masaeyasuda.xml"
 addr="masaeyasuda"
-title="
-  
-  安田昌江
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">安田昌江</html:span>
-
-</fr:link>, <fr:link
+title="Masae Yasuda">Masae Yasuda</fr:link>, <fr:link
 type="local"
 href="yoshihiromochizuki.xml"
 addr="yoshihiromochizuki"
-title="
-  
-  望月良浩
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">望月良浩</html:span>
-
-</fr:link>, <fr:link
+title="Yoshihiro Mochizuki">Yoshihiro Mochizuki</fr:link>, <fr:link
 type="local"
 href="junkokondo.xml"
 addr="junkokondo"
-title="
-  
-  近藤純子
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">近藤純子</html:span>
-
-</fr:link>, <fr:link
+title="Junko Kondo">Junko Kondo</fr:link>, <fr:link
 type="local"
 href="yamatokitahashi.xml"
 addr="yamatokitahashi"
-title="
-  
-  北橋日本
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">北橋日本</html:span>
-
-</fr:link>, and <fr:link
+title="Yamato Kitahashi">Yamato Kitahashi</fr:link>, and <fr:link
 type="local"
 href="yoshimisakakibara.xml"
 addr="yoshimisakakibara"
-title="
-  
-  榊原芳美
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">榊原芳美</html:span>
-
-</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Yoshimi Sakakibara">Yoshimi Sakakibara</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>827</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>799</fr:anchor><fr:addr
 type="user">zzhaoe-000K</fr:addr><fr:route>zzhaoe-000K.xml</fr:route><fr:title
 text="Wrath">Wrath</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1078,7 +999,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>829</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>801</fr:anchor><fr:addr
 type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1172,7 +1093,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>836</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>808</fr:anchor><fr:addr
 type="user">zzhaoe-000Q</fr:addr><fr:route>zzhaoe-000Q.xml</fr:route><fr:title
 text="Grove (Agda)">Grove (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2024</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1194,7 +1115,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>840</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>812</fr:anchor><fr:addr
 type="user">zzhaoe-000A</fr:addr><fr:route>zzhaoe-000A.xml</fr:route><fr:title
 text="Hazel">Hazel</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2024</fr:year></fr:date><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1209,7 +1130,7 @@ type="local"
 href="ericczhao.xml"
 addr="ericczhao"
 title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author>many, many others</fr:author></fr:authors><fr:meta
-name="external">https://hazel.org</fr:meta><fr:meta
+name="homepage">https://hazel.org</fr:meta><fr:meta
 name="github">https://github.com/hazelgrove/hazel</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>Hazel is a live functional programming environment that is able to typecheck, manipulate, and even run incomplete programs, i.e. programs with holes. There are no meaningless editor states.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
@@ -1217,7 +1138,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>845</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>817</fr:anchor><fr:addr
 type="user">zzhaoe-000R</fr:addr><fr:route>zzhaoe-000R.xml</fr:route><fr:title
 text="Presenting at POPL 2024">Presenting at POPL 2024</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1238,7 +1159,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>847</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>819</fr:anchor><fr:addr
 type="user">zzhaoe-000L</fr:addr><fr:route>zzhaoe-000L.xml</fr:route><fr:title
 text="Sorrow">Sorrow</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1287,7 +1208,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>849</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>821</fr:anchor><fr:addr
 type="user">zzhaoe-000I</fr:addr><fr:route>zzhaoe-000I.xml</fr:route><fr:title
 text="The Wise One of the Mud">The Wise One of the Mud</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1328,7 +1249,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>851</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>823</fr:anchor><fr:addr
 type="user">zzhaoe-000M</fr:addr><fr:route>zzhaoe-000M.xml</fr:route><fr:title
 text="The Ettin's Lament">The Ettin's Lament</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1513,7 +1434,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>853</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>825</fr:anchor><fr:addr
 type="user">zzhaoe-000B</fr:addr><fr:route>zzhaoe-000B.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes (Agda)">Total Type Error Localization and Recovery with Holes (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2023</fr:year></fr:date><fr:date><fr:year>2022</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1531,7 +1452,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>855</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>827</fr:anchor><fr:addr
 type="user">zzhaoe-000G</fr:addr><fr:route>zzhaoe-000G.xml</fr:route><fr:title
 text="On bealuwara weorc">On <fr:em><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
@@ -1582,7 +1503,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>857</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>829</fr:anchor><fr:addr
 type="user">zzhaoe-0008</fr:addr><fr:route>zzhaoe-0008.xml</fr:route><fr:title
 text="Wikichan">Wikichan</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2022</fr:year></fr:date><fr:date><fr:year>2018</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1596,7 +1517,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>859</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>831</fr:anchor><fr:addr
 type="user">zzhaoe-0009</fr:addr><fr:route>zzhaoe-0009.xml</fr:route><fr:title
 text="Shelf">Shelf</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2022</fr:year></fr:date><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1616,7 +1537,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>861</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>833</fr:anchor><fr:addr
 type="user">zzhaoe-0013</fr:addr><fr:route>zzhaoe-0013.xml</fr:route><fr:title
 text="Mm">Mm</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1627,7 +1548,7 @@ type="local"
 href="marcusgozon.xml"
 addr="marcusgozon"
 title="Marcus Gozon">Marcus Gozon</fr:link></fr:author></fr:authors><fr:meta
-name="external">https://mirryi.github.io/mm</fr:meta><fr:meta
+name="homepage">https://mirryi.github.io/mm</fr:meta><fr:meta
 name="github">https://github.com/mirryi/mm</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>It's like Desmos but equations become musical scores. <fr:link
 type="local"
 href="marcusgozon.xml"
@@ -1647,7 +1568,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>864</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>836</fr:anchor><fr:addr
 type="user">zzhaoe-0011</fr:addr><fr:route>zzhaoe-0011.xml</fr:route><fr:title
 text="Mpdnd">Mpdnd</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1664,7 +1585,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>866</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>838</fr:anchor><fr:addr
 type="user">zzhaoe-0012</fr:addr><fr:route>zzhaoe-0012.xml</fr:route><fr:title
 text="Regexp2">Regexp2</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1678,7 +1599,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>868</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>840</fr:anchor><fr:addr
 type="user">zzhaoe-0007</fr:addr><fr:route>zzhaoe-0007.xml</fr:route><fr:title
 text="Dotfiles">Dotfiles</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2019</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1692,7 +1613,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="true"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>870</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>842</fr:anchor><fr:addr
 type="user">zzhaoe-0000</fr:addr><fr:route>index.xml</fr:route><fr:title
 text="Home">Home</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -1826,17 +1747,7 @@ title="Max S. New">Max S. New</fr:link>, <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="
-  
-  曽我部綾香
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">曽我部綾香</html:span>
-
-</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -1859,87 +1770,27 @@ title="The University of Michigan">Michigan</fr:link>, especially <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="
-  
-  曽我部綾香
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">曽我部綾香</html:span>
-
-</fr:link>, <fr:link
+title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, <fr:link
 type="local"
 href="masaeyasuda.xml"
 addr="masaeyasuda"
-title="
-  
-  安田昌江
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">安田昌江</html:span>
-
-</fr:link>, <fr:link
+title="Masae Yasuda">Masae Yasuda</fr:link>, <fr:link
 type="local"
 href="yoshihiromochizuki.xml"
 addr="yoshihiromochizuki"
-title="
-  
-  望月良浩
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">望月良浩</html:span>
-
-</fr:link>, <fr:link
+title="Yoshihiro Mochizuki">Yoshihiro Mochizuki</fr:link>, <fr:link
 type="local"
 href="junkokondo.xml"
 addr="junkokondo"
-title="
-  
-  近藤純子
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">近藤純子</html:span>
-
-</fr:link>, <fr:link
+title="Junko Kondo">Junko Kondo</fr:link>, <fr:link
 type="local"
 href="yamatokitahashi.xml"
 addr="yamatokitahashi"
-title="
-  
-  北橋日本
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">北橋日本</html:span>
-
-</fr:link>, and <fr:link
+title="Yamato Kitahashi">Yamato Kitahashi</fr:link>, and <fr:link
 type="local"
 href="yoshimisakakibara.xml"
 addr="yoshimisakakibara"
-title="
-  
-  榊原芳美
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">榊原芳美</html:span>
-
-</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Yoshimi Sakakibara">Yoshimi Sakakibara</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -2170,7 +2021,7 @@ type="local"
 href="ericczhao.xml"
 addr="ericczhao"
 title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author>many, many others</fr:author></fr:authors><fr:meta
-name="external">https://hazel.org</fr:meta><fr:meta
+name="homepage">https://hazel.org</fr:meta><fr:meta
 name="github">https://github.com/hazelgrove/hazel</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>Hazel is a live functional programming environment that is able to typecheck, manipulate, and even run incomplete programs, i.e. programs with holes. There are no meaningless editor states.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
@@ -2258,7 +2109,7 @@ type="local"
 href="marcusgozon.xml"
 addr="marcusgozon"
 title="Marcus Gozon">Marcus Gozon</fr:link></fr:author></fr:authors><fr:meta
-name="external">https://mirryi.github.io/mm</fr:meta><fr:meta
+name="homepage">https://mirryi.github.io/mm</fr:meta><fr:meta
 name="github">https://github.com/mirryi/mm</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>It's like Desmos but equations become musical scores. <fr:link
 type="local"
 href="marcusgozon.xml"
@@ -2903,16 +2754,7 @@ lang="ja">
 type="local"
 href="shionmiura.xml"
 addr="shionmiura"
-title="
-  
-  三浦しをん
-
-">
-  
-  <html:span
-lang="ja">三浦しをん</html:span>
-
-</fr:link>による、2012年本屋大賞受賞作である「<fr:link
+title="Shion Miura">三浦しをん</fr:link>による、2012年本屋大賞受賞作である「<fr:link
 type="local"
 href="miura-2015.xml"
 addr="miura-2015"
@@ -3452,7 +3294,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>872</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>844</fr:anchor><fr:addr
 type="user">zzhaoe-0004</fr:addr><fr:route>zzhaoe-0004.xml</fr:route><fr:title
 text="News">News</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -3485,17 +3327,7 @@ title="Max S. New">Max S. New</fr:link>, <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="
-  
-  曽我部綾香
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">曽我部綾香</html:span>
-
-</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -3518,87 +3350,27 @@ title="The University of Michigan">Michigan</fr:link>, especially <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="
-  
-  曽我部綾香
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">曽我部綾香</html:span>
-
-</fr:link>, <fr:link
+title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, <fr:link
 type="local"
 href="masaeyasuda.xml"
 addr="masaeyasuda"
-title="
-  
-  安田昌江
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">安田昌江</html:span>
-
-</fr:link>, <fr:link
+title="Masae Yasuda">Masae Yasuda</fr:link>, <fr:link
 type="local"
 href="yoshihiromochizuki.xml"
 addr="yoshihiromochizuki"
-title="
-  
-  望月良浩
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">望月良浩</html:span>
-
-</fr:link>, <fr:link
+title="Yoshihiro Mochizuki">Yoshihiro Mochizuki</fr:link>, <fr:link
 type="local"
 href="junkokondo.xml"
 addr="junkokondo"
-title="
-  
-  近藤純子
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">近藤純子</html:span>
-
-</fr:link>, <fr:link
+title="Junko Kondo">Junko Kondo</fr:link>, <fr:link
 type="local"
 href="yamatokitahashi.xml"
 addr="yamatokitahashi"
-title="
-  
-  北橋日本
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">北橋日本</html:span>
-
-</fr:link>, and <fr:link
+title="Yamato Kitahashi">Yamato Kitahashi</fr:link>, and <fr:link
 type="local"
 href="yoshimisakakibara.xml"
 addr="yoshimisakakibara"
-title="
-  
-  榊原芳美
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">榊原芳美</html:span>
-
-</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Yoshimi Sakakibara">Yoshimi Sakakibara</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -3627,7 +3399,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>874</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>846</fr:anchor><fr:addr
 type="user">zzhaoe-0003</fr:addr><fr:route>zzhaoe-0003.xml</fr:route><fr:title
 text="Publications">Publications</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -3734,7 +3506,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>876</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>848</fr:anchor><fr:addr
 type="user">zzhaoe-0002</fr:addr><fr:route>zzhaoe-0002.xml</fr:route><fr:title
 text="Software">Software</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -3827,7 +3599,7 @@ type="local"
 href="ericczhao.xml"
 addr="ericczhao"
 title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author>many, many others</fr:author></fr:authors><fr:meta
-name="external">https://hazel.org</fr:meta><fr:meta
+name="homepage">https://hazel.org</fr:meta><fr:meta
 name="github">https://github.com/hazelgrove/hazel</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>Hazel is a live functional programming environment that is able to typecheck, manipulate, and even run incomplete programs, i.e. programs with holes. There are no meaningless editor states.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
@@ -3915,7 +3687,7 @@ type="local"
 href="marcusgozon.xml"
 addr="marcusgozon"
 title="Marcus Gozon">Marcus Gozon</fr:link></fr:author></fr:authors><fr:meta
-name="external">https://mirryi.github.io/mm</fr:meta><fr:meta
+name="homepage">https://mirryi.github.io/mm</fr:meta><fr:meta
 name="github">https://github.com/mirryi/mm</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>It's like Desmos but equations become musical scores. <fr:link
 type="local"
 href="marcusgozon.xml"

@@ -7,19 +7,16 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>715</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>950</fr:anchor><fr:addr
 type="user">shionmiura</fr:addr><fr:route>shionmiura.xml</fr:route><fr:title
-text="
-  
-  三浦しをん
-
-">
+text="Shion Miura">Shion Miura</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
   
   <html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
 lang="ja">三浦しをん</html:span>
 
-</fr:title><fr:taxon>Person</fr:taxon><fr:authors /></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -34,7 +31,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>716</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>951</fr:anchor><fr:addr
 type="user">zzhaoe-000C</fr:addr><fr:route>zzhaoe-000C.xml</fr:route><fr:title
 text="
   
@@ -59,16 +56,7 @@ lang="ja">
 type="local"
 href="shionmiura.xml"
 addr="shionmiura"
-title="
-  
-  三浦しをん
-
-">
-  
-  <html:span
-lang="ja">三浦しをん</html:span>
-
-</fr:link>による、2012年本屋大賞受賞作である「<fr:link
+title="Shion Miura">三浦しをん</fr:link>による、2012年本屋大賞受賞作である「<fr:link
 type="local"
 href="miura-2015.xml"
 addr="miura-2015"
@@ -103,7 +91,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>718</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>953</fr:anchor><fr:addr
 type="user">miura-2015</fr:addr><fr:route>miura-2015.xml</fr:route><fr:title
 text="
   
@@ -119,15 +107,5 @@ lang="ja">舟を編む</html:span>
 type="local"
 href="shionmiura.xml"
 addr="shionmiura"
-title="
-  
-  三浦しをん
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">三浦しをん</html:span>
-
-</fr:link></fr:author></fr:authors><fr:meta
+title="Shion Miura">Shion Miura</fr:link></fr:author></fr:authors><fr:meta
 name="isbn">978-4-334-76880-5</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

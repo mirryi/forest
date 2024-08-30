@@ -23,17 +23,7 @@ lang="ja">舟を編む</html:span>
 type="local"
 href="shionmiura.xml"
 addr="shionmiura"
-title="
-  
-  三浦しをん
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">三浦しをん</html:span>
-
-</fr:link></fr:author></fr:authors><fr:meta
+title="Shion Miura">Shion Miura</fr:link></fr:author></fr:authors><fr:meta
 name="isbn">978-4-334-76880-5</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -74,16 +64,7 @@ lang="ja">
 type="local"
 href="shionmiura.xml"
 addr="shionmiura"
-title="
-  
-  三浦しをん
-
-">
-  
-  <html:span
-lang="ja">三浦しをん</html:span>
-
-</fr:link>による、2012年本屋大賞受賞作である「<fr:link
+title="Shion Miura">三浦しをん</fr:link>による、2012年本屋大賞受賞作である「<fr:link
 type="local"
 href="miura-2015.xml"
 addr="miura-2015"

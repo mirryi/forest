@@ -7,19 +7,16 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>712</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>936</fr:anchor><fr:addr
 type="user">niwamotoji</fr:addr><fr:route>niwamotoji.xml</fr:route><fr:title
-text="
-  
-  丹羽基二著
-
-">
+text="Niwa Motoji">Niwa Motoji</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
   
   <html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
 lang="ja">丹羽基二著</html:span>
 
-</fr:title><fr:taxon>Person</fr:taxon><fr:authors /></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -34,7 +31,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>713</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>937</fr:anchor><fr:addr
 type="user">niwa-1981</fr:addr><fr:route>niwa-1981.xml</fr:route><fr:title
 text="
   
@@ -50,17 +47,7 @@ lang="ja">姓氏の語源</html:span>
 type="local"
 href="niwamotoji.xml"
 addr="niwamotoji"
-title="
-  
-  丹羽基二著
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">丹羽基二著</html:span>
-
-</fr:link></fr:author></fr:authors><fr:meta
+title="Niwa Motoji">Niwa Motoji</fr:link></fr:author></fr:authors><fr:meta
 name="isbn">978-4-04-061400-7</fr:meta><fr:meta
 name="bibtex"><![CDATA[@book{niwa_1981,
   address={東京},

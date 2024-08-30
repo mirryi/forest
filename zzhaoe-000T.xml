@@ -23,87 +23,27 @@ title="The University of Michigan">Michigan</fr:link>, especially <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="
-  
-  曽我部綾香
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">曽我部綾香</html:span>
-
-</fr:link>, <fr:link
+title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, <fr:link
 type="local"
 href="masaeyasuda.xml"
 addr="masaeyasuda"
-title="
-  
-  安田昌江
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">安田昌江</html:span>
-
-</fr:link>, <fr:link
+title="Masae Yasuda">Masae Yasuda</fr:link>, <fr:link
 type="local"
 href="yoshihiromochizuki.xml"
 addr="yoshihiromochizuki"
-title="
-  
-  望月良浩
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">望月良浩</html:span>
-
-</fr:link>, <fr:link
+title="Yoshihiro Mochizuki">Yoshihiro Mochizuki</fr:link>, <fr:link
 type="local"
 href="junkokondo.xml"
 addr="junkokondo"
-title="
-  
-  近藤純子
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">近藤純子</html:span>
-
-</fr:link>, <fr:link
+title="Junko Kondo">Junko Kondo</fr:link>, <fr:link
 type="local"
 href="yamatokitahashi.xml"
 addr="yamatokitahashi"
-title="
-  
-  北橋日本
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">北橋日本</html:span>
-
-</fr:link>, and <fr:link
+title="Yamato Kitahashi">Yamato Kitahashi</fr:link>, and <fr:link
 type="local"
 href="yoshimisakakibara.xml"
 addr="yoshimisakakibara"
-title="
-  
-  榊原芳美
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">榊原芳美</html:span>
-
-</fr:link>!</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+title="Yoshimi Sakakibara">Yoshimi Sakakibara</fr:link>!</fr:p></fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -120,24 +60,21 @@ expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>503</fr:anchor><fr:addr
 type="user">ayakasogabe</fr:addr><fr:route>ayakasogabe.xml</fr:route><fr:title
-text="
-  
-  曽我部綾香
-
-">
+text="Ayaka Sogabe">Ayaka Sogabe</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
   
   <html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
 lang="ja">曽我部綾香</html:span>
 
-</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+</fr:meta><fr:meta
 name="position">Lecturer of Japanese</fr:meta><fr:meta
 name="institution"><fr:link
 type="local"
 href="umich.xml"
 addr="umich"
 title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://lsa.umich.edu/asian/people/faculty/asogabe.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+name="homepage">https://lsa.umich.edu/asian/people/faculty/asogabe.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
 show-heading="true"
@@ -146,17 +83,14 @@ expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>504</fr:anchor><fr:addr
 type="user">junkokondo</fr:addr><fr:route>junkokondo.xml</fr:route><fr:title
-text="
-  
-  近藤純子
-
-">
+text="Junko Kondo">Junko Kondo</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
   
   <html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
 lang="ja">近藤純子</html:span>
 
-</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+</fr:meta><fr:meta
 name="position">Instructor of Japanese</fr:meta><fr:meta
 name="institution"><fr:link
 type="local"
@@ -171,24 +105,21 @@ expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>505</fr:anchor><fr:addr
 type="user">masaeyasuda</fr:addr><fr:route>masaeyasuda.xml</fr:route><fr:title
-text="
-  
-  安田昌江
-
-">
+text="Masae Yasuda">Masae Yasuda</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
   
   <html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
 lang="ja">安田昌江</html:span>
 
-</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Lecturer of Japanese</fr:meta><fr:meta
+</fr:meta><fr:meta
+name="position">Teaching Professor of Japanese</fr:meta><fr:meta
 name="institution"><fr:link
 type="local"
 href="umich.xml"
 addr="umich"
 title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://lsa.umich.edu/asian/people/faculty/mxyasuda.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+name="homepage">https://lsa.umich.edu/asian/people/faculty/mxyasuda.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
 show-heading="true"
@@ -196,25 +127,9 @@ show-metadata="true"
 expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>506</fr:anchor><fr:addr
-type="user">yamatokitahashi</fr:addr><fr:route>yamatokitahashi.xml</fr:route><fr:title
-text="
-  
-  北橋日本
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">北橋日本</html:span>
-
-</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Lecturer of Japanese</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://lsa.umich.edu/asian/people/faculty/ykitahas.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
+text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
+name="homepage">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
 show-heading="true"
@@ -222,25 +137,22 @@ show-metadata="true"
 expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>507</fr:anchor><fr:addr
-type="user">yoshihiromochizuki</fr:addr><fr:route>yoshihiromochizuki.xml</fr:route><fr:title
-text="
-  
-  望月良浩
-
-">
+type="user">yamatokitahashi</fr:addr><fr:route>yamatokitahashi.xml</fr:route><fr:title
+text="Yamato Kitahashi">Yamato Kitahashi</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
   
   <html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">望月良浩</html:span>
+lang="ja">北橋日本</html:span>
 
-</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Teaching Professor of Japanese</fr:meta><fr:meta
+</fr:meta><fr:meta
+name="position">Lecturer of Japanese</fr:meta><fr:meta
 name="institution"><fr:link
 type="local"
 href="umich.xml"
 addr="umich"
 title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://lsa.umich.edu/asian/people/faculty/mochiey.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+name="homepage">https://lsa.umich.edu/asian/people/faculty/ykitahas.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
 show-heading="true"
@@ -248,25 +160,22 @@ show-metadata="true"
 expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>508</fr:anchor><fr:addr
-type="user">yoshimisakakibara</fr:addr><fr:route>yoshimisakakibara.xml</fr:route><fr:title
-text="
-  
-  榊原芳美
-
-">
+type="user">yoshihiromochizuki</fr:addr><fr:route>yoshihiromochizuki.xml</fr:route><fr:title
+text="Yoshihiro Mochizuki">Yoshihiro Mochizuki</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
   
   <html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">榊原芳美</html:span>
+lang="ja">望月良浩</html:span>
 
-</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Lecturer of Japanese</fr:meta><fr:meta
+</fr:meta><fr:meta
+name="position">Teaching Professor of Japanese</fr:meta><fr:meta
 name="institution"><fr:link
 type="local"
 href="umich.xml"
 addr="umich"
 title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://lsa.umich.edu/asian/people/faculty/ysakaki.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+name="homepage">https://lsa.umich.edu/asian/people/faculty/mochiey.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
 show-heading="true"
@@ -274,6 +183,19 @@ show-metadata="true"
 expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>509</fr:anchor><fr:addr
-type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
-text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
-name="external">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+type="user">yoshimisakakibara</fr:addr><fr:route>yoshimisakakibara.xml</fr:route><fr:title
+text="Yoshimi Sakakibara">Yoshimi Sakakibara</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">榊原芳美</html:span>
+
+</fr:meta><fr:meta
+name="position">Teaching Professor of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="homepage">https://lsa.umich.edu/asian/people/faculty/ysakaki.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
