@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1006</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1040</fr:anchor><fr:addr
 type="user">zzhaoe-000Z</fr:addr><fr:route>zzhaoe-000Z.xml</fr:route><fr:title
 text="Teaching">Teaching</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
 toc="true"
@@ -52,7 +52,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="true"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1007</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1041</fr:anchor><fr:addr
 type="user">zzhaoe-0000</fr:addr><fr:route>index.xml</fr:route><fr:title
 text="Home">Home</fr:title><fr:authors><fr:author><fr:link
 type="local"
@@ -113,7 +113,7 @@ xmlns:html="http://www.w3.org/1999/xhtml">
   <html:td><fr:strong>email:</fr:strong></html:td>
 
         
-  <html:td>zzhaoe [at] brown [dot] edu</html:td>
+  <html:td>ezhao24 [at] cs [dot] brown [dot] edu</html:td>
 
       </html:tr>
 
@@ -186,7 +186,17 @@ title="Max S. New">Max S. New</fr:link>, <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="曽我部綾香">曽我部綾香</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="
+  
+  曽我部綾香
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">曽我部綾香</html:span>
+
+</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -209,27 +219,87 @@ title="The University of Michigan">Michigan</fr:link>, especially <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="曽我部綾香">曽我部綾香</fr:link>, <fr:link
+title="
+  
+  曽我部綾香
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">曽我部綾香</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="masaeyasuda.xml"
 addr="masaeyasuda"
-title="安田昌江">安田昌江</fr:link>, <fr:link
+title="
+  
+  安田昌江
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">安田昌江</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="yoshihiromochizuki.xml"
 addr="yoshihiromochizuki"
-title="望月良浩">望月良浩</fr:link>, <fr:link
+title="
+  
+  望月良浩
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">望月良浩</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="junkokondo.xml"
 addr="junkokondo"
-title="近藤純子">近藤純子</fr:link>, <fr:link
+title="
+  
+  近藤純子
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">近藤純子</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="yamatokitahashi.xml"
 addr="yamatokitahashi"
-title="北橋日本">北橋日本</fr:link>, and <fr:link
+title="
+  
+  北橋日本
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">北橋日本</html:span>
+
+</fr:link>, and <fr:link
 type="local"
 href="yoshimisakakibara.xml"
 addr="yoshimisakakibara"
-title="榊原芳美">榊原芳美</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="
+  
+  榊原芳美
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">榊原芳美</html:span>
+
+</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -656,21 +726,125 @@ text="Utterly illegible Han ideographs">Utterly illegible Han ideographs</fr:tit
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I was surprised to find it possible to properly type (though not directly via Rime) and render the character 𰻞 (<fr:em>bíang</fr:em>) when recording <fr:link
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I was surprised to find it possible to properly type (though not directly via Rime) and render the character 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hant">𰻞</html:span>
+
+ (<fr:em>bíang</fr:em>) when recording <fr:link
 type="local"
 href="zzhaoe-000X.xml"
 addr="zzhaoe-000X"
-title="𰻞𰻞麵">a recipe for 𰻞𰻞麵</fr:link> from my dad, since I was, for whatever reason, under the impression that it wasn't part of Unicode. Apparently, it was added in 2020 in <fr:link
+title="
+  
+  𰻞𰻞麵
+
+">a recipe for 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hant">𰻞𰻞麵</html:span>
+
+</fr:link> from my dad, since I was, for whatever reason, under the impression that it wasn't part of Unicode. Apparently, it was added in 2020 in <fr:link
 type="external"
-href="https://blog.unicode.org/2020/03/announcing-unicode-standard-version-130.html">Unicode 13.0</fr:link> as one of the codepoints (precisely, <fr:code>U+30EDE</fr:code>; there's also 𰻝 as <fr:code>U+30EDD</fr:code>) in CJK Unified Ideographs Extension G, the first block of the Tertiary Ideographic Plane.</fr:p><fr:p>This block also includes 𱁬 (<fr:em>taito</fr:em>; <fr:em>daito</fr:em>; <fr:em>otodo</fr:em>; <fr:code>U+3106C</fr:code>), an 84-stroke behemoth made by sticking 䨺 (<fr:em>tai</fr:em>; <fr:code>U+4A3A</fr:code>; itself three clouds 雲 together, meaning "cloudy") and 龘 (<fr:em>tou</fr:em>; <fr:code>U+9F98</fr:code>; three dragons 龍, meant to resemble a dragon flying or climbing). It's a Japanese-coined character, or <fr:em>kokuji</fr:em> (国字), but the origins are fairly uncertain. In the early 1960s, a man showed a namecard with this surname to the staff of a brokerage office... or so it goes according to the 1981 <fr:link
+href="https://blog.unicode.org/2020/03/announcing-unicode-standard-version-130.html">Unicode 13.0</fr:link> as one of the codepoints (precisely, <fr:code>U+30EDE</fr:code>; there's also 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hans">𰻝</html:span>
+
+ as <fr:code>U+30EDD</fr:code>) in CJK Unified Ideographs Extension G, the first block of the Tertiary Ideographic Plane.</fr:p><fr:p>This block also includes 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">𱁬</html:span>
+
+ (<fr:em>taito</fr:em>; <fr:em>daito</fr:em>; <fr:em>otodo</fr:em>; <fr:code>U+3106C</fr:code>), an 84-stroke behemoth made by sticking 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">䨺</html:span>
+
+ (<fr:em>tai</fr:em>; <fr:code>U+4A3A</fr:code>; itself three clouds 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">雲</html:span>
+
+ together, meaning "cloudy") and 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">龘</html:span>
+
+ (<fr:em>tou</fr:em>; <fr:code>U+9F98</fr:code>; three dragons 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">龍</html:span>
+
+, meant to resemble a dragon flying or climbing). It's a Japanese-coined character, or <fr:em>kokuji</fr:em> (
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">国字</html:span>
+
+), but the origins are fairly uncertain. In the early 1960s, a man showed a namecard with this surname to the staff of a brokerage office... or so it goes according to the 1981 <fr:link
 type="local"
 href="niwa-1981.xml"
 addr="niwa-1981"
-title="姓氏の語源">姓氏の語源</fr:link>, an etymological dictionary of surnames. Some scholars think it's an erroneous ghost letter. 䨺龘, written separately, was perhaps an alias. In any case, it's now the name of a <fr:link
+title="
+  
+  姓氏の語源
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">姓氏の語源</html:span>
+
+</fr:link>, an etymological dictionary of surnames. Some scholars think it's an erroneous ghost letter. 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">䨺龘</html:span>
+
+, written separately, was perhaps an alias. In any case, it's now the name of a <fr:link
 type="external"
-href="https://seg2017.com/otodo/">series of ramen shops</fr:link> starting in Kita-Matsudo (北松戸) in Chiba. I think I'd like to go there sometime.</fr:p><fr:p>It seems like some netizens have borrowed the character into Chinese, developing humorous neologisms like 𱁬𪚥 (<fr:em>tài zhé</fr:em>; the latter character meaning "verbose"), meaning something like "excessively complicated (of a Chinese character)". One has to zoom in 200% to make anything of it.</fr:p><fr:p>In Chinese, there's also 䲜 ("abundance of fish"; <fr:code>U+4C9C</fr:code>) and 䨻 ("roar of thunder"; <fr:code>U+4A3B</fr:code>). In Japanese, there's <fr:link
+href="https://seg2017.com/otodo/">series of ramen shops</fr:link> starting in Kita-Matsudo (
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">北松戸</html:span>
+
+) in Chiba. I think I'd like to go there sometime.</fr:p><fr:p>It seems like some netizens have borrowed the character into Chinese, developing humorous neologisms like 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hant">𱁬𪚥</html:span>
+
+ (<fr:em>tài zhé</fr:em>; the latter character meaning "verbose"), meaning something like "excessively complicated (of a Chinese character)". One has to zoom in 200% to make anything of it.</fr:p><fr:p>In Chinese, there's also 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hant">䲜</html:span>
+
+ ("abundance of fish"; <fr:code>U+4C9C</fr:code>) and 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hant">䨻</html:span>
+
+ ("roar of thunder"; <fr:code>U+4A3B</fr:code>). In Japanese, there's <fr:link
 type="external"
-href="https://ksbookshelf.com/nozomu-oohara/WaseikanjiJiten/WaseikanjiJiten_81.html">𰽔</fr:link> (<fr:em>kagami</fr:em>; <fr:code>U+30F54</fr:code>), which seems to me like a bewildering room of many mirrors. Maybe the folks working on the Noto CJK fonts will get to it one day.</fr:p><fr:p>Here are some new characters I'd like to propose, to further enrich the space of overly dense and illegible ideographs and make the Unicode people very sad:</fr:p>
+href="https://ksbookshelf.com/nozomu-oohara/WaseikanjiJiten/WaseikanjiJiten_81.html">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">𰽔</html:span>
+
+</fr:link> (<fr:em>kagami</fr:em>; <fr:code>U+30F54</fr:code>), which seems to me like a bewildering room of many mirrors. Maybe the folks working on the Noto CJK fonts will get to it one day.</fr:p><fr:p>Here are some new characters I'd like to propose, to further enrich the space of overly dense and illegible ideographs and make the Unicode people very sad:</fr:p>
   
 
   <fr:tree
@@ -693,7 +867,13 @@ style="width: 1em" />
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A quadriplication of 墓 ("grave"), meaning, of course, a graveyard.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A quadriplication of 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">墓</html:span>
+
+ ("grave"), meaning, of course, a graveyard.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 
   <fr:tree
 toc="false"
@@ -715,7 +895,17 @@ style="width: 1em" />
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>鰞 ("squid") + 鯨 ("whale"), meaning a fight between a sperm whale and a colossal squid.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">鰞</html:span>
+
+ ("squid") + 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">鯨</html:span>
+
+ ("whale"), meaning a fight between a sperm whale and a colossal squid.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 
   <fr:tree
 toc="false"
@@ -737,7 +927,23 @@ style="width: 1em" />
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>炎 ("blaze") + 森 ("forest"), meaning a forest fire and pronounced カリフォルニア.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">炎</html:span>
+
+ ("blaze") + 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">森</html:span>
+
+ ("forest"), meaning a forest fire and pronounced 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">カリフォルニア</html:span>
+
+.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 
   <fr:tree
 toc="false"
@@ -759,7 +965,11 @@ style="width: 1em" />
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>滝 ("waterfall") <fr:tex
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">滝</html:span>
+
+ ("waterfall") <fr:tex
 display="inline"><![CDATA[*]]></fr:tex> 4, meaning Niagara Falls.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 <fr:p>This is, I suppose, something of an exaltation of larks, and I'm reminded of my copy of <fr:link
 type="local"
@@ -774,7 +984,13 @@ title="An Exaltation of Larks">book</fr:link> (it must be somewhere in the boxes
 xmlns:html="http://www.w3.org/1999/xhtml"
 src="zzhaoe-000Y-murder.svg"
 style="width: 1em" />
- (a quadriplication of 烏, "crow") to mean a murder of crows, and to extend this principle to any other noun.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+ (a quadriplication of 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">烏</html:span>
+
+, "crow") to mean a murder of crows, and to extend this principle to any other noun.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -1024,19 +1240,59 @@ expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>408</fr:anchor><fr:addr
 type="user">zzhaoe-000C</fr:addr><fr:route>zzhaoe-000C.xml</fr:route><fr:title
-text="「舟を編む」">「舟を編む」</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="
+  
+  「舟を編む」
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">「舟を編む」</html:span>
+
+</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>先月に大学の友達を訪問し、誕生日プレゼントとしてもらった<fr:link
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">
+<fr:p>先月に大学の友達を訪問し、誕生日プレゼントとしてもらった<fr:link
 type="local"
 href="shionmiura.xml"
 addr="shionmiura"
-title="三浦しをん">三浦しをん</fr:link>による、2012年本屋大賞受賞作である「<fr:link
+title="
+  
+  三浦しをん
+
+">
+  
+  <html:span
+lang="ja">三浦しをん</html:span>
+
+</fr:link>による、2012年本屋大賞受賞作である「<fr:link
 type="local"
 href="miura-2015.xml"
 addr="miura-2015"
-title="舟を編む">舟を編む</fr:link>」は、一週間かけて読み終わった。長年にわたる情熱が切れず、言葉の海を渡る舟になれるように「大渡海」の完成に向ける馬締たち。短かったわりに、作業の大規模さを感じられ、不器用で愛おしいそれぞれの登場人物を知れ、言葉への敬意、言葉の力、大切さを改めて覚えさせていただいた作品だった。</fr:p><fr:p>携帯電話の時代だというのに、辞書の編纂作業には、見出し語の重複や漏れがないか、用例採集カードや山積みの校正刷りをすべて手で確認する。編集部の部屋にコンピューターがあるみたいが、肝心な仕事には関わっていなさそう。今ならどうだろう。よくデーターベース化されたら、「玄武書房地獄の神保町合宿」は一ヶ月間を費やすまでもなく、起こるさえもなかったに思える。しかし、それで編集作業が楽になるどころか、言葉へのより鋭いセンス、愛情が求められるものだろう。これから、オックスフォード英語辞典や広辞苑を引くたびに、無数の辞書編集者へ感謝を覚えるべき。</fr:p><fr:p>これで翻訳版は気になる。「あがる」と「のぼる」の微妙な違いや「への人」の問い合わせなどは、いったいどうやって訳されているかな、と思っていた。英語の翻訳版が大いに高評価を受けているらしく、よく工夫したにちがいない。ネットで購入しようかと思うほどでもあるが、積読が続いている今の状態で良心の呵責に耐えかねる。</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="
+  
+  舟を編む
+
+">
+  
+  <html:span
+lang="ja">舟を編む</html:span>
+
+</fr:link>」は、一週間かけて読み終わった。長年にわたる情熱が切れず、言葉の海を渡る舟になれるように「大渡海」の完成に向ける馬締たち。短かったわりに、作業の大規模さを感じられ、不器用で愛おしいそれぞれの登場人物を知れ、言葉への敬意、言葉の力、大切さを改めて覚えさせていただいた作品だった。</fr:p>
+
+<fr:p>携帯電話の時代だというのに、辞書の編纂作業には、見出し語の重複や漏れがないか、用例採集カードや山積みの校正刷りをすべて手で確認する。編集部の部屋にコンピューターがあるみたいが、肝心な仕事には関わっていなさそう。今ならどうだろう。よくデーターベース化されたら、「玄武書房地獄の神保町合宿」は一ヶ月間を費やすまでもなく、起こるさえもなかったに思える。しかし、それで編集作業が楽になるどころか、言葉へのより鋭いセンス、愛情が求められるものだろう。これから、オックスフォード英語辞典や広辞苑を引くたびに、無数の辞書編集者へ感謝を覚えるべき。</fr:p>
+
+<fr:p>これで翻訳版は気になる。「あがる」と「のぼる」の微妙な違いや「への人」の問い合わせなどは、いったいどうやって訳されているかな、と思っていた。英語の翻訳版が大いに高評価を受けているらしく、よく工夫したにちがいない。ネットで購入しようかと思うほどでもあるが、積読が続いている今の状態で良心の呵責に耐えかねる。</fr:p>
+</html:span>
+
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -1074,7 +1330,9 @@ expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>412</fr:anchor><fr:addr
 type="user">zzhaoe-000G</fr:addr><fr:route>zzhaoe-000G.xml</fr:route><fr:title
-text="On bealuwara weorc">On <fr:em>bealuwara weorc</fr:em></fr:title><fr:date><fr:year>2022</fr:year><fr:month>12</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="On bealuwara weorc">On <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealuwara weorc</html:span></fr:em></fr:title><fr:date><fr:year>2022</fr:year><fr:month>12</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
@@ -1082,7 +1340,23 @@ title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><
 type="local"
 href="dreamoftherood.xml"
 addr="dreamoftherood"
-title="Dream of the Rood">Dream of the Rood</fr:link>":</fr:p><fr:blockquote>Nu ðu miht gehyran, hæleð min se leofa, þæt ic bealuwara weorc gebiden hæbbe, sarra sorga.</fr:blockquote><fr:p>Roughly modernised, the Cross speaks:</fr:p><fr:blockquote>Now you may hear, my dear warrior, that I have endured the works of wicked men, grevious sorrows.</fr:blockquote><fr:p>Here, the neuter acc. <fr:em>weorc</fr:em> is roughly Mdn.E. "work", and <fr:em>bealuwara</fr:em> (perhaps the gen. pl. of an unrecorded <fr:em>bealuware</fr:em>, a compound of <fr:em>bealu</fr:em>, "baleful", "wicked", and <fr:em>wara</fr:em>, "inhabitant") has been translated variously as "miscreants", "wicked men". <fr:link
+title="Dream of the Rood">Dream of the Rood</fr:link>":</fr:p>
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang"><fr:blockquote>Nu ðu miht gehyran, hæleð min se leofa, þæt ic bealuwara weorc gebiden hæbbe, sarra sorga.</fr:blockquote></html:span>
+
+<fr:p>Roughly modernised, the Cross speaks:</fr:p><fr:blockquote>Now you may hear, my dear warrior, that I have endured the works of wicked men, grevious sorrows.</fr:blockquote><fr:p>Here, the neuter acc. <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">weorc</html:span></fr:em> is roughly Mdn.E. "work", and <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealuwara</html:span></fr:em> (perhaps the gen. pl. of an unrecorded <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealuware</html:span></fr:em>, a compound of <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealu</html:span></fr:em>, "baleful", "wicked", and <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">wara</html:span></fr:em>, "inhabitant") has been translated variously as "miscreants", "wicked men". <fr:link
 type="local"
 href="bosworth-2014.xml"
 addr="bosworth-2014"
@@ -1090,7 +1364,15 @@ title="Bosworth Toller's Anglo-Saxon Dictionary">Bosworth Toller's</fr:link> has
 type="local"
 href="britton-1967.xml"
 addr="britton-1967"
-title="“Bealuwara Weorc” in the “Dream of the Rood”">apparently</fr:link> this bit has caused philologists a lot of trouble.</fr:p><fr:p>Interestingly, it's tempting to compare also "Balrog", which in Sindarin comes from <fr:em>BAL</fr:em> ("power") + <fr:em>raug/rog</fr:em> ("demon"), but has echoes of <fr:em>bealu-wearg</fr:em> ("outlaw", "wolf") or <fr:em>bealu-broga</fr:em> ("monster", "terror").</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
+title="“
+  
+  Bealuwara Weorc
+
+” in the “Dream of the Rood”">apparently</fr:link> this bit has caused philologists a lot of trouble.</fr:p><fr:p>Interestingly, it's tempting to compare also "Balrog", which in Sindarin comes from <fr:em>BAL</fr:em> ("power") + <fr:em>raug/rog</fr:em> ("demon"), but has echoes of <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealu-wearg</html:span></fr:em> ("outlaw", "wolf") or <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealu-broga</html:span></fr:em> ("monster", "terror").</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>
   <fr:tree
 toc="false"
 numbered="false"

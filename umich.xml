@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>933</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>967</fr:anchor><fr:addr
 type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
 text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
 name="external">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
@@ -25,7 +25,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>934</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>968</fr:anchor><fr:addr
 type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
 text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year PhD student in Computer Science at <fr:link
 type="local"
@@ -71,7 +71,7 @@ xmlns:html="http://www.w3.org/1999/xhtml">
   <html:td><fr:strong>email:</fr:strong></html:td>
 
         
-  <html:td>zzhaoe [at] brown [dot] edu</html:td>
+  <html:td>ezhao24 [at] cs [dot] brown [dot] edu</html:td>
 
       </html:tr>
 
@@ -108,7 +108,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>935</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>969</fr:anchor><fr:addr
 type="user">zzhaoe-000T</fr:addr><fr:route>zzhaoe-000T.xml</fr:route><fr:title
 text="Passed the JLPT N1">Passed the JLPT N1</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -124,34 +124,224 @@ title="The University of Michigan">Michigan</fr:link>, especially <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="曽我部綾香">曽我部綾香</fr:link>, <fr:link
+title="
+  
+  曽我部綾香
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">曽我部綾香</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="masaeyasuda.xml"
 addr="masaeyasuda"
-title="安田昌江">安田昌江</fr:link>, <fr:link
+title="
+  
+  安田昌江
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">安田昌江</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="yoshihiromochizuki.xml"
 addr="yoshihiromochizuki"
-title="望月良浩">望月良浩</fr:link>, <fr:link
+title="
+  
+  望月良浩
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">望月良浩</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="junkokondo.xml"
 addr="junkokondo"
-title="近藤純子">近藤純子</fr:link>, <fr:link
+title="
+  
+  近藤純子
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">近藤純子</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="yamatokitahashi.xml"
 addr="yamatokitahashi"
-title="北橋日本">北橋日本</fr:link>, and <fr:link
+title="
+  
+  北橋日本
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">北橋日本</html:span>
+
+</fr:link>, and <fr:link
 type="local"
 href="yoshimisakakibara.xml"
 addr="yoshimisakakibara"
-title="榊原芳美">榊原芳美</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="
+  
+  榊原芳美
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">榊原芳美</html:span>
+
+</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>937</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>971</fr:anchor><fr:addr
+type="user">ayakasogabe</fr:addr><fr:route>ayakasogabe.xml</fr:route><fr:title
+text="
+  
+  曽我部綾香
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">曽我部綾香</html:span>
+
+</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Lecturer of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="external">https://lsa.umich.edu/asian/people/faculty/asogabe.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>972</fr:anchor><fr:addr
+type="user">masaeyasuda</fr:addr><fr:route>masaeyasuda.xml</fr:route><fr:title
+text="
+  
+  安田昌江
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">安田昌江</html:span>
+
+</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Lecturer of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="external">https://lsa.umich.edu/asian/people/faculty/mxyasuda.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>973</fr:anchor><fr:addr
+type="user">yamatokitahashi</fr:addr><fr:route>yamatokitahashi.xml</fr:route><fr:title
+text="
+  
+  北橋日本
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">北橋日本</html:span>
+
+</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Lecturer of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="external">https://lsa.umich.edu/asian/people/faculty/ykitahas.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>974</fr:anchor><fr:addr
+type="user">yoshihiromochizuki</fr:addr><fr:route>yoshihiromochizuki.xml</fr:route><fr:title
+text="
+  
+  望月良浩
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">望月良浩</html:span>
+
+</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Teaching Professor of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="external">https://lsa.umich.edu/asian/people/faculty/mochiey.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>975</fr:anchor><fr:addr
+type="user">yoshimisakakibara</fr:addr><fr:route>yoshimisakakibara.xml</fr:route><fr:title
+text="
+  
+  榊原芳美
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">榊原芳美</html:span>
+
+</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Lecturer of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="external">https://lsa.umich.edu/asian/people/faculty/ysakaki.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>976</fr:anchor><fr:addr
 type="user">andrewblinn</fr:addr><fr:route>andrewblinn.xml</fr:route><fr:title
 text="Andrew Blinn">Andrew Blinn</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">PhD Student</fr:meta><fr:meta
@@ -167,7 +357,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>938</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>977</fr:anchor><fr:addr
 type="user">cyrusomar</fr:addr><fr:route>cyrusomar.xml</fr:route><fr:title
 text="Cyrus Omar">Cyrus Omar</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
@@ -183,7 +373,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>939</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>978</fr:anchor><fr:addr
 type="user">davidmoon</fr:addr><fr:route>davidmoon.xml</fr:route><fr:title
 text="David Moon">David Moon</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">PhD Student</fr:meta><fr:meta
@@ -198,7 +388,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>940</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>979</fr:anchor><fr:addr
 type="user">zzhaoe-0010</fr:addr><fr:route>zzhaoe-0010.xml</fr:route><fr:title
 text="EECS 490: Programming Languages (F23, W24)">EECS 490: Programming Languages (F23, W24)</fr:title><fr:taxon>Course</fr:taxon><fr:authors /><fr:meta
 name="institution"><fr:link
@@ -226,7 +416,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>941</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>980</fr:anchor><fr:addr
 type="user">fplab</fr:addr><fr:route>fplab.xml</fr:route><fr:title
 text="Future of Programming Lab">Future of Programming Lab</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
 name="external">http://fplab.mplse.org</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>FP Lab at the <fr:link
@@ -240,7 +430,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>942</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>981</fr:anchor><fr:addr
 type="user">marcusgozon</fr:addr><fr:route>marcusgozon.xml</fr:route><fr:title
 text="Marcus Gozon">Marcus Gozon</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="institution"><fr:link
@@ -255,7 +445,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>943</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>982</fr:anchor><fr:addr
 type="user">maxsnew</fr:addr><fr:route>maxsnew.xml</fr:route><fr:title
 text="Max S. New">Max S. New</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
@@ -264,84 +454,4 @@ type="local"
 href="umich.xml"
 addr="umich"
 title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://maxsnew.com</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>944</fr:anchor><fr:addr
-type="user">yamatokitahashi</fr:addr><fr:route>yamatokitahashi.xml</fr:route><fr:title
-text="北橋日本">北橋日本</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Lecturer of Japanese</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://lsa.umich.edu/asian/people/faculty/ykitahas.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>945</fr:anchor><fr:addr
-type="user">masaeyasuda</fr:addr><fr:route>masaeyasuda.xml</fr:route><fr:title
-text="安田昌江">安田昌江</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Lecturer of Japanese</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://lsa.umich.edu/asian/people/faculty/mxyasuda.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>946</fr:anchor><fr:addr
-type="user">ayakasogabe</fr:addr><fr:route>ayakasogabe.xml</fr:route><fr:title
-text="曽我部綾香">曽我部綾香</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Lecturer of Japanese</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://lsa.umich.edu/asian/people/faculty/asogabe.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>947</fr:anchor><fr:addr
-type="user">yoshihiromochizuki</fr:addr><fr:route>yoshihiromochizuki.xml</fr:route><fr:title
-text="望月良浩">望月良浩</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Teaching Professor of Japanese</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://lsa.umich.edu/asian/people/faculty/mochiey.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>948</fr:anchor><fr:addr
-type="user">yoshimisakakibara</fr:addr><fr:route>yoshimisakakibara.xml</fr:route><fr:title
-text="榊原芳美">榊原芳美</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Lecturer of Japanese</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="external">https://lsa.umich.edu/asian/people/faculty/ysakaki.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+name="external">https://maxsnew.com</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

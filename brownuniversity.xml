@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>726</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>760</fr:anchor><fr:addr
 type="user">brownuniversity</fr:addr><fr:route>brownuniversity.xml</fr:route><fr:title
 text="Brown University">Brown University</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
 name="external">https://www.brown.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
@@ -25,7 +25,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>727</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>761</fr:anchor><fr:addr
 type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
 text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year PhD student in Computer Science at <fr:link
 type="local"
@@ -71,7 +71,7 @@ xmlns:html="http://www.w3.org/1999/xhtml">
   <html:td><fr:strong>email:</fr:strong></html:td>
 
         
-  <html:td>zzhaoe [at] brown [dot] edu</html:td>
+  <html:td>ezhao24 [at] cs [dot] brown [dot] edu</html:td>
 
       </html:tr>
 
@@ -108,7 +108,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>728</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>762</fr:anchor><fr:addr
 type="user">ericczhao</fr:addr><fr:route>ericczhao.xml</fr:route><fr:title
 text="Eric Zhao">Eric Zhao</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">PhD Student</fr:meta><fr:meta
@@ -170,7 +170,7 @@ xmlns:html="http://www.w3.org/1999/xhtml">
   <html:td><fr:strong>email:</fr:strong></html:td>
 
         
-  <html:td>zzhaoe [at] brown [dot] edu</html:td>
+  <html:td>ezhao24 [at] cs [dot] brown [dot] edu</html:td>
 
       </html:tr>
 
@@ -207,7 +207,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>729</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>763</fr:anchor><fr:addr
 type="user">nikosvasilakis</fr:addr><fr:route>nikosvasilakis.xml</fr:route><fr:title
 text="Nikos Vasilakis">Nikos Vasilakis</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
@@ -224,7 +224,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>730</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>764</fr:anchor><fr:addr
 type="user">robertlewis</fr:addr><fr:route>robertlewis.xml</fr:route><fr:title
 text="Robert Lewis">Robert Lewis</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">Lecturer of Computer Science</fr:meta><fr:meta

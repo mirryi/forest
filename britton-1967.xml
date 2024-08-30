@@ -9,13 +9,23 @@ expanded="true"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>686</fr:anchor><fr:addr
 type="user">britton-1967</fr:addr><fr:route>britton-1967.xml</fr:route><fr:title
-text="“Bealuwara Weorc” in the “Dream of the Rood”">“Bealuwara Weorc” in the “Dream of the Rood”</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1967</fr:year></fr:date><fr:authors><fr:author><fr:link
+text="“
+  
+  Bealuwara Weorc
+
+” in the “Dream of the Rood”">“
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">Bealuwara Weorc</html:span>
+
+” in the “Dream of the Rood”</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1967</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="gcbritton.xml"
 addr="gcbritton"
 title="G.C. Britton">G.C. Britton</fr:link></fr:author></fr:authors><fr:meta
 name="bibtex"><![CDATA[@article{britton_1967,
-  title={“Bealuwara Weorc” in the “Dream of the Rood”},
+  title={“\langang{Bealuwara Weorc}” in the “Dream of the Rood”},
   volume={68},
   issn={0028-3754},
   number={3},
@@ -41,7 +51,9 @@ expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>688</fr:anchor><fr:addr
 type="user">zzhaoe-000G</fr:addr><fr:route>zzhaoe-000G.xml</fr:route><fr:title
-text="On bealuwara weorc">On <fr:em>bealuwara weorc</fr:em></fr:title><fr:date><fr:year>2022</fr:year><fr:month>12</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="On bealuwara weorc">On <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealuwara weorc</html:span></fr:em></fr:title><fr:date><fr:year>2022</fr:year><fr:month>12</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
@@ -49,7 +61,23 @@ title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><
 type="local"
 href="dreamoftherood.xml"
 addr="dreamoftherood"
-title="Dream of the Rood">Dream of the Rood</fr:link>":</fr:p><fr:blockquote>Nu ðu miht gehyran, hæleð min se leofa, þæt ic bealuwara weorc gebiden hæbbe, sarra sorga.</fr:blockquote><fr:p>Roughly modernised, the Cross speaks:</fr:p><fr:blockquote>Now you may hear, my dear warrior, that I have endured the works of wicked men, grevious sorrows.</fr:blockquote><fr:p>Here, the neuter acc. <fr:em>weorc</fr:em> is roughly Mdn.E. "work", and <fr:em>bealuwara</fr:em> (perhaps the gen. pl. of an unrecorded <fr:em>bealuware</fr:em>, a compound of <fr:em>bealu</fr:em>, "baleful", "wicked", and <fr:em>wara</fr:em>, "inhabitant") has been translated variously as "miscreants", "wicked men". <fr:link
+title="Dream of the Rood">Dream of the Rood</fr:link>":</fr:p>
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang"><fr:blockquote>Nu ðu miht gehyran, hæleð min se leofa, þæt ic bealuwara weorc gebiden hæbbe, sarra sorga.</fr:blockquote></html:span>
+
+<fr:p>Roughly modernised, the Cross speaks:</fr:p><fr:blockquote>Now you may hear, my dear warrior, that I have endured the works of wicked men, grevious sorrows.</fr:blockquote><fr:p>Here, the neuter acc. <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">weorc</html:span></fr:em> is roughly Mdn.E. "work", and <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealuwara</html:span></fr:em> (perhaps the gen. pl. of an unrecorded <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealuware</html:span></fr:em>, a compound of <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealu</html:span></fr:em>, "baleful", "wicked", and <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">wara</html:span></fr:em>, "inhabitant") has been translated variously as "miscreants", "wicked men". <fr:link
 type="local"
 href="bosworth-2014.xml"
 addr="bosworth-2014"
@@ -57,4 +85,12 @@ title="Bosworth Toller's Anglo-Saxon Dictionary">Bosworth Toller's</fr:link> has
 type="local"
 href="britton-1967.xml"
 addr="britton-1967"
-title="“Bealuwara Weorc” in the “Dream of the Rood”">apparently</fr:link> this bit has caused philologists a lot of trouble.</fr:p><fr:p>Interestingly, it's tempting to compare also "Balrog", which in Sindarin comes from <fr:em>BAL</fr:em> ("power") + <fr:em>raug/rog</fr:em> ("demon"), but has echoes of <fr:em>bealu-wearg</fr:em> ("outlaw", "wolf") or <fr:em>bealu-broga</fr:em> ("monster", "terror").</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+title="“
+  
+  Bealuwara Weorc
+
+” in the “Dream of the Rood”">apparently</fr:link> this bit has caused philologists a lot of trouble.</fr:p><fr:p>Interestingly, it's tempting to compare also "Balrog", which in Sindarin comes from <fr:em>BAL</fr:em> ("power") + <fr:em>raug/rog</fr:em> ("demon"), but has echoes of <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealu-wearg</html:span></fr:em> ("outlaw", "wolf") or <fr:em><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">bealu-broga</html:span></fr:em> ("monster", "terror").</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

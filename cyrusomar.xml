@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>731</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>765</fr:anchor><fr:addr
 type="user">cyrusomar</fr:addr><fr:route>cyrusomar.xml</fr:route><fr:title
 text="Cyrus Omar">Cyrus Omar</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
@@ -31,7 +31,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>732</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>766</fr:anchor><fr:addr
 type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
 text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year PhD student in Computer Science at <fr:link
 type="local"
@@ -77,7 +77,7 @@ xmlns:html="http://www.w3.org/1999/xhtml">
   <html:td><fr:strong>email:</fr:strong></html:td>
 
         
-  <html:td>zzhaoe [at] brown [dot] edu</html:td>
+  <html:td>ezhao24 [at] cs [dot] brown [dot] edu</html:td>
 
       </html:tr>
 
@@ -114,7 +114,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>733</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>767</fr:anchor><fr:addr
 type="user">zzhaoe-000S</fr:addr><fr:route>zzhaoe-000S.xml</fr:route><fr:title
 text="Received the NSF Graduate Research Fellowship">Received the NSF Graduate Research Fellowship</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -132,14 +132,24 @@ title="Max S. New">Max S. New</fr:link>, <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="曽我部綾香">曽我部綾香</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="
+  
+  曽我部綾香
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">曽我部綾香</html:span>
+
+</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>735</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>769</fr:anchor><fr:addr
 type="user">zzhaoe-0010</fr:addr><fr:route>zzhaoe-0010.xml</fr:route><fr:title
 text="EECS 490: Programming Languages (F23, W24)">EECS 490: Programming Languages (F23, W24)</fr:title><fr:taxon>Course</fr:taxon><fr:authors /><fr:meta
 name="institution"><fr:link
@@ -175,7 +185,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>736</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>770</fr:anchor><fr:addr
 type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
 text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
 name="external">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
@@ -193,7 +203,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>737</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>771</fr:anchor><fr:addr
 type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -287,7 +297,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>744</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>778</fr:anchor><fr:addr
 type="user">zzhaoe-000A</fr:addr><fr:route>zzhaoe-000A.xml</fr:route><fr:title
 text="Hazel">Hazel</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2024</fr:year></fr:date><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"

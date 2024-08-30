@@ -115,6 +115,12 @@
 
 @font-face {
   font-display: swap;
+  font-family: 'Noto Serif SC';
+  src: url('fonts/NotoSerifSC-VariableFont_wght.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
   font-family: 'Noto Serif TC';
   src: url('fonts/NotoSerifTC-VariableFont_wght.woff') format('woff');
 }
@@ -129,6 +135,18 @@
   font-display: swap;
   font-family: 'Cactus Classical Serif';
   src: url('fonts/CactusClassicalSerif-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Noto Sans TC';
+  src: url('fonts/NotoSansTC-VariableFont_wght.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Chocolate Classical Sans';
+  src: url('fonts/ChocolateClassicalSans-Regular.woff') format('woff');
 }
 
 @font-face {
@@ -196,9 +214,25 @@ code {
 }
 
 body {
-  font-family: "Junicode", "Shippori Mincho", "Noto Serif TC", "Noto Serif HK", "Cactus Classical Serif";
+  font-family: "Junicode";
   font-size: 12pt;
   line-height: 1.55;
+}
+
+span[lang="ang"] {
+  font-family: "Junicode";
+}
+
+span[lang="ja"] {
+  font-family: "Shippori Mincho", "Noto Serif TC", "Noto Serif HK", "Cactus Classical Serif", "Noto Sans TC", "Chocolate Classical Sans";
+}
+
+span[lang="zh-hans"] {
+  font-family: "Noto Serif SC", "Noto Serif TC", "Noto Serif HK", "Cactus Classical Serif", "Noto Sans TC", "Chocolate Classical Sans";
+}
+
+span[lang="zh-hant"] {
+  font-family: "Noto Serif TC", "Noto Serif HK", "Cactus Classical Serif", "Noto Sans TC", "Chocolate Classical Sans";
 }
 
 math {
@@ -504,7 +538,7 @@ td.macro-doc {
 }
 
 [aria-label][role~="tooltip"]::after {
-  font-family: "Junicode", "Shippori Mincho", "Noto Serif TC", "Noto Serif HK", "Cactus Classical Serif";
+  font-family: "Junicode", "Shippori Mincho", "Noto Serif SC", "Noto Serif TC", "Noto Serif HK", "Cactus Classical Serif";
 }
 
 .tooltip {

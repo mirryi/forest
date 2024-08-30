@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>930</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>964</fr:anchor><fr:addr
 type="user">robertlewis</fr:addr><fr:route>robertlewis.xml</fr:route><fr:title
 text="Robert Lewis">Robert Lewis</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">Lecturer of Computer Science</fr:meta><fr:meta
@@ -31,7 +31,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>931</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>965</fr:anchor><fr:addr
 type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
 text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year PhD student in Computer Science at <fr:link
 type="local"
@@ -77,7 +77,7 @@ xmlns:html="http://www.w3.org/1999/xhtml">
   <html:td><fr:strong>email:</fr:strong></html:td>
 
         
-  <html:td>zzhaoe [at] brown [dot] edu</html:td>
+  <html:td>ezhao24 [at] cs [dot] brown [dot] edu</html:td>
 
       </html:tr>
 
@@ -122,7 +122,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>932</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>966</fr:anchor><fr:addr
 type="user">brownuniversity</fr:addr><fr:route>brownuniversity.xml</fr:route><fr:title
 text="Brown University">Brown University</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
 name="external">https://www.brown.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

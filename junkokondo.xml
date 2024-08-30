@@ -7,9 +7,19 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1045</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>704</fr:anchor><fr:addr
 type="user">junkokondo</fr:addr><fr:route>junkokondo.xml</fr:route><fr:title
-text="近藤純子">近藤純子</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+text="
+  
+  近藤純子
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">近藤純子</html:span>
+
+</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">Instructor of Japanese</fr:meta><fr:meta
 name="institution"><fr:link
 type="local"
@@ -30,7 +40,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1046</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>705</fr:anchor><fr:addr
 type="user">zzhaoe-000T</fr:addr><fr:route>zzhaoe-000T.xml</fr:route><fr:title
 text="Passed the JLPT N1">Passed the JLPT N1</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -46,27 +56,87 @@ title="The University of Michigan">Michigan</fr:link>, especially <fr:link
 type="local"
 href="ayakasogabe.xml"
 addr="ayakasogabe"
-title="曽我部綾香">曽我部綾香</fr:link>, <fr:link
+title="
+  
+  曽我部綾香
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">曽我部綾香</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="masaeyasuda.xml"
 addr="masaeyasuda"
-title="安田昌江">安田昌江</fr:link>, <fr:link
+title="
+  
+  安田昌江
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">安田昌江</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="yoshihiromochizuki.xml"
 addr="yoshihiromochizuki"
-title="望月良浩">望月良浩</fr:link>, <fr:link
+title="
+  
+  望月良浩
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">望月良浩</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="junkokondo.xml"
 addr="junkokondo"
-title="近藤純子">近藤純子</fr:link>, <fr:link
+title="
+  
+  近藤純子
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">近藤純子</html:span>
+
+</fr:link>, <fr:link
 type="local"
 href="yamatokitahashi.xml"
 addr="yamatokitahashi"
-title="北橋日本">北橋日本</fr:link>, and <fr:link
+title="
+  
+  北橋日本
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">北橋日本</html:span>
+
+</fr:link>, and <fr:link
 type="local"
 href="yoshimisakakibara.xml"
 addr="yoshimisakakibara"
-title="榊原芳美">榊原芳美</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="
+  
+  榊原芳美
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">榊原芳美</html:span>
+
+</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -81,7 +151,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1048</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>707</fr:anchor><fr:addr
 type="user">nanzan</fr:addr><fr:route>nanzan.xml</fr:route><fr:title
 text="Nanzan University">Nanzan University</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
 name="external">https://www.nanzan-u.ac.jp</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
