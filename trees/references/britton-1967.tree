@@ -1,11 +1,11 @@
-\title{“Bealuwara Weorc” in the “Dream of the Rood”}
+\title{“\langang{Bealuwara Weorc}” in the “Dream of the Rood”}
 \taxon{reference}
 \author{gcbritton}
 \date{1967}
 
 \meta{bibtex}{\startverb
 @article{britton_1967,
-  title={“Bealuwara Weorc” in the “Dream of the Rood”},
+  title={“\langang{Bealuwara Weorc}” in the “Dream of the Rood”},
   volume={68},
   issn={0028-3754},
   number={3},
@@ -16,3 +16,5 @@
   pages={273–276}
 }
 \stopverb}
+
+\import{zzhaoe-000H}

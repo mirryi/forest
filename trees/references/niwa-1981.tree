@@ -1,4 +1,4 @@
-\title{姓氏の語源}
+\title{\langja{姓氏の語源}}
 \author{niwamotoji}
 \date{1981}
 \taxon{reference}
@@ -18,3 +18,5 @@
   language={jpn}
 }
 \stopverb}
+
+\import{zzhaoe-000H}

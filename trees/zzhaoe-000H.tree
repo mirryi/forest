@@ -3,6 +3,31 @@
 
 \xmlns:html{http://www.w3.org/1999/xhtml}
 
+% language
+\def\lang[code][body]{
+  \<html:span>[lang]{\code}{\body}
+}
+
+\def\langen[body]{
+  \lang{en}{\body}
+}
+
+\def\langang[body]{
+  \lang{ang}{\body}
+}
+
+\def\langja[body]{
+  \lang{ja}{\body}
+}
+
+\def\langzhhans[body]{
+  \lang{zh-hans}{\body}
+}
+
+\def\langzhhant[body]{
+  \lang{zh-hant}{\body}
+}
+
 % HTML
 \def\br{
   \<html:br>{}
