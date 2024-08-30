@@ -2,5 +2,5 @@ opam-version: "2.0"
 synopsis: "Digital home."
 depends: [
   "ocaml" {>= "5.2.0"}
-  "forester" {>= "4.2.0"}
+  "forester" {>= "4.3.0"}
 ]
