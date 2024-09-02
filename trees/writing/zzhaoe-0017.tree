@@ -1,0 +1,32 @@
+\title{\langja{川柳集}}
+\taxon{poem}
+\author{ericczhao}
+\date{2023-04-20}
+
+\import{zzhaoe-000H}
+
+\put\transclude/toc{false}
+
+\subtree[zzhaoe-0018]{
+  \taxon{poem}
+
+  \langjavert{
+    ご無沙汰し \br 申し訳ない \br 誰だっけ
+  }
+}
+
+\subtree[zzhaoe-0019]{
+  \taxon{poem}
+
+  \langjavert{
+    古池や \br 我ら飛び込む \br 胴震い
+  }
+}
+
+\subtree[zzhaoe-0020]{
+  \taxon{poem}
+
+  \langjavert{
+    痩せ土に \br 案山子同士の \br 無駄話
+  }
+}
