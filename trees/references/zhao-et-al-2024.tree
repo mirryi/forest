@@ -13,7 +13,7 @@
 
 \meta{doi}{10.1145/3632910}
 \meta{venue}{[[popl-2024]]}
-\meta{slides}{zhao-et-al-2024-slides.pdf}
+\meta{slides}{zhao-et-al-2024/slides.pdf}
 
 \meta{bibtex}{\startverb
 @article{zhao_2024,
