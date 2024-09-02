@@ -20,6 +20,10 @@
   \lang{ja}{\body}
 }
 
+\def\langjavert[body]{
+  \langja{\<html:span>[style]{writing-mode: vertical-rl; float: right}{\body}}
+}
+
 \def\langzhhans[body]{
   \lang{zh-hans}{\body}
 }
@@ -48,6 +52,18 @@
 
 \def\imgchar[src]{
   \<html:img>[src]{\src}[style]{width: 1em}{}
+}
+
+\def\ruby[body]{
+  \<html:ruby>{\body}
+}
+
+\def\rb[body]{
+  \<html:rb>{\body}
+}
+
+\def\rt[body]{
+  \<html:rt>{\body}
 }
 
 % LaTeX
