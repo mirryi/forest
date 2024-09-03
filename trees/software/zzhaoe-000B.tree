@@ -1,10 +1,31 @@
 \title{Total Type Error Localization and Recovery with Holes (Agda)}
-\author{ericczhao}
 \taxon{software}
 \tag{past}
+
+\author{ericczhao}
+\author{raefmaroof}
+\author{ananddukkipati}
+\author{andrewblinn}
+\author{zhiyipan}
+\author{cyrusomar}
+
 \date{2023}
 \date{2022}
 
+\meta{doi}{10.5281/zenodo.10129703}
+\meta{venue}{[[popl-2024]]}
 \meta{github}{https://github.com/hazelgrove/error-localization-agda}
+
+\meta{bibtex}{\startverb
+@software{zhao_2023,
+  title = {Artifact for Total Type Error Localization and Recovery with Holes},
+  url = {https://doi.org/10.5281/zenodo.10129703},
+  version = {1.0},
+  publisher = {Zenodo},
+  author = {Zhao, Eric and Maroof, Raef and Dukkipati, Anand and Blinn, Andrew and Pan, Zhiyi and Omar, Cyrus},
+  date = {2023-11},
+  doi = {10.5281/zenodo.10129703},
+}
+\stopverb}
 
 \p{An Agda mechanization of the marked lambda calculus, a judgmental framework for bidirectional type error localization and recovery described in [[zhao-et-al-2024]].}
