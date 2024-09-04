@@ -1,0 +1,16 @@
+\title{Tales from the Preilous Realm}
+\taxon{reference}
+\author{jrrtolkien}
+\date{1997}
+
+\meta{bibtex}{\startverb
+@book{tolkien_1997,
+  location = {London},
+  title = {Tales from the Perilous Realm},
+  isbn = {978-0-261-10342-9},
+  pagetotal = {178},
+  publisher = {{HarperCollins}},
+  author = {Tolkien, J. R. R.},
+  date = {1997},
+}
+\stopverb}

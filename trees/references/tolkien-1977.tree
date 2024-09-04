@@ -1,0 +1,19 @@
+\title{The Silmarillion}
+\taxon{reference}
+\author{jrrtolkien}
+\author{christophertolkien}
+\date{1977}
+
+\meta{isbn}{978-0-04-823139-0}
+\meta{bibtex}{\startverb
+@book{tolkien_1977,
+  location = {London u.a.},
+  title = {The Silmarillion},
+  isbn = {978-0-04-823139-0},
+  pagetotal = {365},
+  publisher = {Allen \& Unwin},
+  author = {Tolkien, John R. R. and Tolkien, Christopher},
+  date = {1977},
+  note = {{OCLC}: 630802801},
+}
+\stopverb}

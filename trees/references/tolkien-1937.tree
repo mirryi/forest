@@ -1,0 +1,15 @@
+\title{The Hobbit, or, There and Back Again}
+\taxon{reference}
+\author{jrrtolkien}
+\date{1937}
+
+\meta{bibtex}{\startverb
+@book{tolkien_1937,
+  location = {London},
+  title = {The hobbit, or, There and back again},
+  pagetotal = {310},
+  publisher = {George Allen \& Unwin Ltd.},
+  author = {Tolkien, J. R. R.},
+  date = {1937},
+}
+\stopverb}
