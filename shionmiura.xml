@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1053</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1178</fr:anchor><fr:addr
 type="user">shionmiura</fr:addr><fr:route>shionmiura.xml</fr:route><fr:title
 text="Shion Miura">Shion Miura</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="original">
@@ -31,7 +31,68 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1054</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1179</fr:anchor><fr:addr
+type="user">zzhaoe-0021</fr:addr><fr:route>zzhaoe-0021.xml</fr:route><fr:title
+text="
+  
+  「風が強く吹いている」
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">「風が強く吹いている」</html:span>
+
+</fr:title><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">
+<fr:p>「<fr:link
+type="local"
+href="miura-2006.xml"
+addr="miura-2006"
+title="
+  
+  風が強く吹いている
+
+">風が強く吹いている</fr:link>」も<fr:link
+type="local"
+href="shionmiura.xml"
+addr="shionmiura"
+title="Shion Miura">三浦しをん</fr:link>による長編小説だと最近気づいてきた。日本から帰ってきて以来ずっと読みたかったが、箱の中で埋もれていたせいで…</fr:p>
+
+<fr:p>「<fr:link
+type="local"
+href="miura-2015.xml"
+addr="miura-2015"
+title="
+  
+  舟を編む
+
+">舟を編む</fr:link>」を<fr:link
+type="local"
+href="zzhaoe-000C.xml"
+addr="zzhaoe-000C"
+title="
+  
+  「舟を編む」
+
+">読んだ</fr:link>上で、期待している。今すぐ読む！！</fr:p>
+</html:span>
+
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1181</fr:anchor><fr:addr
 type="user">zzhaoe-000C</fr:addr><fr:route>zzhaoe-000C.xml</fr:route><fr:title
 text="
   
@@ -91,7 +152,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1056</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1183</fr:anchor><fr:addr
 type="user">miura-2015</fr:addr><fr:route>miura-2015.xml</fr:route><fr:title
 text="
   
@@ -108,4 +169,36 @@ type="local"
 href="shionmiura.xml"
 addr="shionmiura"
 title="Shion Miura">Shion Miura</fr:link></fr:author></fr:authors><fr:meta
-name="isbn">978-4-334-76880-5</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+name="isbn">978-4-334-76880-5</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1185</fr:anchor><fr:addr
+type="user">miura-2006</fr:addr><fr:route>miura-2006.xml</fr:route><fr:title
+text="
+  
+  風が強く吹いている
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">風が強く吹いている</html:span>
+
+</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2006</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="shionmiura.xml"
+addr="shionmiura"
+title="Shion Miura">Shion Miura</fr:link></fr:author></fr:authors><fr:meta
+name="isbn">978-4-10-454104-1</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{miura_2006,
+  location = {東京},
+  title = {風が強く吹いている},
+  isbn = {978-4-10-454104-1},
+  publisher = {新潮社},
+  author = {三浦, しをん},
+  date = {2006},
+}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
