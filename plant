@@ -20,13 +20,13 @@ operations:
 
 _usage_new="""usage: $0 new <kind> [...]
 kinds:
-    $0 new institituion <id> <name>
-    $0 new news         <title>
-    $0 new person       <id> <name>
-    $0 new ref          <id>
-    $0 new software     <title>
-    $0 new thoughts     <title>
-    $0 new writing      <taxon> <title>
+    $0 new institution <id> <name>
+    $0 new news        <title>
+    $0 new person      <id> <name>
+    $0 new ref         <id>
+    $0 new software    <title>
+    $0 new thoughts    <title>
+    $0 new writing     <taxon> <title>
 """
 
 _exit_usage_top() {
@@ -91,7 +91,7 @@ _new_institution() {
 	if [ "$#" -ne 2 ]; then _exit_usage_new; fi
 	local id="$1"
 	local name="$2"
-	local path="$_people/$id.tree"
+	local path="$_institutions/$id.tree"
 
 	# check that the id isn't duplicate
 	if [ -f "$path" ]; then
