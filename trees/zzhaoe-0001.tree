@@ -3,9 +3,9 @@
 
 \import{zzhaoe-000H}
 
-\p{I'm a first year PhD student in Computer Science at [[brownuniversity]], advised by [[nikosvasilakis]] and [[robertlewis]]. My interests are in programming languages, especially type theory, proof assistants, and formal verification. Previously, I was an undergraduate in computer science at [[umich]], where I worked with [[cyrusomar]] in the [[fplab]].}
+\p{I'm a first year doctoral student at [[brownuniversity]], advised by [[nikosvasilakis]] and [[robertlewis]]. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the [NSF Graduate Research Fellowship](zzhaoe-000S).}
 
-\p{I'm also supported by the NSF Graduate Research Fellowship.}
+\p{Previously, I was an undergraduate in computer science at [[umich]], where I worked with [[cyrusomar]] in the [[fplab]]. I was also the Communications Chair of the [Japanese Language Circle](jlc) for some time.}
 
 \scope{
   \put\transclude/toc{false}
