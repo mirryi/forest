@@ -7,13 +7,15 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>500</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>508</fr:anchor><fr:addr
 type="user">zzhaoe-000S</fr:addr><fr:route>zzhaoe-000S.xml</fr:route><fr:title
-text="Received the NSF Graduate Research Fellowship">Received the NSF Graduate Research Fellowship</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Received the NSF Graduate Research Fellowship!">Received the NSF Graduate Research Fellowship!</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Honored to receive an NSF Graduate Research Fellowship. Enormous thanks to my advisor <fr:link
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Honored to receive an <fr:link
+type="external"
+href="https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp">NSF Graduate Research Fellowship</fr:link>. Enormous thanks to my advisor <fr:link
 type="local"
 href="cyrusomar.xml"
 addr="cyrusomar"
@@ -33,6 +35,105 @@ show-metadata="false"
 expanded="true"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>510</fr:anchor><fr:addr
+type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
+text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year PhD student in Computer Science at <fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link>, advised by <fr:link
+type="local"
+href="nikosvasilakis.xml"
+addr="nikosvasilakis"
+title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
+type="local"
+href="robertlewis.xml"
+addr="robertlewis"
+title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the <fr:link
+type="local"
+href="zzhaoe-000S.xml"
+addr="zzhaoe-000S"
+title="Received the NSF Graduate Research Fellowship!">NSF Graduate Research Fellowship</fr:link>.</fr:p><fr:p>Previously, I was an undergraduate in computer science at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
+type="local"
+href="fplab.xml"
+addr="fplab"
+title="Future of Programming Lab">Future of Programming Lab</fr:link>. I was also the Communications Chair of the <fr:link
+type="local"
+href="jlc.xml"
+addr="jlc"
+title="Japanese Language Circle">Japanese Language Circle</fr:link> for some time.</fr:p>
+  
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>337</fr:anchor><fr:addr
+type="machine">#251</fr:addr><fr:route>unstable-251.xml</fr:route><fr:title
+text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
+  <html:table
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+  <html:tr>
+        
+  <html:td><fr:strong>email:</fr:strong></html:td>
+
+        
+  <html:td>ezhao24 [at] cs [dot] brown [dot] edu</html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>github:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://github.com/mirryi">mirryi</fr:link></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>orcid:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
+
+      </html:tr>
+
+    </html:table>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
 text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
 toc="true"
 numbered="false"
@@ -40,7 +141,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>502</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>511</fr:anchor><fr:addr
 type="user">ayakasogabe</fr:addr><fr:route>ayakasogabe.xml</fr:route><fr:title
 text="Ayaka Sogabe">Ayaka Sogabe</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="original">
@@ -63,7 +164,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>503</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>512</fr:anchor><fr:addr
 type="user">cyrusomar</fr:addr><fr:route>cyrusomar.xml</fr:route><fr:title
 text="Cyrus Omar">Cyrus Omar</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
@@ -79,7 +180,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>504</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>513</fr:anchor><fr:addr
 type="user">maxsnew</fr:addr><fr:route>maxsnew.xml</fr:route><fr:title
 text="Max S. New">Max S. New</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">Assistant Professor of Computer Science</fr:meta><fr:meta

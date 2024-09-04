@@ -142,7 +142,7 @@
 
   <xsl:template match="f:meta[@name='github']">
     <li class="meta-item">
-      <a class="link external" href="{.}">
+      <a class="link external" href="{concat('https://github.com/', .)}">
         github
       </a>
     </li>
@@ -180,6 +180,15 @@
     <li class="meta-item">
       <a class="link external" href="{.}">
         <xsl:text>pdf</xsl:text>
+      </a>
+    </li>
+  </xsl:template>
+
+  <!-- this is super hacky -->
+  <xsl:template match="f:meta[@name='artifact']">
+    <li class="meta-item">
+      <a class="link local" href="{.}.xml">
+        <xsl:text>artifact</xsl:text>
       </a>
     </li>
   </xsl:template>
