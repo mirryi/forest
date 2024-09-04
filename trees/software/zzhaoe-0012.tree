@@ -5,6 +5,6 @@
 
 \tag{archive}
 
-\meta{github}{https://github.com/mirryi/regexp2}
+\meta{github}{mirryi/regexp2}
 
 \p{A very bad implementation of regular expressions using finite automata. From the high school days.}

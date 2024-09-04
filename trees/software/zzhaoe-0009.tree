@@ -6,6 +6,6 @@
 
 \tag{archive}
 
-\meta{github}{https://github.com/mirryi/shelf}
+\meta{github}{mirryi/shelf}
 
 \p{A symlink farm manager in the spirit of [GNU stow](https://www.gnu.org/software/stow/), meant primarily for dotfiles. Though I still use it for [my own configurations](zzhaoe-0007), it's pretty awful, so I wouldn't recommend it to anyone at all. At some point, I'd like to build a robust and intelligent tool for these purposes.}

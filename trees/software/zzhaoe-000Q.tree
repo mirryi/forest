@@ -7,6 +7,6 @@
 
 \tag{ongoing}
 
-\meta{github}{https://github.com/fplab/grove-agda}
+\meta{github}{fplab/grove-agda}
 
 \p{An Agda mechanization of the Grove collaborative structure editor calculus.}

@@ -5,7 +5,7 @@
 
 \tag{past}
 
-\meta{github}{https://github.com/mirryi/mpdnd}
+\meta{github}{mirryi/mpdnd}
 \meta{crate}{mpdnd}
 
 \p{An XDG notification daemon for [mpd](https://www.musicpd.org/) in Rust.}

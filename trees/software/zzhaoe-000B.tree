@@ -14,7 +14,7 @@
 
 \meta{doi}{10.5281/zenodo.10129703}
 \meta{venue}{[[popl-2024]]}
-\meta{github}{https://github.com/hazelgrove/error-localization-agda}
+\meta{github}{hazelgrove/error-localization-agda}
 
 \meta{bibtex}{\startverb
 @software{zhao_2023,
