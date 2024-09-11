@@ -1,0 +1,28 @@
+\title{exhaustive pattern matching with regular expressions}
+\author{ericczhao}
+\date{2024-09-11}
+
+\tag{thoughts}
+
+\p{It occurred to me that it should be fairly straightforward to support functional programming-style pattern matching on strings using regular expressions. Something like this:}
+
+\pre{
+match str with
+| `a.*a` => ... -- str begins and ends with 'a'
+| `b+`   => ... -- str is a sequence of 'b's
+| _      => ... -- catch-all branch
+}
+
+\p{Given an engine that supports back-references and so on, it seems straightforward to support these. With named capture groups, patterns can bind fresh variables.}
+
+\pre{\startverb
+match "'abc'" with
+| `'(?<inner>.*)'`
+| `"(?<inner>.*)"` => ... -- inner := "abc"
+| `\d+`            => ...
+| _                => ...
+\stopverb}
+
+\p{One should be able to perform exhaustiveness checking to ensure that all possible strings are captured by the patterns. Naïvely, one could ask if the language of all strings is included in the union of the patterns and use some regular language inclusion algorithm. A pattern is redundant if its language is included in another previous pattern.}
+
+\p{I wouldn't be surprised if this exists in some language out there—let me know!}
