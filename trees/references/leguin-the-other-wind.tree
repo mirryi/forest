@@ -1,0 +1,17 @@
+\title{The Other Wind}
+\taxon{reference}
+\author{ursulaleguin}
+\date{2001}
+
+\meta{isbn}{978-0-441-00993-0}
+\meta{bibtex}{\startverb
+@book{leguin2003-the-other-wind,
+  location = {New York},
+  title = {The Other Wind},
+  isbn = {978-0-441-00993-0},
+  pagetotal = {211},
+  publisher = {Ace Books},
+  author = {Le Guin, Ursula K.},
+  date = {2003},
+}
+\stopverb}

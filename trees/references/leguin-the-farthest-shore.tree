@@ -1,11 +1,11 @@
 \title{The Farthest Shore}
 \taxon{reference}
 \author{ursulaleguin}
-\date{2001}
+\date{1972}
 
 \meta{isbn}{978-0-689-84782-0}
 \meta{bibtex}{\startverb
-@book{leguin_2001,
+@book{leguin2001_the_farthest_shore,
   address={New York},
   series={Earthsea cycle},
   title={The Farthest Shore},

@@ -1,0 +1,17 @@
+\title{Tales From Earthsea}
+\taxon{reference}
+\author{ursulaleguin}
+\date{2001}
+
+\meta{isbn}{978-0-441-01124-7}
+\meta{bibtex}{\startverb
+@book{leguin2003_tales_from_earthsea,
+	location = {New York},
+	title = {Tales from Earthsea},
+	isbn = {978-0-441-01124-7},
+	pagetotal = {314},
+	publisher = {Ace Books},
+	author = {Le Guin, Ursula K.},
+	date = {2003},
+}
+\stopverb}

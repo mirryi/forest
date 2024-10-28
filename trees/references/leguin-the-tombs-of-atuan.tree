@@ -1,11 +1,11 @@
 \title{The Tombs of Atuan}
 \taxon{reference}
 \author{ursulaleguin}
-\date{2001}
+\date{1971}
 
 \meta{isbn}{978-0-689-84536-9}
 \meta{bibtex}{\startverb
-@book{leguin_2001,
+@book{leguin2001_the_tombs_of_atuan,
   address={New York., NY},
   title={The Tombs of Atuan},
   isbn={978-0-689-84536-9},

@@ -1,0 +1,18 @@
+\title{A Wizard of Earthsea}
+\taxon{reference}
+\author{ursulaleguin}
+\date{1968}
+
+\meta{isbn}{978-0-547-85139-6}
+\meta{bibtex}{\startverb
+@book{leguin2012_a_wizard_of_earthsea,
+  address={Boston, Mass.},
+  title={A Wizard of Earthsea},
+  isbn={978-0-547-85139-6},
+  publisher={Houghton Mifflin},
+  author={Le Guin, Ursula K.},
+  year={2012},
+  collection={Earthsea cycle},
+  language={eng}
+}
+\stopverb}
