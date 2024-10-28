@@ -7,8 +7,8 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>726</fr:anchor><fr:addr
-type="user">miura-2015</fr:addr><fr:route>miura-2015.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>724</fr:anchor><fr:addr
+type="user">miura-fune-wo-amu</fr:addr><fr:route>miura-fune-wo-amu.xml</fr:route><fr:title
 text="
   
   舟を編む
@@ -39,7 +39,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>728</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>726</fr:anchor><fr:addr
 type="user">zzhaoe-000C</fr:addr><fr:route>zzhaoe-000C.xml</fr:route><fr:title
 text="
   
@@ -66,8 +66,8 @@ href="shionmiura.xml"
 addr="shionmiura"
 title="Shion Miura">三浦しをん</fr:link>による、2012年本屋大賞受賞作である「<fr:link
 type="local"
-href="miura-2015.xml"
-addr="miura-2015"
+href="miura-fune-wo-amu.xml"
+addr="miura-fune-wo-amu"
 title="
   
   舟を編む

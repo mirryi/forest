@@ -7,14 +7,14 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>768</fr:anchor><fr:addr
-type="user">lipton-1991</fr:addr><fr:route>lipton-1991.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>754</fr:anchor><fr:addr
+type="user">lipton-an-exaltation-of-larks</fr:addr><fr:route>lipton-an-exaltation-of-larks.xml</fr:route><fr:title
 text="An Exaltation of Larks">An Exaltation of Larks</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1991</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="jameslipton.xml"
 addr="jameslipton"
 title="James Lipton">James Lipton</fr:link></fr:author></fr:authors><fr:meta
-name="bibtex"><![CDATA[@book{lipton_1991,
+name="bibtex"><![CDATA[@book{lipton1991_an_exaltation_of_larks,
   address={New York, N.Y., U.S.A.},
   edition={The ultimate edition},
   title={An Exaltation of Larks},
@@ -51,7 +51,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>770</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>756</fr:anchor><fr:addr
 type="user">zzhaoe-000Y</fr:addr><fr:route>zzhaoe-000Y.xml</fr:route><fr:title
 text="Utterly illegible Han ideographs">Utterly illegible Han ideographs</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -123,8 +123,8 @@ lang="ja">国字</html:span>
 
 ), but the origins are fairly uncertain. In the early 1960s, a man showed a namecard with this surname to the staff of a brokerage office... or so it goes according to the 1981 <fr:link
 type="local"
-href="niwa-1981.xml"
-addr="niwa-1981"
+href="niwa-seishi-no-gogen.xml"
+addr="niwa-seishi-no-gogen"
 title="
   
   姓氏の語源
@@ -308,8 +308,8 @@ href="jameslipton.xml"
 addr="jameslipton"
 title="James Lipton">James Lipton</fr:link>'s <fr:link
 type="local"
-href="lipton-1991.xml"
-addr="lipton-1991"
+href="lipton-an-exaltation-of-larks.xml"
+addr="lipton-an-exaltation-of-larks"
 title="An Exaltation of Larks">book</fr:link> (it must be somewhere in the boxes). It seems to me good sense to take 
   <html:img
 xmlns:html="http://www.w3.org/1999/xhtml"
