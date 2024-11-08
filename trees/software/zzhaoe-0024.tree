@@ -1,0 +1,10 @@
+\title{Hermit}
+\taxon{software}
+\author{ericczhao}
+\date{2024}
+
+\tag{ongoing}
+
+\meta{github}{mirryi/hermit}
+
+\p{Language-level information flow control for Rust via dynamic epistemic logic.}

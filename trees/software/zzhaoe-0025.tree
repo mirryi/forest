@@ -1,0 +1,11 @@
+\title{cabal-foreign-library}
+\taxon{software}
+\author{ericczhao}
+\date{2024-11-08}
+
+\tag{ongoing}
+
+\meta{github}{mirryi/cabal-foreign-library}
+\meta{crate}{cabal-foreign-library}
+
+\p{A library for Cargo build scripts to build and link a Cabal foreign library to Rust crates. The crate calls out to Cabal and GHC; all necesssary Haskell dependencies must be installed and managed separately.}

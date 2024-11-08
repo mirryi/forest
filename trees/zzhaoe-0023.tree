@@ -1,0 +1,23 @@
+\title{Calling Haskell from Rust}
+\author{ericczhao}
+\date{2024-11-08}
+
+\tag{thoughts}
+
+\p{Everyone loves some good FFI. For Rust, we've seen plenty of Rust \code{↔} C, Rust \code{↔} C++, [Rust \code{↔} Python](https://crates.io/crates/pyo3), and even [Rust \code{→} Haskell](https://crates.io/crates/cargo-cabal), but there seems to be precious little on calling Haskell code \em{from} Rust. Whilst \code{cargo-cabal} turns a Rust crate into a Cabal library (automatically), I'd like to turn a Cabal library into a Rust crate (automatically).}
+
+\p{This probably seems like an odd thing to do, but evidently [some](https://github.com/zotero/citeproc-rs/blob/master/pandoc-ffi-bridge/build-waat.rs) have desired such things before. In my case, I'd like to call the [SMCDEL model checker](https://github.com/jrclogic/SMCDEL) as part of a Rust compiler plugin (for [another project](zzhaoe-0024)).}
+
+\p{Ideally, some tool should make this as streamlined as possible.}
+
+\ul{
+  \li{I don't want to write C wrappers.}
+  \li{I want Rust bindings for free.}
+  \li{\code{cargo {build, test, etc.}} just works.}
+}
+
+\p{Luckily, most of the pieces already exist. [\code{cabal-foreign-library}](zzhaoe-0025) puts them together in a library for build scripts (à la [\code{cc}](https://crates.io/crates/cc)). I've written a small example [here](https://github.com/mirryi/cabal-foreign-library/tree/master/crates/example-foo).}
+
+\p{The tool works for [\code{foreign-libraries}](https://cabal.readthedocs.io/en/3.10/cabal-package.html#foreign-libraries). It calls out to \code{cabal} to build the shared dynamic library, and some functions are provided to auto-generate Rust bindings via [\code{bindgen}](https://crates.io/crates/bindgen) (GHC already generates C headers for us) and link the Rust crate to the shared library and necessary Haskell runtime libraries. Cabal, GHC, and any other Haskell dependency has to be installed and managed separately.}
+
+\p{\code{cargo build} just works, and \code{cargo test} works if we modify the \code{rpath} of the Rust executables. This option can be enabled in the build script.}
