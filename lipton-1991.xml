@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>779</fr:anchor><fr:addr
+type="user">lipton-1991</fr:addr><fr:route>lipton-1991.xml</fr:route><fr:title
+text="An Exaltation of Larks">An Exaltation of Larks</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1991</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="jameslipton.xml"
+addr="jameslipton"
+title="James Lipton">James Lipton</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex"><![CDATA[@book{lipton_1991,
+  address={New York, N.Y., U.S.A.},
+  edition={The ultimate edition},
+  title={An Exaltation of Larks},
+  isbn={978-0-670-30044-0},
+  publisher={Viking},
+  author={Lipton, James},
+  year={1991},
+  language={eng}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>320</fr:anchor><fr:addr
+type="machine">#244</fr:addr><fr:route>unstable-244.xml</fr:route><fr:title
+text="Abstract">Abstract</fr:title><fr:date><fr:year>1991</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="jameslipton.xml"
+addr="jameslipton"
+title="James Lipton">James Lipton</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>An “exaltation of larks”? Yes! And a “leap of leopards,” a “parliament of owls,” an “ostentation of peacocks,” a “smack of jellyfish,” and a “murder of crows”! For those who have ever wondered if the familiar “pride of lions” and “gaggle of geese” were only the tip of a linguistic iceberg, James Lipton has provided the definitive answer: here are hundreds of equally pithy, and often poetic, terms unearthed by Mr. Lipton in the Books of Venery that were the constant study of anyone who aspired to the title of gentleman in the fifteenth century. When Mr. Lipton’s painstaking research revealed that five hundred years ago the terms of venery had already been turned into the Game of Venery, he embarked on an odyssey that has given us a “slouch of models,” a “shrivel of critics,” an “unction of undertakers,” a “blur of Impressionists,” a “score of bachelors,” and a “pocket of quarterbacks.” This ultimate edition of <fr:em>An Exaltation of Larks</fr:em> is Mr. Lipton’s brilliant answer to the assault on language and literacy in the last decades of the twentieth century. In it you will find more than 1,100 resurrected or newly minted contributions to that most endangered of all species, our language, in a setting of 250 witty, beautiful, and remarkably apt engravings.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>781</fr:anchor><fr:addr
+type="user">zzhaoe-000Y</fr:addr><fr:route>zzhaoe-000Y.xml</fr:route><fr:title
+text="Utterly illegible Han ideographs">Utterly illegible Han ideographs</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I was surprised to find it possible to properly type (though not directly via Rime) and render the character 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hant">𰻞</html:span>
+
+ (<fr:em>bíang</fr:em>) when recording <fr:link
+type="local"
+href="zzhaoe-000X.xml"
+addr="zzhaoe-000X"
+title="
+  
+  𰻞𰻞麵
+
+">a recipe for 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hant">𰻞𰻞麵</html:span>
+
+</fr:link> from my dad, since I was, for whatever reason, under the impression that it wasn't part of Unicode. Apparently, it was added in 2020 in <fr:link
+type="external"
+href="https://blog.unicode.org/2020/03/announcing-unicode-standard-version-130.html">Unicode 13.0</fr:link> as one of the codepoints (precisely, <fr:code>U+30EDE</fr:code>; there's also 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hans">𰻝</html:span>
+
+ as <fr:code>U+30EDD</fr:code>) in CJK Unified Ideographs Extension G, the first block of the Tertiary Ideographic Plane.</fr:p><fr:p>This block also includes 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">𱁬</html:span>
+
+ (<fr:em>taito</fr:em>; <fr:em>daito</fr:em>; <fr:em>otodo</fr:em>; <fr:code>U+3106C</fr:code>), an 84-stroke behemoth made by sticking 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">䨺</html:span>
+
+ (<fr:em>tai</fr:em>; <fr:code>U+4A3A</fr:code>; itself three clouds 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">雲</html:span>
+
+ together, meaning "cloudy") and 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">龘</html:span>
+
+ (<fr:em>tou</fr:em>; <fr:code>U+9F98</fr:code>; three dragons 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">龍</html:span>
+
+, meant to resemble a dragon flying or climbing). It's a Japanese-coined character, or <fr:em>kokuji</fr:em> (
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">国字</html:span>
+
+), but the origins are fairly uncertain. In the early 1960s, a man showed a namecard with this surname to the staff of a brokerage office... or so it goes according to the 1981 <fr:link
+type="local"
+href="niwa-1981.xml"
+addr="niwa-1981"
+title="
+  
+  姓氏の語源
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">姓氏の語源</html:span>
+
+</fr:link>, an etymological dictionary of surnames. Some scholars think it's an erroneous ghost letter. 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">䨺龘</html:span>
+
+, written separately, was perhaps an alias. In any case, it's now the name of a <fr:link
+type="external"
+href="https://seg2017.com/otodo/">series of ramen shops</fr:link> starting in Kita-Matsudo (
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">北松戸</html:span>
+
+) in Chiba. I think I'd like to go there sometime.</fr:p><fr:p>It seems like some netizens have borrowed the character into Chinese, developing humorous neologisms like 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hant">𱁬𪚥</html:span>
+
+ (<fr:em>tài zhé</fr:em>; the latter character meaning "verbose"), meaning something like "excessively complicated (of a Chinese character)". One has to zoom in 200% to make anything of it.</fr:p><fr:p>In Chinese, there's also 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hant">䲜</html:span>
+
+ ("abundance of fish"; <fr:code>U+4C9C</fr:code>) and 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="zh-hant">䨻</html:span>
+
+ ("roar of thunder"; <fr:code>U+4A3B</fr:code>). In Japanese, there's <fr:link
+type="external"
+href="https://ksbookshelf.com/nozomu-oohara/WaseikanjiJiten/WaseikanjiJiten_81.html">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">𰽔</html:span>
+
+</fr:link> (<fr:em>kagami</fr:em>; <fr:code>U+30F54</fr:code>), which seems to me like a bewildering room of many mirrors. Maybe the folks working on the Noto CJK fonts will get to it one day.</fr:p><fr:p>Here are some new characters I'd like to propose, to further enrich the space of overly dense and illegible ideographs and make the Unicode people very sad:</fr:p>
+  
+
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>292</fr:anchor><fr:addr
+type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:title
+text="
+  
+">
+  <html:img
+xmlns:html="http://www.w3.org/1999/xhtml"
+src="zzhaoe-000Y/graveyard.svg"
+style="width: 1em" />
+</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A quadriplication of 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">墓</html:span>
+
+ ("grave"), meaning, of course, a graveyard.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>294</fr:anchor><fr:addr
+type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:title
+text="
+  
+">
+  <html:img
+xmlns:html="http://www.w3.org/1999/xhtml"
+src="zzhaoe-000Y/whale-squid.svg"
+style="width: 1em" />
+</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">鰞</html:span>
+
+ ("squid") + 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">鯨</html:span>
+
+ ("whale"), meaning a fight between a sperm whale and a colossal squid.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>296</fr:anchor><fr:addr
+type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:title
+text="
+  
+">
+  <html:img
+xmlns:html="http://www.w3.org/1999/xhtml"
+src="zzhaoe-000Y/forest-fire.svg"
+style="width: 1em" />
+</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">炎</html:span>
+
+ ("blaze") + 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">森</html:span>
+
+ ("forest"), meaning a forest fire and pronounced 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">カリフォルニア</html:span>
+
+.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>298</fr:anchor><fr:addr
+type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:title
+text="
+  
+">
+  <html:img
+xmlns:html="http://www.w3.org/1999/xhtml"
+src="zzhaoe-000Y/niagara-falls.svg"
+style="width: 1em" />
+</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">滝</html:span>
+
+ ("waterfall") <fr:tex
+display="inline"><![CDATA[*]]></fr:tex> 4, meaning Niagara Falls.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+<fr:p>This is, I suppose, something of an exaltation of larks, and I'm reminded of my copy of <fr:link
+type="local"
+href="jameslipton.xml"
+addr="jameslipton"
+title="James Lipton">James Lipton</fr:link>'s <fr:link
+type="local"
+href="lipton-1991.xml"
+addr="lipton-1991"
+title="An Exaltation of Larks">book</fr:link> (it must be somewhere in the boxes). It seems to me good sense to take 
+  <html:img
+xmlns:html="http://www.w3.org/1999/xhtml"
+src="zzhaoe-000Y/murder.svg"
+style="width: 1em" />
+ (a quadriplication of 
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">烏</html:span>
+
+, "crow") to mean a murder of crows, and to extend this principle to any other noun.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
