@@ -15,7 +15,10 @@ _writing="$_trees/writing"
 
 _usage_top="""usage: $0 <operation> [...]
 operations:
-    $0 new <kind>
+    $0 new <kind> [...]
+    $0 build
+    $0 serve [flags...]
+    $0 grow  [flags...]
 """
 
 _usage_new="""usage: $0 new <kind> [...]
@@ -29,6 +32,19 @@ kinds:
     $0 new writing     <taxon> <title>
 """
 
+_usage_build="""usage: $0 build
+"""
+
+_usage_serve="""usage: $0 serve [flags...]
+flags:
+    see: miniserve --help
+"""
+
+_usage_grow="""usage: $0 grow [flags...]
+flags:
+    see: miniserve --help
+"""
+
 _exit_usage_top() {
 	>&2 echo "$_usage_top"
 	exit 1
@@ -36,6 +52,16 @@ _exit_usage_top() {
 
 _exit_usage_new() {
 	>&2 echo "$_usage_new"
+	exit 1
+}
+
+_exit_usage_build() {
+	>&2 echo "$_usage_build"
+	exit 1
+}
+
+_exit_usage_grow() {
+	>&2 echo "$_usage_grow"
 	exit 1
 }
 
@@ -253,9 +279,19 @@ _new() {
 	esac
 }
 
+_build() {
+	if [ "$#" -ne 0 ]; then _exit_usage_build; fi
+
+  forester build
+}
+
+_serve() {
+  miniserve --index index.xml output "$@"
+}
+
 _grow() {
   watchexec -w trees -w theme -w assets forester build &
-  miniserve --index index.xml output
+  _serve "$@"
 }
 
 _clean() {
@@ -271,6 +307,14 @@ new)
 	_new "${@:2}"
 	exit 0
 	;;
+build)
+  _build "${@:2}"
+  exit 0
+  ;;
+serve)
+  _serve "${@:2}"
+  exit 0
+  ;;
 grow)
   _grow "${@:2}"
   exit 0
